@@ -1,0 +1,2001 @@
+statement,label
+"Exactly 3 of the following cities are in China: Hanoi, Huzhou, Kunshan, and Pingliang.",1
+"Exactly 2 of the following cities are in the United States: Maputo, Lome, Milwaukee, and Xianning.",0
+"Exactly 2 of the following cities are in Russia: Thane, Jeonju, N'Djamena, and Novosibirsk.",0
+"Exactly 2 of the following cities are in India: Asansol, Conakry, Yongzhou, and Weihai.",0
+"Exactly 2 of the following cities are in India: Santo Domingo Este, Guntur, Lusaka, and Nowrangapur.",1
+"Exactly 3 of the following cities are in China: Saitama, Anshun, Dandong, and Shuangyashan.",1
+"Exactly 2 of the following cities are in China: Denpasar, Laibin, Multan, and Suez.",0
+"Exactly 2 of the following cities are in Vietnam: Abuja, Bokaro, Ar Raqqah, and Hanoi.",0
+"Exactly 1 of the following cities are in Yemen: Sanaa, Kahriz, Al Ain City, and Dakar.",1
+"Exactly 1 of the following cities are in Jamaica: Zhoushan, Kuantan, Cotonou, and New Kingston.",1
+"Exactly 1 of the following cities are in Russia: Penza, Haiphong, Jinan, and Sapporo.",1
+"Exactly 1 of the following cities are in China: Cangzhou, Laiwu, Anshun, and Homyel'.",0
+"Exactly 1 of the following cities are in China: Chongqing, Kano, Handan, and Tyumen.",0
+"Exactly 1 of the following cities are in China: Muzaffarabad, Chaozhou, Wenzhou, and New York City.",0
+"Exactly 2 of the following cities are in China: Pingdingshan, Karaj, Guangzhou, and Zapopan.",1
+"Exactly 2 of the following cities are in Indonesia: Batam, Rahim Yar Khan, Durban, and Al Mahallah al Kubra.",0
+"Exactly 1 of the following cities are in Mexico: Ribeirao Preto, Ciudad Nezahualcoyotl, Moradabad, and Al Ain City.",1
+"Exactly 1 of the following cities are in Malaysia: Tomsk, Shah Alam, Dushanbe, and Oklahoma City.",1
+"Exactly 1 of the following cities are in India: Neijiang, Anshan, Nanded, and Victoria de Durango.",1
+"Exactly 1 of the following cities are in China: Guang'an, Las Pinas, Kigali, and Zhenjiang.",0
+"Exactly 2 of the following cities are in China: Xinyang, Kumamoto, Ulyanovsk, and Muzaffarabad.",0
+"Exactly 2 of the following cities are in China: Wuwei, Port Said, Kisangani, and Rui'an.",1
+"Exactly 1 of the following cities are in Brazil: Sanmenxia, Sao Bernardo do Campo, Joao Pessoa, and Malacca.",0
+"Exactly 1 of the following cities are in China: Rio de Janeiro, Luancheng, Xingtai, and Vladivostok.",0
+"Exactly 2 of the following cities are in Iran: Qom, Hamadan, Ilorin, and Leipzig.",1
+"Exactly 2 of the following cities are in China: Hefei, Lahore, Krasnodar, and Panshan.",1
+"Exactly 2 of the following cities are in Moldova: Bhiwandi, Aracaju, Chisinau, and Sargodha.",0
+"Exactly 1 of the following cities are in Russia: Hamadan, Okayama, Perm, and Huaibei.",1
+"Exactly 2 of the following cities are in China: Qom, Chaozhou, Tolyatti, and Chuzhou.",1
+"Exactly 2 of the following cities are in China: Tanggu, Benoni, Handan, and Belo Horizonte.",1
+"Exactly 3 of the following cities are in Cameroon: Hamhung, Xiaogan, Douala, and Turin.",0
+"Exactly 1 of the following cities are in Mexico: Putian, Torreon, Acapulco de Juarez, and Petaling Jaya.",0
+"Exactly 3 of the following cities are in China: Nanchong, Bhayandar, Weinan, and Shuangyashan.",1
+"Exactly 2 of the following cities are in China: Huaibei, Teresina, Esenler, and Mombasa.",0
+"Exactly 1 of the following cities are in China: Heze, Gwalior, Kathmandu, and Yongzhou.",0
+"Exactly 2 of the following cities are in Nigeria: Benin City, Weinan, Volgograd, and Jos.",1
+"Exactly 2 of the following cities are in Algeria: Subang Jaya, Astrakhan, Ma'anshan, and Tebessa.",0
+"Exactly 2 of the following cities are in India: Rohini, Conakry, Ghaziabad, and Al Ain City.",1
+"Exactly 2 of the following cities are in Malaysia: Hwaseong-si, Casablanca, Shivaji Nagar, and Ipoh.",0
+"Exactly 1 of the following cities are in India: Busan, Tijuana, Thane, and Bilimora.",0
+"Exactly 2 of the following cities are in China: Urumqi, South Tangerang, Dhanbad, and Antalya.",0
+"Exactly 3 of the following cities are in Nigeria: Oyo, Ulan Bator, Haiphong, and Victoria de Durango.",0
+"Exactly 1 of the following cities are in China: Liupanshui, Sanya, Herat, and Al Hudaydah.",0
+"Exactly 2 of the following cities are in China: Hamhung, Shenzhen, Tlalpan, and Kolhapur.",0
+"Exactly 2 of the following cities are in Germany: Dortmund, Bahcelievler, Asansol, and Wanzhou.",0
+"Exactly 2 of the following cities are in Finland: Rizhao, San Luis Potosi, Helsinki, and Tyumen.",0
+"Exactly 2 of the following cities are in China: Shenzhen, Diyarbakir, Hengyang, and Lilongwe.",1
+"Exactly 2 of the following cities are in China: Latakia, Zhangjiagang, Dalian, and Paranaque City.",1
+"Exactly 2 of the following cities are in Indonesia: Dehra Dun, Oyo, Serang, and Jambi City.",1
+"Exactly 2 of the following cities are in Germany: Rajkot, Huzhou, Grosszschocher, and Suqian.",0
+"Exactly 2 of the following cities are in China: Guiyang, Suizhou, Chelyabinsk, and Stockholm.",1
+"Exactly 1 of the following cities are in China: Santiago de los Caballeros, Kakamega, Baoji, and Chicago.",1
+"Exactly 1 of the following cities are in Kenya: Shangrao, Porto Velho, Kakamega, and Prayagraj.",1
+"Exactly 1 of the following cities are in Brazil: Santa Maria Chimalhuacan, Cuiaba, Aden, and Nanning.",1
+"Exactly 1 of the following cities are in Italy: Vijayawada, Turin, Shihezi, and Sargodha.",1
+"Exactly 2 of the following cities are in China: Nanchong, Coyoacan, Nanning, and Al Ahmadi.",1
+"Exactly 1 of the following cities are in China: Visakhapatnam, Yangjiang, E'zhou, and Harare.",0
+"Exactly 1 of the following cities are in Morocco: Hamadan, Aligarh, Casablanca, and Urumqi.",1
+"Exactly 2 of the following cities are in China: Mandalay, Puning, Ningbo, and Sao Paulo.",1
+"Exactly 1 of the following cities are in China: Hwaseong-si, Jiamusi, Daejeon, and Qiqihar.",0
+"Exactly 1 of the following cities are in China: Bouake, Buraydah, Wuwei, and Changde.",0
+"Exactly 1 of the following cities are in China: Mexicali, Dortmund, Huangshi, and Shangluo.",0
+"Exactly 2 of the following cities are in China: Wuhan, Abobo, Addis Ababa, and Bareilly.",0
+"Exactly 2 of the following cities are in Brazil: Recife, Ribeirao Preto, Thane, and Naucalpan de Juarez.",1
+"Exactly 1 of the following cities are in the United Arab Emirates: Nanning, Sharjah, Rourkela, and Quezon City.",1
+"Exactly 2 of the following cities are in China: Zhangzhou, Abu Dhabi, Milwaukee, and Yinchuan.",1
+"Exactly 1 of the following cities are in India: San Pedro Sula, Guang'an, Najafgarh, and Ahvaz.",1
+"Exactly 1 of the following cities are in China: Xining, Pingliang, Durban, and Kleinzschocher.",0
+"Exactly 2 of the following cities are in India: Qiqihar, Chongqing, Kallakurichi, and Pune.",1
+"Exactly 2 of the following cities are in Nigeria: Ebute Ikorodu, Baku, Herat, and Kano.",1
+"Exactly 1 of the following cities are in Russia: Chisinau, Orenburg, Jinan, and Batam.",1
+"Exactly 1 of the following cities are in China: Xiaogan, Xianning, Suwon, and Saratov.",0
+"Exactly 2 of the following cities are in India: Moradabad, Bishkek, Culiacan, and Jabalpur.",1
+"Exactly 2 of the following cities are in India: Najran, Bokaro, Abobo, and Zagreb.",0
+"Exactly 2 of the following cities are in the United Arab Emirates: Dubai, Makhachkala, Xuzhou, and Penza.",0
+"Exactly 1 of the following cities are in Malaysia: Kota Bharu, Istanbul, Aguascalientes, and Klang.",0
+"Exactly 1 of the following cities are in Indonesia: Surakarta, Barquisimeto, Borivli, and Zunyi.",1
+"Exactly 2 of the following cities are in Iraq: Al Basrah al Qadimah, Maiduguri, Abu Ghurayb, and Ilorin.",1
+"Exactly 1 of the following cities are in Bulgaria: Sofia, Puducherry, Ordos, and Omdurman.",1
+"Exactly 2 of the following cities are in Brazil: Meizhou, Nairobi, Brasilia, and Feira de Santana.",1
+"Exactly 2 of the following cities are in Turkey: Cankaya, Ciudad Guayana, Ordos, and Cebu City.",0
+"Exactly 2 of the following cities are in China: Santo Domingo Este, Ecatepec de Morelos, Kashgar, and Nanchong.",1
+"Exactly 2 of the following cities are in China: Feira de Santana, Linyi, Harbin, and Kampala.",1
+"Exactly 2 of the following cities are in the Dominican Republic: Santo Domingo Oeste, Oyo, Al Fayyum, and Chiclayo.",0
+"Exactly 2 of the following cities are in Nepal: Kathmandu, Nampula, Xiaogan, and N'Djamena.",0
+"Exactly 1 of the following cities are in Turkey: Ciudad Juarez, Bursa, Nizhniy Novgorod, and Qinzhou.",1
+"Exactly 1 of the following cities are in Russia: Tebessa, Nyala, Tyumen, and Bursa.",1
+"Exactly 2 of the following cities are in China: Orumiyeh, Guang'an, Weihai, and Paranaque City.",1
+"Exactly 2 of the following cities are in India: Asuncion, Thiruvananthapuram, Kanayannur, and Abuja.",1
+"Exactly 1 of the following cities are in China: Chongqing, Dongying, Busan, and Huzhou.",0
+"Exactly 1 of the following cities are in India: Dhanbad, Ajmer, Onitsha, and Seoul.",0
+"Exactly 1 of the following cities are in China: Dnipro, Nanjing, Amravati, and Ebute Ikorodu.",1
+"Exactly 2 of the following cities are in China: Qom, Bayannur, Bauchi, and Sanmenxia.",1
+"Exactly 2 of the following cities are in China: Zhaotong, Puducherry, Baghdad, and Arak.",0
+"Exactly 3 of the following cities are in India: Suizhou, Tegucigalpa, Kumasi, and Kanayannur.",0
+"Exactly 2 of the following cities are in India: Yaroslavl, Jiujiang, Tijuana, and Sangli.",0
+"Exactly 2 of the following cities are in China: Huaibei, Kryvyy Rih, Nyala, and Shangqiu.",1
+"Exactly 1 of the following cities are in Iran: Goyang-si, Karaj, Mysore, and Juiz de Fora.",1
+"Exactly 2 of the following cities are in China: Shangluo, Douala, Zhabei, and Makhachkala.",1
+"Exactly 2 of the following cities are in China: Jingmen, Kuala Lumpur, Nay Pyi Taw, and Tabriz.",0
+"Exactly 2 of the following cities are in India: Nashik, Bogor, Dhanbad, and Haiphong.",1
+"Exactly 1 of the following cities are in China: Winnipeg, Sanming, Yongzhou, and Bhiwandi.",0
+"Exactly 3 of the following cities are in Turkey: Samarinda, Antalya, Multan, and Ciudad Guayana.",0
+"Exactly 2 of the following cities are in China: Mississauga, Xianyang, Ouagadougou, and Pingdingshan.",1
+"Exactly 2 of the following cities are in India: Amritsar, Bekasi, Faridabad, and Kathmandu.",1
+"Exactly 2 of the following cities are in China: Mudanjiang, Meizhou, Indianapolis, and Samarkand.",1
+"Exactly 2 of the following cities are in Turkey: Volgograd, Mosul, Queens, and Ankara.",0
+"Exactly 2 of the following cities are in the United States: Baotou, Tucson, Florianopolis, and Queens.",1
+"Exactly 1 of the following cities are in Iran: Al Mahallah al Kubra, Benxi, Qom, and Brazzaville.",1
+"Exactly 1 of the following cities are in China: Isfahan, Chuzhou, Rio de Janeiro, and Hangzhou.",0
+"Exactly 2 of the following cities are in China: Feira de Santana, Novokuznetsk, Tabriz, and Huangshi.",0
+"Exactly 2 of the following cities are in Mozambique: Leipzig, Maputo, Tlalpan, and Matola.",1
+"Exactly 1 of the following cities are in China: Chongqing, Tebessa, Liaocheng, and Palembang.",0
+"Exactly 2 of the following cities are in China: Qujing, Harare, Huangshi, and Faisalabad.",1
+"Exactly 2 of the following cities are in China: Yichang, Tlaquepaque, Shuangyashan, and Shivaji Nagar.",1
+"Exactly 1 of the following cities are in Malaysia: Bilimora, Maputo, Abuja, and Johor Bahru.",1
+"Exactly 2 of the following cities are in China: Bogor, Nanjing, Ma'anshan, and Visakhapatnam.",1
+"Exactly 1 of the following cities are in China: Dnipro, Detroit, Chandigarh, and Nanchang.",1
+"Exactly 2 of the following cities are in Ghana: Accra, Shenyang, Penza, and Shijiazhuang.",0
+"Exactly 2 of the following cities are in China: Sarajevo, Maiduguri, Oyo, and Huaibei.",0
+"Exactly 2 of the following cities are in Honduras: Shenzhen, Al Hudaydah, Hamhung, and Tegucigalpa.",0
+"Exactly 2 of the following cities are in China: Taicang, Matsuyama, Dar es Salaam, and Sanya.",1
+"Exactly 2 of the following cities are in China: Nanchong, South Tangerang, Quzhou, and Leipzig.",1
+"Exactly 2 of the following cities are in Brazil: Erode, Florianopolis, Ipoh, and Comilla.",0
+"Exactly 2 of the following cities are in Kenya: Duque de Caxias, Khartoum, Sofia, and Kakamega.",0
+"Exactly 2 of the following cities are in China: Sao Jose dos Campos, Aleppo, Xiangtan, and Bayannur.",1
+"Exactly 2 of the following cities are in Nepal: Hanzhong, Bucaramanga, Antwerpen, and Kathmandu.",0
+"Exactly 2 of the following cities are in Lebanon: Tyumen, Suqian, Seongnam-si, and Beirut.",0
+"Exactly 2 of the following cities are in China: Daejeon, Haiphong, Fushun, and Panzhihua.",1
+"Exactly 2 of the following cities are in China: Ziyang, Fuxin, Ufa, and Rawalpindi.",1
+"Exactly 1 of the following cities are in China: Kolkata, Zhengzhou, Lubumbashi, and Chizhou.",0
+"Exactly 1 of the following cities are in Malaysia: Heze, Kampung Baru Subang, Nanjing, and Bujumbura.",1
+"Exactly 2 of the following cities are in Ethiopia: Addis Ababa, Kuantan, Cixi, and Ma'anshan.",0
+"Exactly 2 of the following cities are in Iraq: Shubra al Khaymah, Erzurum, Daejeon, and Erbil.",0
+"Exactly 2 of the following cities are in Ecuador: Quito, Guankou, Bursa, and Aleppo.",0
+"Exactly 2 of the following cities are in Pakistan: Munich, Meerut, Huzhou, and Multan.",0
+"Exactly 2 of the following cities are in Mexico: Changchun, Samarinda, Jaipur, and Mexico City.",0
+"Exactly 2 of the following cities are in Vietnam: Luancheng, Bishkek, Can Tho, and Rostov-na-Donu.",0
+"Exactly 2 of the following cities are in China: Bhilai, Anyang, Suizhou, and Shubra al Khaymah.",1
+"Exactly 2 of the following cities are in Vietnam: New South Memphis, San Luis Potosi, Thuan An, and Minsk.",0
+"Exactly 3 of the following cities are in Russia: Stockholm, Xianyang, Iztapalapa, and Barnaul.",0
+"Exactly 2 of the following cities are in China: Faridabad, Heze, Bagcilar, and Baise.",1
+"Exactly 1 of the following cities are in India: Surat, Putian, Teresina, and Coimbatore.",0
+"Exactly 2 of the following cities are in Malaysia: Zibo, Shah Alam, Tokyo, and Bamako.",0
+"Exactly 3 of the following cities are in China: Qingdao, Fushun, Jieyang, and Pune.",1
+"Exactly 2 of the following cities are in China: Tijuana, Luohe, Hegang, and Malatya.",1
+"Exactly 2 of the following cities are in Belarus: Homyel', Shubra al Khaymah, Hohhot, and Onitsha.",0
+"Exactly 2 of the following cities are in India: Krakow, Jalandhar, Jaipur, and Kimhae.",1
+"Exactly 3 of the following cities are in Vietnam: Yekaterinburg, Madinat an Nasr, Ulhasnagar, and Ho Chi Minh City.",0
+"Exactly 2 of the following cities are in China: Jiaozhou, Deyang, San Miguel de Tucuman, and Karol Bagh.",1
+"Exactly 2 of the following cities are in China: Yaroslavl, Balikpapan, Wuzhou, and Puente Alto.",0
+"Exactly 3 of the following cities are in Kenya: Mombasa, San Miguel de Tucuman, Conakry, and Kalininskiy.",0
+"Exactly 1 of the following cities are in China: Prayagraj, Guang'an, Kolkata, and Sanmenxia.",0
+"Exactly 3 of the following cities are in China: Jieyang, Ma'anshan, Yangon, and Wuwei.",1
+"Exactly 1 of the following cities are in Iran: Gold Coast, Ghaziabad, Isfahan, and Kahriz.",0
+"Exactly 2 of the following cities are in Turkey: Ashgabat, Bhavnagar, Ankara, and Yongzhou.",0
+"Exactly 1 of the following cities are in China: Jingmen, Suining, Ufa, and Bikaner.",0
+"Exactly 2 of the following cities are in Nigeria: Port Harcourt, Jeonju, Caloocan City, and Ryazan'.",0
+"Exactly 1 of the following cities are in China: Qujing, Izmir, Hohhot, and Kota Bharu.",0
+"Exactly 2 of the following cities are in China: Tabriz, Guigang, Shubra al Khaymah, and Liuzhou.",1
+"Exactly 3 of the following cities are in China: Bayannur, Huizhou, Baoji, and Grosszschocher.",1
+"Exactly 1 of the following cities are in Brazil: Recife, Ribeirao Preto, Thane, and Naucalpan de Juarez.",0
+"Exactly 1 of the following cities are in Russia: Lubumbashi, Yaroslavl, Daejeon, and Aleppo.",1
+"Exactly 3 of the following cities are in China: Kunshan, Rangpur, Yunfu, and Shenyang.",1
+"Exactly 1 of the following cities are in Russia: Istanbul, Zhoushan, Yaroslavl, and Campos dos Goytacazes.",1
+"Exactly 2 of the following cities are in Japan: Chengdu, Warri, Fukuoka, and Jos.",0
+"Exactly 3 of the following cities are in China: Qujing, Baotou, Guwahati, and Zhumadian.",1
+"Exactly 1 of the following cities are in India: Sanaa, Shijiazhuang, Mogadishu, and Dehra Dun.",1
+"Exactly 3 of the following cities are in Sweden: Orenburg, Stockholm, Addis Ababa, and Xingtai.",0
+"Exactly 1 of the following cities are in China: Manaus, Prayagraj, Sevastopol, and Qinzhou.",1
+"Exactly 2 of the following cities are in China: Zhangye, Abobo, Benxi, and Kampala.",1
+"Exactly 1 of the following cities are in Iran: Koeln, Orumiyeh, Johor Bahru, and Sao Paulo.",1
+"Exactly 1 of the following cities are in Brazil: Neijiang, Eskisehir, Brasilia, and Bhavnagar.",1
+"Exactly 3 of the following cities are in China: Shanghai, Xuchang, Suwon, and Anyang.",1
+"Exactly 2 of the following cities are in China: Shihezi, General Santos, Eskisehir, and Xiaogan.",1
+"Exactly 2 of the following cities are in Ukraine: Bokaro, Oslo, Yekaterinburg, and Kryvyy Rih.",0
+"Exactly 1 of the following cities are in China: Haiphong, Chaozhou, Zhaotong, and Kyiv.",0
+"Exactly 2 of the following cities are in Brazil: Sao Jose dos Campos, Belo Horizonte, Panshan, and Cixi.",1
+"Exactly 1 of the following cities are in China: Zhaotong, Sao Paulo, Jakarta, and Luancheng.",0
+"Exactly 1 of the following cities are in Iran: Isfahan, Warri, Huaihua, and Makati City.",1
+"Exactly 2 of the following cities are in Russia: Saratov, Nanning, Stockholm, and Guang'an.",0
+"Exactly 2 of the following cities are in China: Hamamatsu, Dombivli, Dongying, and Dandong.",1
+"Exactly 3 of the following cities are in China: Pretoria, Weifang, Chongqing, and Yinchuan.",1
+"Exactly 2 of the following cities are in India: Tiruchirappalli, Zhaoqing, Mexico City, and Puente Alto.",0
+"Exactly 2 of the following cities are in Iraq: Sanya, Karbala, Pingliang, and Libreville.",0
+"Exactly 1 of the following cities are in China: Lianyungang, Krasnoyarsk, Panzhihua, and Barquisimeto.",0
+"Exactly 2 of the following cities are in China: Bokaro, Shangrao, Ouagadougou, and Luohe.",1
+"Exactly 2 of the following cities are in Benin: Daqing, Zhaotong, Aktobe, and Cotonou.",0
+"Exactly 1 of the following cities are in Indonesia: Surakarta, Ganzhou, Hamhung, and Langfang.",1
+"Exactly 2 of the following cities are in Mozambique: Maputo, Sevastopol, Kisangani, and Las Pinas.",0
+"Exactly 2 of the following cities are in China: Shantou, Harare, Korla, and Nyala.",1
+"Exactly 2 of the following cities are in Canada: Aparecida de Goiania, Winnipeg, Penza, and Callao.",0
+"Exactly 2 of the following cities are in South Korea: Ansan-si, Harbin, Semarang, and Mexicali.",0
+"Exactly 2 of the following cities are in China: Grosszschocher, Langfang, Banjarmasin, and Urumqi.",1
+"Exactly 2 of the following cities are in China: Suwon, Hegang, Fushun, and Mbuji-Mayi.",1
+"Exactly 3 of the following cities are in China: Hamhung, Kunshan, Jiujiang, and Luancheng.",1
+"Exactly 2 of the following cities are in China: Haiphong, Ta'if, Zhumadian, and Pietermaritzburg.",0
+"Exactly 1 of the following cities are in China: Kisangani, Multan, Al Hudaydah, and Luzhou.",1
+"Exactly 2 of the following cities are in China: Homyel', Qingdao, Urumqi, and Dubai.",1
+"Exactly 1 of the following cities are in Iraq: Kobe, Sulaymaniyah, Erbil, and Changchun.",0
+"Exactly 2 of the following cities are in China: Lu'an, Jiamusi, Novosibirsk, and Callao.",1
+"Exactly 2 of the following cities are in China: Rizhao, Ho Chi Minh City, Heze, and Meknes.",1
+"Exactly 1 of the following cities are in Australia: Gold Coast, Guigang, Sarajevo, and Seongnam-si.",1
+"Exactly 1 of the following cities are in Croatia: Zagreb, Izmir, Haiphong, and Wuwei.",1
+"Exactly 1 of the following cities are in China: Wuhan, Qom, Kashgar, and Wanxian.",0
+"Exactly 2 of the following cities are in China: Vilnius, Yunfu, Zhengzhou, and Niamey.",1
+"Exactly 3 of the following cities are in China: Handan, Maputo, New Kingston, and Wanning.",0
+"Exactly 1 of the following cities are in the Philippines: Abuja, Longyan, Las Pinas, and Kanayannur.",1
+"Exactly 2 of the following cities are in Poland: Latakia, Kitakyushu, Wanzhou, and Lodz.",0
+"Exactly 1 of the following cities are in Cameroon: Yaounde, Jaipur, Ashgabat, and Luancheng.",1
+"Exactly 1 of the following cities are in Japan: Ma'anshan, Shanghai, Nagoya, and Kotli.",1
+"Exactly 2 of the following cities are in Cameroon: Douala, Xuchang, Tolyatti, and Taicang.",0
+"Exactly 2 of the following cities are in China: Urumqi, Changshu, Ibague, and Jiaozuo.",0
+"Exactly 2 of the following cities are in Japan: Duque de Caxias, Al Mahallah al Kubra, Tokyo, and Brazzaville.",0
+"Exactly 2 of the following cities are in Mauritania: Aligarh, Xinyang, Macapa, and Nouakchott.",0
+"Exactly 3 of the following cities are in Brazil: Mombasa, San Luis Potosi, Laibin, and Ribeirao Preto.",0
+"Exactly 2 of the following cities are in Mexico: Putian, Torreon, Acapulco de Juarez, and Petaling Jaya.",1
+"Exactly 2 of the following cities are in China: Hengyang, Abidjan, Kunshan, and Asmara.",1
+"Exactly 1 of the following cities are in China: Qujing, Baotou, Guwahati, and Zhumadian.",0
+"Exactly 2 of the following cities are in China: Liupanshui, Sanya, Herat, and Al Hudaydah.",1
+"Exactly 2 of the following cities are in Iran: Budapest, Kermanshah, Antalya, and Basrah.",0
+"Exactly 2 of the following cities are in Jamaica: Guatemala City, New Kingston, Ulsan, and Davao.",0
+"Exactly 1 of the following cities are in Turkey: Jiamusi, Dandong, Bahcelievler, and Maputo.",1
+"Exactly 2 of the following cities are in India: Chennai, Ulhasnagar, Wanxian, and Lviv.",1
+"Exactly 2 of the following cities are in Turkey: Gaziantep, Visakhapatnam, Ibague, and Bijie.",0
+"Exactly 1 of the following cities are in China: Kuantan, Zibo, Daejeon, and Baku.",1
+"Exactly 2 of the following cities are in China: Shijiazhuang, Kaduna, Johannesburg, and Hangzhou.",1
+"Exactly 2 of the following cities are in South Africa: Cape Town, Hanzhong, Nanning, and Paranaque City.",0
+"Exactly 3 of the following cities are in India: Suez, Esenler, Jaipur, and Varanasi.",0
+"Exactly 1 of the following cities are in China: Zhangzhou, Abu Dhabi, Milwaukee, and Yinchuan.",0
+"Exactly 1 of the following cities are in China: Zhangzhou, Abu Dhabi, Jiangmen, and Antwerpen.",0
+"Exactly 2 of the following cities are in Turkey: Homs, Orenburg, Diyarbakir, and Quezon City.",0
+"Exactly 2 of the following cities are in the Philippines: Ipoh, Caloocan City, Moradabad, and Zhaotong.",0
+"Exactly 3 of the following cities are in Saudi Arabia: Mandalay, Latakia, Kuantan, and Buraydah.",0
+"Exactly 1 of the following cities are in China: Saitama, Shuangyashan, Weinan, and Rui'an.",0
+"Exactly 1 of the following cities are in Turkey: Gaziantep, Krasnoyarsk, Bahcelievler, and Abu Dhabi.",0
+"Exactly 1 of the following cities are in the Republic of the Congo: Brazzaville, Guigang, Las Pinas, and Zaporizhzhya.",1
+"Exactly 2 of the following cities are in China: Contagem, Asansol, Lu'an, and Klang.",0
+"Exactly 2 of the following cities are in China: Sendai, Yongzhou, Zhabei, and Sorocaba.",1
+"Exactly 2 of the following cities are in Japan: Kawaguchi, Himeji, Khabarovsk Vtoroy, and Mukalla.",1
+"Exactly 1 of the following cities are in Indonesia: Casablanca, Zhangye, Banjarmasin, and Bamako.",1
+"Exactly 1 of the following cities are in India: Contagem, Karol Bagh, Makassar, and Vadodara.",0
+"Exactly 1 of the following cities are in China: Khabarovsk Vtoroy, Hwaseong-si, Chaozhou, and Jingmen.",0
+"Exactly 3 of the following cities are in Brazil: Maturin, Ulyanovsk, Jaboatao dos Guararapes, and Abu Dhabi.",0
+"Exactly 2 of the following cities are in China: Herat, Weihai, Kharkiv, and Wuzhou.",1
+"Exactly 2 of the following cities are in Japan: Sorocaba, Klang, Sapporo, and Matsuyama.",1
+"Exactly 1 of the following cities are in China: General Santos, Thane, Mudanjiang, and Can Tho.",1
+"Exactly 2 of the following cities are in Malaysia: Bishkek, Johor Bahru, Mazar-e Sharif, and Suqian.",0
+"Exactly 2 of the following cities are in Algeria: Stockholm, Yangjiang, Algiers, and Surat.",0
+"Exactly 2 of the following cities are in Pakistan: Al Hudaydah, Klang, Sargodha, and Karol Bagh.",0
+"Exactly 1 of the following cities are in Benin: Cotonou, Bokaro, Najran, and Shantou.",1
+"Exactly 1 of the following cities are in Iran: Korla, Chizhou, Tehran, and Santiago de Cuba.",1
+"Exactly 2 of the following cities are in Brazil: Londrina, Zaporizhzhya, Sao Jose dos Campos, and Ha'il.",1
+"Exactly 2 of the following cities are in China: Guang'an, Las Pinas, Kigali, and Zhenjiang.",1
+"Exactly 2 of the following cities are in Iran: Suwon, Arequipa, Batam, and Tehran.",0
+"Exactly 3 of the following cities are in Russia: Bareilly, Naberezhnyye Chelny, Davao, and Belo Horizonte.",0
+"Exactly 1 of the following cities are in India: Bareilly, Tabriz, Khabarovsk, and Yunfu.",1
+"Exactly 2 of the following cities are in China: Baoji, Shijiazhuang, Jaboatao dos Guararapes, and Kampala.",1
+"Exactly 3 of the following cities are in Eritrea: Puente Alto, New South Memphis, Ningbo, and Asmara.",0
+"Exactly 1 of the following cities are in Egypt: Odesa, Madinat an Nasr, Malatya, and Lahore.",1
+"Exactly 2 of the following cities are in China: Duque de Caxias, Riga, Irbid, and Longyan.",0
+"Exactly 2 of the following cities are in Chile: Mar del Plata, Puente Alto, Munich, and Al Ain City.",0
+"Exactly 1 of the following cities are in Russia: Kagoshima, Kalininskiy, Santiago de Queretaro, and Ma'anshan.",1
+"Exactly 2 of the following cities are in China: Zhangzhou, Abu Dhabi, Jiangmen, and Antwerpen.",1
+"Exactly 2 of the following cities are in China: Weinan, Rajshahi, Shangyu, and Kimhae.",1
+"Exactly 2 of the following cities are in India: Yangon, Chandigarh, Taguig, and Kota Kinabalu.",0
+"Exactly 1 of the following cities are in India: Guarulhos, Chennai, Varanasi, and Kampala.",0
+"Exactly 1 of the following cities are in Brazil: Juiz de Fora, Caracas, Amritsar, and Gold Coast.",1
+"Exactly 1 of the following cities are in China: Sambhaji Nagar, Qiqihar, Multan, and Shihezi.",0
+"Exactly 2 of the following cities are in Hungary: Joao Pessoa, Budapest, Helsinki, and Algiers.",0
+"Exactly 2 of the following cities are in India: Dombivli, Ranchi, Aktobe, and Yingkou.",1
+"Exactly 3 of the following cities are in China: Luancheng, Karachi, Shenzhen, and Tanggu.",1
+"Exactly 2 of the following cities are in Vietnam: Hanoi, Shymkent, Jalandhar, and Bikaner.",0
+"Exactly 3 of the following cities are in Madagascar: Antananarivo, Baghdad, Basrah, and Goiania.",0
+"Exactly 2 of the following cities are in China: Nanjing, Nashik, Wanning, and Najafgarh.",1
+"Exactly 2 of the following cities are in India: Hegang, Tiruppur, Vilnius, and Bhavnagar.",1
+"Exactly 2 of the following cities are in China: Makati City, Ciudad Nezahualcoyotl, Siping, and Weinan.",1
+"Exactly 2 of the following cities are in China: Pingdingshan, Budapest, Goyang-si, and Wanning.",1
+"Exactly 2 of the following cities are in China: Klang, Huainan, Bekasi, and Brasilia.",0
+"Exactly 2 of the following cities are in China: Sharjah, Kobe, Langfang, and Hefei.",1
+"Exactly 2 of the following cities are in Mexico: Bahawalpur, Peshawar, Sapporo, and Tijuana.",0
+"Exactly 3 of the following cities are in Poland: Novokuznetsk, Kandahar, Poznan, and Anshun.",0
+"Exactly 2 of the following cities are in China: Phnom Penh, Dar es Salaam, Weinan, and Tashkent.",0
+"Exactly 2 of the following cities are in South Africa: Saitama, Sevastopol, Tembisa, and Solapur.",0
+"Exactly 2 of the following cities are in Turkey: Antalya, Istanbul, Yerevan, and Phnom Penh.",1
+"Exactly 2 of the following cities are in China: Rui'an, Wuzhou, Lome, and Baghdad.",1
+"Exactly 2 of the following cities are in Turkey: Bursa, Shijiazhuang, Diyarbakir, and Guarulhos.",1
+"Exactly 2 of the following cities are in Mexico: Torreon, Sanming, Santiago de los Caballeros, and Guangzhou.",0
+"Exactly 2 of the following cities are in China: Sarajevo, Tokyo, Jiaozhou, and Dalian.",1
+"Exactly 2 of the following cities are in Egypt: Port Said, Batam, Tyumen, and Krasnoyarsk.",0
+"Exactly 1 of the following cities are in China: New South Memphis, Oyo, Zhanjiang, and Pingliang.",0
+"Exactly 3 of the following cities are in Kenya: Maracay, Shenzhen, Dhanbad, and Kakamega.",0
+"Exactly 1 of the following cities are in China: Grosszschocher, Langfang, Banjarmasin, and Urumqi.",0
+"Exactly 2 of the following cities are in the Philippines: Quezon City, Konya, Hezhou, and Wuhan.",0
+"Exactly 1 of the following cities are in India: Shivaji Nagar, Mosul, Rohini, and Makati City.",0
+"Exactly 2 of the following cities are in Belarus: Bengbu, Bishkek, Qinzhou, and Homyel'.",0
+"Exactly 2 of the following cities are in China: Qinhuangdao, Madurai, Tianjin, and Suez.",1
+"Exactly 1 of the following cities are in India: Krasnodar, Port Harcourt, Mumbai, and Rohini.",0
+"Exactly 1 of the following cities are in Uzbekistan: Tashkent, Zarqa, Harbin, and Bouake.",1
+"Exactly 2 of the following cities are in China: Shenzhen, Can Tho, Almaty, and Santo Domingo Este.",0
+"Exactly 3 of the following cities are in China: Abidjan, Kaduna, Douala, and Anshun.",0
+"Exactly 2 of the following cities are in China: Herat, Ibague, Zhoushan, and Putian.",1
+"Exactly 1 of the following cities are in Nigeria: Benin City, Weinan, Volgograd, and Jos.",0
+"Exactly 2 of the following cities are in China: Guang'an, Luohe, Maceio, and Aleppo.",1
+"Exactly 2 of the following cities are in Nigeria: Ibadan, Lome, Jakarta, and Abeokuta.",1
+"Exactly 3 of the following cities are in China: Krasnodar, Suizhou, Cixi, and Jaboatao.",0
+"Exactly 2 of the following cities are in Brazil: Fortaleza, Cape Town, Dombivli, and Maceio.",1
+"Exactly 1 of the following cities are in China: Bhayandar, Onitsha, Zhaoqing, and Suqian.",0
+"Exactly 2 of the following cities are in China: Zhoushan, Odesa, Kathmandu, and Ganzhou.",1
+"Exactly 2 of the following cities are in India: Varanasi, Kampala, Bogor, and Kanayannur.",1
+"Exactly 2 of the following cities are in India: Eskisehir, Johor Bahru, Mumbai, and Chennai.",1
+"Exactly 3 of the following cities are in Turkey: Hwaseong-si, Adana, Rohini, and Kakamega.",0
+"Exactly 3 of the following cities are in Jordan: Zarqa, Dar es Salaam, Bhubaneswar, and Zaporizhzhya.",0
+"Exactly 2 of the following cities are in China: Chizhou, Teresina, Kathmandu, and Zhaotong.",1
+"Exactly 2 of the following cities are in Saudi Arabia: Ajmer, Buraydah, Yaroslavl, and Tashkent.",0
+"Exactly 1 of the following cities are in China: Abuja, Queens, Wenzhou, and Dushanbe.",1
+"Exactly 2 of the following cities are in Madagascar: Douala, Kyiv, Antananarivo, and Zhaoqing.",0
+"Exactly 3 of the following cities are in Pakistan: Kanayannur, Arak, Daqing, and Multan.",0
+"Exactly 2 of the following cities are in Nigeria: Ebute Ikorodu, Xianning, Puente Alto, and Suizhou.",0
+"Exactly 1 of the following cities are in Brazil: Guarulhos, Bahcelievler, Barquisimeto, and Wanxian.",1
+"Exactly 1 of the following cities are in China: Pingdingshan, Konya, Hebi, and Kaduna.",0
+"Exactly 2 of the following cities are in China: Deyang, Okayama, Mexicali, and Huaihua.",1
+"Exactly 2 of the following cities are in China: Prayagraj, Guang'an, Kolkata, and Sanmenxia.",1
+"Exactly 1 of the following cities are in Brazil: Suez, Sao Bernardo do Campo, Siliguri, and Juiz de Fora.",0
+"Exactly 1 of the following cities are in the United States: Riga, Queens, Florianopolis, and Dubai.",1
+"Exactly 2 of the following cities are in Iraq: Kobe, Sulaymaniyah, Erbil, and Changchun.",1
+"Exactly 2 of the following cities are in China: Chelyabinsk, Chenzhou, Joao Pessoa, and Urumqi.",1
+"Exactly 3 of the following cities are in Colombia: Osaka, Bikaner, Makassar, and Barranquilla.",0
+"Exactly 2 of the following cities are in China: Zhengzhou, Shivaji Nagar, Brasilia, and Harbin.",1
+"Exactly 1 of the following cities are in China: Johannesburg, Abidjan, Seattle, and Longyan.",1
+"Exactly 1 of the following cities are in South Korea: Goyang-si, Borivli, Zhaotong, and Daejeon.",0
+"Exactly 2 of the following cities are in Latvia: Aracaju, Samarinda, Riga, and Lome.",0
+"Exactly 2 of the following cities are in the United States: Milwaukee, Ulyanovsk, New York City, and Erode.",1
+"Exactly 2 of the following cities are in India: Kota Bharu, Bhiwandi, Ajmer, and Ulsan.",1
+"Exactly 2 of the following cities are in China: Kryvyy Rih, Wuzhou, Anshan, and Nova Iguacu.",1
+"Exactly 2 of the following cities are in India: Cape Town, Callao, Surat, and Sanmenxia.",0
+"Exactly 1 of the following cities are in Brazil: Pasig City, Sevastopol, Teresina, and Siliguri.",1
+"Exactly 2 of the following cities are in Indonesia: Bhavnagar, Johannesburg, Anqing, and Pontianak.",0
+"Exactly 2 of the following cities are in Mexico: San Luis Potosi, Ciudad Nezahualcoyotl, Suizhou, and Heze.",1
+"Exactly 2 of the following cities are in Russia: Naberezhnyye Chelny, Yekaterinburg, Tucson, and Belo Horizonte.",1
+"Exactly 1 of the following cities are in the United Arab Emirates: Nashik, Sharjah, Kayseri, and Shihezi.",1
+"Exactly 2 of the following cities are in Benin: Cancun, Cotonou, Tirunelveli, and Liaocheng.",0
+"Exactly 2 of the following cities are in Russia: Rahim Yar Khan, Ryazan', Barnaul, and Tangerang.",1
+"Exactly 3 of the following cities are in China: Mudanjiang, Meizhou, Indianapolis, and Samarkand.",0
+"Exactly 1 of the following cities are in India: Eskisehir, Johor Bahru, Mumbai, and Chennai.",0
+"Exactly 2 of the following cities are in South Korea: Huangshi, Zapopan, Suwon, and Yaounde.",0
+"Exactly 2 of the following cities are in China: Haiphong, Chaozhou, Zhaotong, and Kyiv.",1
+"Exactly 1 of the following cities are in China: Quzhou, Liaocheng, Pasig City, and Siliguri.",0
+"Exactly 1 of the following cities are in India: Visakhapatnam, Mogadishu, Daegu, and Hubli.",0
+"Exactly 1 of the following cities are in India: Prayagraj, Jaipur, Rio de Janeiro, and Homs.",0
+"Exactly 2 of the following cities are in China: Zhangzhou, Tiruppur, Nanchang, and Quebec.",1
+"Exactly 2 of the following cities are in China: Ya'an, Tokyo, Zhangye, and Aracaju.",1
+"Exactly 2 of the following cities are in China: Isfahan, Mumbai, Erzurum, and Panzhihua.",0
+"Exactly 1 of the following cities are in China: Ar Raqqah, Jiangmen, Zhangye, and Johor Bahru.",0
+"Exactly 2 of the following cities are in China: Nova Iguacu, Kandahar, Shangyu, and Longyan.",1
+"Exactly 1 of the following cities are in China: Fortaleza, Khartoum, Gold Coast, and Zhangzhou.",1
+"Exactly 2 of the following cities are in India: Xiamen, Macapa, Kallakurichi, and Teresina.",0
+"Exactly 3 of the following cities are in China: Bijie, Dehra Dun, Liaocheng, and Zibo.",1
+"Exactly 1 of the following cities are in the United Arab Emirates: Prayagraj, Rawalpindi, Dubai, and Zunyi.",1
+"Exactly 2 of the following cities are in Iran: Shaoxing, Arak, Kyoto, and Pikine.",0
+"Exactly 1 of the following cities are in India: Kozhikode, Weihai, Maiduguri, and Goiania.",1
+"Exactly 2 of the following cities are in China: Rizhao, Bhopal, Makassar, and Harbin.",1
+"Exactly 2 of the following cities are in China: Guangyuan, Wuhan, Quito, and Amravati.",1
+"Exactly 2 of the following cities are in Mexico: Asuncion, Kaifeng, Mexicali, and Najafgarh.",0
+"Exactly 2 of the following cities are in China: Sao Jose dos Campos, Huaibei, Poznan, and Zhangjiakou.",1
+"Exactly 3 of the following cities are in Japan: Kathmandu, Thuan An, Saitama, and Guigang.",0
+"Exactly 2 of the following cities are in China: Karbala, Kyiv, Dalian, and Tlalpan.",0
+"Exactly 1 of the following cities are in Nigeria: Kleinzschocher, Nuernberg, Port Harcourt, and Qiqihar.",1
+"Exactly 1 of the following cities are in China: Cangzhou, Tanggu, Enugu, and Anshan.",0
+"Exactly 2 of the following cities are in China: Bucaramanga, Zunyi, Shiraz, and Kunming.",1
+"Exactly 2 of the following cities are in Brazil: Kimhae, Florianopolis, Sorocaba, and Amritsar.",1
+"Exactly 2 of the following cities are in China: Xianyang, Dombivli, Salta, and Yibin.",1
+"Exactly 1 of the following cities are in Malawi: Baise, Lilongwe, Kandahar, and Onitsha.",1
+"Exactly 1 of the following cities are in Iran: Kermanshah, Tlalpan, Leipzig, and Jingmen.",1
+"Exactly 1 of the following cities are in China: Cheonan, Kashgar, Ganzhou, and Turin.",0
+"Exactly 1 of the following cities are in China: Uberlandia, Baotou, Ranchi, and Daqing.",0
+"Exactly 2 of the following cities are in the Philippines: Samarkand, Nampula, Caloocan City, and Pasig City.",1
+"Exactly 1 of the following cities are in Algeria: Xiaogan, Tebessa, Tabriz, and Cape Town.",1
+"Exactly 2 of the following cities are in China: Yunfu, Rui'an, Okayama, and Jaipur.",1
+"Exactly 2 of the following cities are in Brazil: Xinyang, Curitiba, Chelyabinsk, and Fortaleza.",1
+"Exactly 1 of the following cities are in India: Warangal, Incheon, Osaka, and Shenyang.",1
+"Exactly 2 of the following cities are in Peru: Milwaukee, Ulyanovsk, Arequipa, and Campos dos Goytacazes.",0
+"Exactly 1 of the following cities are in China: Nanning, Madurai, Abobo, and Aktobe.",1
+"Exactly 2 of the following cities are in Ukraine: Jiujiang, Kryvyy Rih, Coyoacan, and Ha'il.",0
+"Exactly 2 of the following cities are in Turkey: Shymkent, Guankou, Eskisehir, and Antalya.",1
+"Exactly 3 of the following cities are in China: Tianshui, Liupanshui, Douala, and Yiwu.",1
+"Exactly 1 of the following cities are in China: Xiaogan, Antalya, Bengbu, and Chengdu.",0
+"Exactly 1 of the following cities are in China: Fes, Qujing, Dalian, and Zhumadian.",0
+"Exactly 1 of the following cities are in Brazil: Chennai, Karaj, Curitiba, and Jaboatao dos Guararapes.",0
+"Exactly 1 of the following cities are in Germany: Konya, Marseille, Deyang, and Hannover.",1
+"Exactly 2 of the following cities are in China: Casablanca, Goyang-si, Baoji, and Wanxian.",1
+"Exactly 2 of the following cities are in Iran: Bulawayo, Nanded, Kermanshah, and Reynosa.",0
+"Exactly 2 of the following cities are in Turkey: Bahcelievler, Bursa, Chennai, and Kolkata.",1
+"Exactly 2 of the following cities are in India: Kirkuk, Amritsar, General Santos, and Rangpur.",0
+"Exactly 2 of the following cities are in India: Narela, Winnipeg, Abu Dhabi, and Omsk.",0
+"Exactly 1 of the following cities are in China: Mianzhu, Deyang, Sichuan, Kharkiv, Wanxian, and Sulaymaniyah.",0
+"Exactly 2 of the following cities are in Vietnam: Ho Chi Minh City, Seoul, Pontianak, and E'zhou.",0
+"Exactly 2 of the following cities are in Turkey: Tokyo, Ipoh, Mersin, and Izmir.",1
+"Exactly 2 of the following cities are in India: Khabarovsk, Kalininskiy, Tiruchirappalli, and Nanning.",0
+"Exactly 2 of the following cities are in Brazil: Sao Paulo, Mbuji-Mayi, Yongzhou, and Meerut.",0
+"Exactly 2 of the following cities are in China: Changchun, Nyala, Ahmedabad, and Heze.",1
+"Exactly 2 of the following cities are in Ukraine: Yerevan, Dushanbe, Lianyungang, and Dnipro.",0
+"Exactly 1 of the following cities are in Lebanon: Lviv, Linyi, Beirut, and Bogor.",1
+"Exactly 1 of the following cities are in Saudi Arabia: Soweto, Zapopan, Zagreb, and Ha'il.",1
+"Exactly 2 of the following cities are in China: Meerut, Kashgar, Maceio, and Harbin.",1
+"Exactly 2 of the following cities are in Peru: Arequipa, Shiraz, Kisangani, and Jilin.",0
+"Exactly 1 of the following cities are in Indonesia: Banjarmasin, Enugu, Lanzhou, and Leon de los Aldama.",1
+"Exactly 2 of the following cities are in France: Lyon, Makhachkala, Nowrangapur, and Lome.",0
+"Exactly 2 of the following cities are in China: Libreville, Puning, Himeji, and Ordos.",1
+"Exactly 3 of the following cities are in India: Balikpapan, Rohini, Tanggu, and Denpasar.",0
+"Exactly 2 of the following cities are in China: Meknes, Luohe, Barquisimeto, and Guankou.",1
+"Exactly 2 of the following cities are in Vietnam: Zunyi, Jabalpur, Haiphong, and Kisangani.",0
+"Exactly 1 of the following cities are in China: Qom, Bayannur, Bauchi, and Sanmenxia.",0
+"Exactly 1 of the following cities are in Pakistan: Shenyang, Sangli, Muzaffarabad, and Panshan.",1
+"Exactly 1 of the following cities are in China: Sarajevo, Maiduguri, Oyo, and Huaibei.",1
+"Exactly 2 of the following cities are in China: Solapur, Shanghai, Deyang, and Sao Bernardo do Campo.",1
+"Exactly 1 of the following cities are in Nigeria: Ibadan, Kawaguchi, Abeokuta, and Lu'an.",0
+"Exactly 1 of the following cities are in China: Weinan, Rajshahi, Shangyu, and Kimhae.",0
+"Exactly 2 of the following cities are in China: Acapulco de Juarez, Maputo, Chizhou, and Phnom Penh.",0
+"Exactly 2 of the following cities are in China: Mumbai, Dongying, Detroit, and Guiyang.",1
+"Exactly 2 of the following cities are in China: Yangjiang, Bujumbura, Lanzhou, and Bagcilar.",1
+"Exactly 2 of the following cities are in China: Shijiazhuang, Jos, Xinyang, and Ciudad Nezahualcoyotl.",1
+"Exactly 2 of the following cities are in Germany: Petaling Jaya, Xiamen, Koeln, and Bloemfontein.",0
+"Exactly 3 of the following cities are in China: Kanayannur, Bloemfontein, Gold Coast, and Ya'an.",0
+"Exactly 1 of the following cities are in Ghana: Tucson, Accra, Khabarovsk Vtoroy, and Iztapalapa.",1
+"Exactly 2 of the following cities are in China: Soweto, Yunfu, Port Said, and Seattle.",0
+"Exactly 1 of the following cities are in Pakistan: Gujranwala, Faisalabad, Dar es Salaam, and Tlalpan.",0
+"Exactly 3 of the following cities are in South Korea: Reynosa, Tehran, Pune, and Bucheon-si.",0
+"Exactly 3 of the following cities are in China: Wuhan, Qom, Kashgar, and Wanxian.",1
+"Exactly 1 of the following cities are in India: Faridabad, Maoming, Heze, and Ganzhou.",1
+"Exactly 1 of the following cities are in Morocco: Erbil, Tangier, Pune, and Tlalpan.",1
+"Exactly 2 of the following cities are in Russia: Albuquerque, Wanxian, Khabarovsk, and Lipetsk.",1
+"Exactly 2 of the following cities are in India: Ulhasnagar, Callao, Dar es Salaam, and Homyel'.",0
+"Exactly 1 of the following cities are in China: Bayannur, Laiwu, Najran, and Khabarovsk.",0
+"Exactly 2 of the following cities are in Kenya: Kemerovo, Mombasa, Belo Horizonte, and New South Memphis.",0
+"Exactly 2 of the following cities are in India: Nairobi, Zaria, Anyang, and Ahmedabad.",0
+"Exactly 2 of the following cities are in Nigeria: Siliguri, Jos, Kyiv, and Grosszschocher.",0
+"Exactly 1 of the following cities are in Malaysia: Esenler, Omsk, Dalian, and Malacca.",1
+"Exactly 2 of the following cities are in the Philippines: Porto Velho, Buraydah, Theni, and Quezon City.",0
+"Exactly 3 of the following cities are in Russia: Kumamoto, Lipetsk, Yongzhou, and Tebessa.",0
+"Exactly 1 of the following cities are in Russia: Omdurman, Pyongyang, Makati City, and Tomsk.",1
+"Exactly 2 of the following cities are in Vietnam: Jiangyin, Seattle, Da Nang, and Porto Alegre.",0
+"Exactly 1 of the following cities are in Mozambique: Surat, Shangqiu, Beira, and Wuwei.",1
+"Exactly 2 of the following cities are in China: Detroit, Bahcelievler, Shangrao, and Yingkou.",1
+"Exactly 2 of the following cities are in China: Abu Dhabi, Cochin, Suizhou, and Harbin.",1
+"Exactly 2 of the following cities are in India: Amritsar, Guangzhou, Chizhou, and Sambhaji Nagar.",1
+"Exactly 2 of the following cities are in China: Durban, Putian, Guang'an, and Kozhikode.",1
+"Exactly 1 of the following cities are in South Africa: Davao, Durban, Ipoh, and Turin.",1
+"Exactly 2 of the following cities are in China: Taicang, Marrakesh, Chenzhou, and Bhayandar.",1
+"Exactly 2 of the following cities are in China: Tanggu, Nizhniy Novgorod, Guang'an, and Hamhung.",1
+"Exactly 1 of the following cities are in India: Indore, Dushanbe, Ulhasnagar, and Sarajevo.",0
+"Exactly 2 of the following cities are in China: Abu Dhabi, Anqing, Namangan, and Shangqiu.",1
+"Exactly 2 of the following cities are in Mozambique: Urumqi, Tijuana, Bucaramanga, and Nampula.",0
+"Exactly 2 of the following cities are in Japan: Kisangani, Guarulhos, Gold Coast, and Nagoya.",0
+"Exactly 3 of the following cities are in China: Baise, Kunming, Yibin, and Fukuoka.",1
+"Exactly 2 of the following cities are in the Philippines: Maputo, Comilla, Paranaque City, and Guayaquil.",0
+"Exactly 2 of the following cities are in Argentina: Zhumadian, Salta, Bucharest, and Bulawayo.",0
+"Exactly 2 of the following cities are in China: Hengyang, Shaoxing, Jos, and Kallakurichi.",1
+"Exactly 3 of the following cities are in India: Kozhikode, Pasig City, Jaipur, and Siliguri.",1
+"Exactly 2 of the following cities are in China: Dalian, Zigong, Nagpur, and Kigali.",1
+"Exactly 1 of the following cities are in India: Bhubaneswar, Tanggu, Surat, and Santiago de Queretaro.",0
+"Exactly 2 of the following cities are in China: Heze, Gwalior, Kathmandu, and Yongzhou.",1
+"Exactly 1 of the following cities are in Egypt: Duque de Caxias, Yangon, Port Said, and Mosul.",1
+"Exactly 2 of the following cities are in Nigeria: Al Fayyum, Ibadan, Abeokuta, and Ganzhou.",1
+"Exactly 1 of the following cities are in China: Huaibei, Shuangyashan, Hiroshima, and Madurai.",0
+"Exactly 2 of the following cities are in Brazil: Nova Iguacu, Kagoshima, Jaboatao dos Guararapes, and Penza.",1
+"Exactly 2 of the following cities are in China: Kolkata, Zhengzhou, Lubumbashi, and Chizhou.",1
+"Exactly 1 of the following cities are in Syria: Gujranwala, Ar Raqqah, Sambhaji Nagar, and Mexico City.",1
+"Exactly 2 of the following cities are in China: Guigang, Xianning, Banjarmasin, and Omsk.",1
+"Exactly 2 of the following cities are in China: Chengdu, Bahawalpur, Kunming, and Samarinda.",1
+"Exactly 2 of the following cities are in Nigeria: Rajshahi, Kobe, Ebute Ikorodu, and Tlalpan.",0
+"Exactly 2 of the following cities are in China: Dnipro, Oklahoma City, Heze, and Jiaozuo.",1
+"Exactly 1 of the following cities are in India: Ansan-si, Sambhaji Nagar, Abu Dhabi, and Niigata.",1
+"Exactly 2 of the following cities are in India: Hanoi, Shantou, Urumqi, and Visakhapatnam.",0
+"Exactly 3 of the following cities are in Japan: Nanchang, Deyang, Maoming, and Nagoya.",0
+"Exactly 2 of the following cities are in Indonesia: Onitsha, Addis Ababa, Pekanbaru, and Yangon.",0
+"Exactly 2 of the following cities are in Poland: Mersin, Kanpur, Poznan, and Bucharest.",0
+"Exactly 1 of the following cities are in the United Arab Emirates: Sharjah, Penza, Bloemfontein, and Onitsha.",1
+"Exactly 2 of the following cities are in China: Wanxian, Kathmandu, Tirunelveli, and Qingdao.",1
+"Exactly 2 of the following cities are in Brazil: Zaria, Izmir, Zagreb, and Contagem.",0
+"Exactly 1 of the following cities are in Cambodia: Jilin, Maturin, Phnom Penh, and Al Basrah al Qadimah.",1
+"Exactly 1 of the following cities are in India: Baise, Tirunelveli, Karol Bagh, and Chenzhou.",0
+"Exactly 1 of the following cities are in Pakistan: Peshawar, Dombivli, Coyoacan, and Okayama.",1
+"Exactly 2 of the following cities are in Vietnam: Sanya, Hanoi, Abidjan, and Pretoria.",0
+"Exactly 1 of the following cities are in China: Ya'an, Tokyo, Zhangye, and Aracaju.",0
+"Exactly 2 of the following cities are in China: Anshan, Malatya, Ufa, and Sangli.",0
+"Exactly 2 of the following cities are in Kuwait: Al Ahmadi, Bobo-Dioulasso, Queens, and Helsinki.",0
+"Exactly 2 of the following cities are in Turkey: Bahcelievler, Daegu, Bursa, and Aden.",1
+"Exactly 1 of the following cities are in Nigeria: Abuja, Xuzhou, Kyiv, and Mumbai.",1
+"Exactly 2 of the following cities are in China: Xiaogan, Xianning, Suwon, and Saratov.",1
+"Exactly 1 of the following cities are in China: Luancheng, Karachi, Shenzhen, and Tanggu.",0
+"Exactly 2 of the following cities are in Mexico: Longyan, Mexico City, Esenler, and Bishkek.",0
+"Exactly 1 of the following cities are in China: Mississauga, Mazar-e Sharif, Jiujiang, and Tangshan.",0
+"Exactly 1 of the following cities are in China: Zunyi, Ecatepec de Morelos, Makassar, and Wanzhou.",0
+"Exactly 2 of the following cities are in Iraq: Al Basrah al Qadimah, Tucson, Phnom Penh, and Mukalla.",0
+"Exactly 1 of the following cities are in Iraq: Surat, Xuchang, Sulaymaniyah, and Shihezi.",1
+"Exactly 1 of the following cities are in India: Sambhaji Nagar, Khabarovsk Vtoroy, Pikine, and Bhopal.",0
+"Exactly 2 of the following cities are in Iraq: Peshawar, Al Basrah al Qadimah, Kirkuk, and Shah Alam.",1
+"Exactly 2 of the following cities are in Burundi: Santiago de los Caballeros, Kryvyy Rih, Bujumbura, and Port Harcourt.",0
+"Exactly 1 of the following cities are in Pakistan: Muscat, Jiaxing, Muzaffarabad, and Belo Horizonte.",1
+"Exactly 1 of the following cities are in India: Managua, Xining, Bokaro, and Dushanbe.",1
+"Exactly 2 of the following cities are in Côte d'Ivoire: Durban, Mersin, Abobo, and Namangan.",0
+"Exactly 3 of the following cities are in China: Wenzhou, Jieyang, Omdurman, and Baotou.",1
+"Exactly 3 of the following cities are in China: Taiz, Siping, Qingdao, and Shangyu.",1
+"Exactly 1 of the following cities are in Malawi: Bucharest, Latakia, Chenzhou, and Lilongwe.",1
+"Exactly 2 of the following cities are in China: Xining, Sargodha, Juiz de Fora, and Zibo.",1
+"Exactly 2 of the following cities are in China: Fushun, Malatya, Zarqa, and Changshu.",1
+"Exactly 1 of the following cities are in Turkey: Zaria, Adana, Pyongyang, and Hiroshima.",1
+"Exactly 1 of the following cities are in Russia: Ranchi, Ulyanovsk, Curitiba, and Sharjah.",1
+"Exactly 1 of the following cities are in Brazil: Zhabei, Londrina, Ghaziabad, and Yingkou.",1
+"Exactly 2 of the following cities are in China: Harbin, Pekanbaru, Xianning, and Jamshedpur.",1
+"Exactly 3 of the following cities are in China: Al Basrah al Qadimah, San Luis Potosi, E'zhou, and Fortaleza.",0
+"Exactly 2 of the following cities are in China: Paranaque City, Nanjing, Orumiyeh, and Puning.",1
+"Exactly 2 of the following cities are in Honduras: Kuala Lumpur, Addis Ababa, Tegucigalpa, and Omdurman.",0
+"Exactly 2 of the following cities are in China: Zhangye, Brazzaville, Weihai, and Bien Hoa.",1
+"Exactly 2 of the following cities are in Turkey: Munich, Bahcelievler, Malatya, and Pyongyang.",1
+"Exactly 2 of the following cities are in China: Malatya, Mukalla, Dongying, and Luancheng.",1
+"Exactly 2 of the following cities are in Egypt: Shaoguan, Al Fayyum, Suining, and Iztapalapa.",0
+"Exactly 2 of the following cities are in Vietnam: Can Tho, Weifang, Krasnoyarsk, and Luzhou.",0
+"Exactly 1 of the following cities are in China: Solapur, Belo Horizonte, Ganzhou, and Chizhou.",0
+"Exactly 1 of the following cities are in China: Adana, Hefei, Erbil, and Guntur.",1
+"Exactly 1 of the following cities are in China: Bhayandar, Zhabei, Bokaro, and Mersin.",1
+"Exactly 1 of the following cities are in Egypt: Dehra Dun, Nanchong, Lipetsk, and Suez.",1
+"Exactly 2 of the following cities are in Russia: Odesa, Voronezh, Yekaterinburg, and Agadir.",1
+"Exactly 2 of the following cities are in Germany: Hubli, Bloemfontein, Koeln, and Meizhou.",0
+"Exactly 2 of the following cities are in China: Durban, Shangqiu, Duque de Caxias, and Callao.",0
+"Exactly 2 of the following cities are in India: Pimpri, Accra, Istanbul, and Shaoguan.",0
+"Exactly 2 of the following cities are in China: Fushun, Tabriz, Zhabei, and Faisalabad.",1
+"Exactly 2 of the following cities are in Japan: Sapporo, Palembang, Xuzhou, and Yunfu.",0
+"Exactly 1 of the following cities are in China: Tianshui, Liupanshui, Douala, and Yiwu.",0
+"Exactly 2 of the following cities are in China: Yaounde, Hangzhou, Guankou, and Lyon.",1
+"Exactly 1 of the following cities are in Brazil: Hachioji, Belo Horizonte, Eskisehir, and Sargodha.",1
+"Exactly 2 of the following cities are in China: Qiqihar, Pingdingshan, Navi Mumbai, and Saratov.",1
+"Exactly 2 of the following cities are in India: Tiruchirappalli, Kolkata, Bogor, and Bayannur.",1
+"Exactly 2 of the following cities are in China: Guankou, Maputo, Warri, and Dnipro.",0
+"Exactly 1 of the following cities are in Venezuela: Ciudad Juarez, Gaziantep, Bujumbura, and Maturin.",1
+"Exactly 1 of the following cities are in Iraq: Peshawar, Al Basrah al Qadimah, Kirkuk, and Shah Alam.",0
+"Exactly 1 of the following cities are in China: Suizhou, Anshan, Kunshan, and Erbil.",0
+"Exactly 2 of the following cities are in Ukraine: Zaporizhzhya, Tianshui, Soweto, and Goyang-si.",0
+"Exactly 1 of the following cities are in China: Cancun, Chuzhou, Jinan, and Irkutsk.",0
+"Exactly 2 of the following cities are in South Korea: Ibague, Bucheon-si, Linfen, and Suwon.",1
+"Exactly 2 of the following cities are in Argentina: Kuantan, Las Pinas, San Miguel de Tucuman, and Borivli.",0
+"Exactly 2 of the following cities are in Indonesia: Zapopan, Zarqa, Surakarta, and Cebu City.",0
+"Exactly 2 of the following cities are in India: Thuan An, Ashgabat, Bulawayo, and Meerut.",0
+"Exactly 2 of the following cities are in China: Tangerang, Zhaoqing, Ebute Ikorodu, and Orumiyeh.",0
+"Exactly 2 of the following cities are in China: Jiaxing, Cixi, Conakry, and Puente Alto.",1
+"Exactly 3 of the following cities are in China: Kashgar, Rahim Yar Khan, Changde, and Liupanshui.",1
+"Exactly 1 of the following cities are in Egypt: Jos, Port Said, Kemerovo, and Quezon City.",1
+"Exactly 1 of the following cities are in South Korea: Seoul, Santo Domingo Este, Islamabad, and Zhuzhou.",1
+"Exactly 1 of the following cities are in Pakistan: Pontianak, Karachi, Nagoya, and Tirunelveli.",1
+"Exactly 2 of the following cities are in Germany: Nuernberg, Changchun, New York City, and Jiaozhou.",0
+"Exactly 1 of the following cities are in China: Suqian, Anyang, Giza, and Zhaoqing.",0
+"Exactly 2 of the following cities are in Germany: Shihezi, Sulaymaniyah, Munich, and Onitsha.",0
+"Exactly 2 of the following cities are in China: Nashik, Zibo, Zunyi, and Bucheon-si.",1
+"Exactly 2 of the following cities are in Venezuela: Caracas, Ouagadougou, Chelyabinsk, and Santiago de los Caballeros.",0
+"Exactly 2 of the following cities are in China: Weihai, Oslo, Siping, and Jiaozhou.",0
+"Exactly 1 of the following cities are in China: Calgary, Kryvyy Rih, Xinyang, and Fushun.",0
+"Exactly 2 of the following cities are in China: Multan, Jiangmen, Kaduna, and Changde.",1
+"Exactly 1 of the following cities are in Nigeria: Enugu, Meknes, Recife, and Sharjah.",1
+"Exactly 2 of the following cities are in India: Kolhapur, Santo Domingo Oeste, Daegu, and Nagoya.",0
+"Exactly 2 of the following cities are in Uzbekistan: Aracaju, Tashkent, Can Tho, and Volgograd.",0
+"Exactly 1 of the following cities are in Indonesia: Pontianak, South Tangerang, Boumerdes, and Dongying.",0
+"Exactly 1 of the following cities are in China: Lome, Xinyang, Cixi, and Palembang.",0
+"Exactly 2 of the following cities are in China: Mudanjiang, Ankara, Jingmen, and Meknes.",1
+"Exactly 2 of the following cities are in China: Yongzhou, Jeddah, Putian, and Kota Bharu.",1
+"Exactly 2 of the following cities are in Mali: Bamako, Yinchuan, Kashgar, and Santiago de Cuba.",0
+"Exactly 2 of the following cities are in China: Longyan, Shihezi, Ipoh, and Hannover.",1
+"Exactly 2 of the following cities are in Morocco: Chattogram, Arak, Meknes, and Can Tho.",0
+"Exactly 1 of the following cities are in Algeria: Bikaner, Quito, Boumerdes, and Perm.",1
+"Exactly 3 of the following cities are in Indonesia: Jaboatao dos Guararapes, Hebi, Nova Iguacu, and Samarinda.",0
+"Exactly 2 of the following cities are in India: Bhayandar, Astrakhan, Narela, and Bishkek.",1
+"Exactly 3 of the following cities are in China: Saitama, Shuangyashan, Weinan, and Rui'an.",1
+"Exactly 2 of the following cities are in Iraq: Baghdad, Mosul, Chennai, and Bhilai.",1
+"Exactly 1 of the following cities are in Pakistan: Islamabad, Khabarovsk Vtoroy, Lahore, and Tirunelveli.",0
+"Exactly 2 of the following cities are in Pakistan: Gujranwala, Faisalabad, Dar es Salaam, and Tlalpan.",1
+"Exactly 1 of the following cities are in Turkey: Yangjiang, Xianning, Astrakhan, and Bursa.",1
+"Exactly 2 of the following cities are in Nigeria: Laiwu, Coimbatore, Onitsha, and Pimpri.",0
+"Exactly 2 of the following cities are in China: Winnipeg, Sanming, Yongzhou, and Bhiwandi.",1
+"Exactly 2 of the following cities are in Pakistan: Kharkiv, Boumerdes, Rahim Yar Khan, and Omsk.",0
+"Exactly 1 of the following cities are in China: Dandong, Xining, Dar es Salaam, and Hachioji.",0
+"Exactly 2 of the following cities are in Côte d'Ivoire: Abobo, Liupanshui, New Kingston, and Guang'an.",0
+"Exactly 1 of the following cities are in China: Ningbo, Kirkuk, Hamamatsu, and South Tangerang.",1
+"Exactly 2 of the following cities are in India: Antalya, Subang Jaya, Nowrangapur, and Pimpri.",1
+"Exactly 1 of the following cities are in Saudi Arabia: Buraydah, Sorocaba, Feira de Santana, and Casablanca.",1
+"Exactly 3 of the following cities are in China: Korla, Cankaya, Yangjiang, and Rui'an.",1
+"Exactly 1 of the following cities are in China: Krasnoyarsk, Linyi, Taiz, and Krasnodar.",1
+"Exactly 1 of the following cities are in India: Barquisimeto, Thane, Najafgarh, and Tucson.",0
+"Exactly 2 of the following cities are in Russia: Rangpur, Saint Petersburg, Al Basrah al Qadimah, and Basrah.",0
+"Exactly 1 of the following cities are in India: Pietermaritzburg, Kota Bharu, Jamshedpur, and Visakhapatnam.",0
+"Exactly 3 of the following cities are in China: Ma'anshan, Khabarovsk Vtoroy, Xianyang, and Shenyang.",1
+"Exactly 1 of the following cities are in Russia: Kermanshah, Managua, Xuzhou, and Novokuznetsk.",1
+"Exactly 3 of the following cities are in China: Baoji, Tianshui, Zhangjiakou, and Novokuznetsk.",1
+"Exactly 2 of the following cities are in India: Luohe, Ansan-si, Bhilai, and Solapur.",1
+"Exactly 2 of the following cities are in India: Bhubaneswar, Guntur, Shijiazhuang, and Kampung Baru Subang.",1
+"Exactly 2 of the following cities are in the Philippines: Joao Pessoa, Cebu City, Sevastopol, and Brazzaville.",0
+"Exactly 1 of the following cities are in China: Caloocan City, Tangier, Baoji, and Hezhou.",0
+"Exactly 3 of the following cities are in Nigeria: Dammam, Abeokuta, Chelyabinsk, and Cape Town.",0
+"Exactly 1 of the following cities are in Sudan: Amritsar, Semarang, Nay Pyi Taw, and Nyala.",1
+"Exactly 1 of the following cities are in Brazil: Lviv, Porto Alegre, Rui'an, and Zhumadian.",1
+"Exactly 1 of the following cities are in Uzbekistan: Lianyungang, Niamey, Namangan, and Yangquan.",1
+"Exactly 2 of the following cities are in France: Al Basrah al Qadimah, Marseille, Ciudad Guayana, and Bhilai.",0
+"Exactly 2 of the following cities are in China: Suez, Rui'an, Koeln, and Guiyang.",1
+"Exactly 1 of the following cities are in China: Teresina, Qingdao, Xingtai, and Bucheon-si.",0
+"Exactly 1 of the following cities are in India: Nuernberg, Sangli, Ordos, and Chelyabinsk.",1
+"Exactly 2 of the following cities are in Japan: Calgary, Xiamen, Algiers, and Shizuoka.",0
+"Exactly 1 of the following cities are in Japan: Saitama, Port Harcourt, Nagoya, and Tianjin.",0
+"Exactly 1 of the following cities are in China: Shubra al Khaymah, Tangshan, Suwon, and Puning.",0
+"Exactly 3 of the following cities are in China: Ningbo, Puning, Kallakurichi, and Urumqi.",1
+"Exactly 2 of the following cities are in Iran: Kermanshah, Namangan, Heze, and Vilnius.",0
+"Exactly 1 of the following cities are in China: Aguascalientes, Lahore, Dongying, and Qiqihar.",0
+"Exactly 2 of the following cities are in India: Quebec, Jeddah, Borivli, and Sangli.",1
+"Exactly 1 of the following cities are in Canada: Krasnodar, Meerut, Almaty, and Winnipeg.",1
+"Exactly 2 of the following cities are in South Korea: Fukuoka, Ludhiana, Daegu, and Uberlandia.",0
+"Exactly 3 of the following cities are in South Africa: Soweto, Irkutsk, Shangrao, and Ipoh.",0
+"Exactly 1 of the following cities are in China: Sharjah, Kobe, Langfang, and Hefei.",0
+"Exactly 2 of the following cities are in Senegal: Guigang, Dakar, Chelyabinsk, and Maiduguri.",0
+"Exactly 1 of the following cities are in China: Jilin, Tangier, Duesseldorf, and Deyang.",0
+"Exactly 1 of the following cities are in China: Acapulco de Juarez, Maputo, Chizhou, and Phnom Penh.",1
+"Exactly 2 of the following cities are in Morocco: Lubumbashi, Tegucigalpa, Lu'an, and Marrakesh.",0
+"Exactly 2 of the following cities are in India: Kolkata, Vladivostok, Karol Bagh, and Suwon.",1
+"Exactly 1 of the following cities are in Turkey: Jingmen, Kagoshima, Dehra Dun, and Gaziantep.",1
+"Exactly 1 of the following cities are in the Philippines: Incheon, Tonghua, Cebu City, and Kigali.",1
+"Exactly 2 of the following cities are in China: Jiangyin, Omdurman, Davao, and Nanjing.",1
+"Exactly 2 of the following cities are in South Korea: Seoul, Qiqihar, Ya'an, and Pontianak.",0
+"Exactly 1 of the following cities are in China: Kharkiv, Changde, Bijie, and Dandong.",0
+"Exactly 1 of the following cities are in Mexico: Niamey, Indianapolis, Zapopan, and Mexico City.",0
+"Exactly 2 of the following cities are in China: Helsinki, Jiangyin, Kharkiv, and Dalian.",1
+"Exactly 2 of the following cities are in Brazil: Bhubaneswar, Zibo, Joao Pessoa, and Ha'il.",0
+"Exactly 2 of the following cities are in Russia: Sevastopol, Vladivostok, Stockholm, and Bandar Lampung.",0
+"Exactly 2 of the following cities are in Turkey: Ankara, Riga, Konya, and Nagoya.",1
+"Exactly 2 of the following cities are in China: Bouake, Buraydah, Wuwei, and Changde.",1
+"Exactly 1 of the following cities are in Malaysia: Pekanbaru, Jamshedpur, Shah Alam, and Kuantan.",0
+"Exactly 3 of the following cities are in India: Narela, Oyo, Detroit, and Dushanbe.",0
+"Exactly 2 of the following cities are in Russia: Cochin, Krasnodar, Kemerovo, and Kotli.",1
+"Exactly 2 of the following cities are in China: Kitakyushu, Sanming, Jilin, and Baku.",1
+"Exactly 1 of the following cities are in China: Perm, Hengyang, Al Ain City, and Panzhihua.",0
+"Exactly 2 of the following cities are in China: Zapopan, Shuangyashan, Callao, and Yunfu.",1
+"Exactly 2 of the following cities are in China: Quzhou, Liaocheng, Pasig City, and Siliguri.",1
+"Exactly 2 of the following cities are in China: Quebec, Laiwu, Varanasi, and Luzhou.",1
+"Exactly 1 of the following cities are in the Philippines: E'zhou, Makati City, Sangli, and Davao.",0
+"Exactly 2 of the following cities are in China: Chenzhou, Gwalior, Santo Domingo Oeste, and Huzhou.",1
+"Exactly 3 of the following cities are in China: Adana, Hefei, Erbil, and Guntur.",0
+"Exactly 2 of the following cities are in Russia: Sokoto, Yaroslavl, Siping, and Port Said.",0
+"Exactly 2 of the following cities are in the Philippines: Ashgabat, Poznan, Pasig City, and Caloocan City.",1
+"Exactly 1 of the following cities are in Brazil: Antalya, Teresina, Nairobi, and Chiclayo.",1
+"Exactly 2 of the following cities are in China: Pasig City, Xuzhou, Milwaukee, and Wuzhou.",1
+"Exactly 1 of the following cities are in Saudi Arabia: Hezhou, Najran, Zagreb, and Semarang.",1
+"Exactly 1 of the following cities are in China: Luancheng, Warangal, Longyan, and Makhachkala.",0
+"Exactly 2 of the following cities are in China: Pretoria, Casablanca, Chenzhou, and Qionghai.",1
+"Exactly 2 of the following cities are in China: Sanmenxia, Zhabei, Baoji, and Hachioji.",0
+"Exactly 2 of the following cities are in India: Indore, Dushanbe, Ulhasnagar, and Sarajevo.",1
+"Exactly 1 of the following cities are in India: Bhopal, Zarqa, Indore, and Contagem.",0
+"Exactly 3 of the following cities are in India: Bien Hoa, Rourkela, Vijayawada, and Feira de Santana.",0
+"Exactly 1 of the following cities are in India: Brazzaville, Ludhiana, Naucalpan de Juarez, and Shivaji Nagar.",0
+"Exactly 2 of the following cities are in China: Gwalior, Weifang, Samarinda, and Zhabei.",1
+"Exactly 1 of the following cities are in the Philippines: Quezon City, Yongzhou, Barnaul, and Port Said.",1
+"Exactly 1 of the following cities are in China: Yinchuan, Shangrao, Muzaffarabad, and Xuchang.",0
+"Exactly 3 of the following cities are in China: Guiyang, Al Mahallah al Kubra, Kaifeng, and Luohe.",1
+"Exactly 2 of the following cities are in China: Port-au-Prince, Dandong, Makati City, and Anqing.",1
+"Exactly 2 of the following cities are in India: Paranaque City, Bokaro, Matola, and Erode.",1
+"Exactly 1 of the following cities are in Brazil: Florianopolis, Maceio, Jos, and Antananarivo.",0
+"Exactly 2 of the following cities are in China: Nanchong, Zigong, South Tangerang, and Buraydah.",1
+"Exactly 2 of the following cities are in Indonesia: Batam, Mombasa, Tirunelveli, and Ribeirao Preto.",0
+"Exactly 2 of the following cities are in the Philippines: Abuja, Longyan, Las Pinas, and Kanayannur.",0
+"Exactly 2 of the following cities are in South Africa: Kisangani, Guangyuan, Sarajevo, and Pietermaritzburg.",0
+"Exactly 3 of the following cities are in China: Wuwei, Baoji, Serang, and Huzhou.",1
+"Exactly 1 of the following cities are in China: Sarajevo, Tokyo, Jiaozhou, and Dalian.",0
+"Exactly 2 of the following cities are in Pakistan: Bahawalpur, Zaozhuang, Jaboatao, and Tegucigalpa.",0
+"Exactly 2 of the following cities are in China: Chuzhou, Petaling Jaya, Ziyang, and Erzurum.",1
+"Exactly 1 of the following cities are in China: Gaziantep, Sharjah, Pingliang, and Malatya.",1
+"Exactly 2 of the following cities are in China: Perm, Hengyang, Al Ain City, and Panzhihua.",1
+"Exactly 3 of the following cities are in Brazil: Coyoacan, Koeln, Goiania, and Langfang.",0
+"Exactly 2 of the following cities are in the United States: Munich, Makati City, Queens, and Tucson.",1
+"Exactly 1 of the following cities are in Venezuela: Ebute Ikorodu, Ciudad Guayana, Perm, and Ningbo.",1
+"Exactly 2 of the following cities are in China: Dushanbe, Meerut, Sanming, and Wanzhou.",1
+"Exactly 2 of the following cities are in China: Buraydah, Konya, Kalyan, and Laibin.",0
+"Exactly 1 of the following cities are in India: Kanayannur, Durban, Onitsha, and Gwalior.",0
+"Exactly 2 of the following cities are in Ghana: Marseille, Vilnius, Kumasi, and Yiwu.",0
+"Exactly 2 of the following cities are in the United Arab Emirates: Arequipa, Dnipro, Abu Dhabi, and Xiamen.",0
+"Exactly 2 of the following cities are in Togo: Lome, Cuttack, Jiangyin, and Irkutsk.",0
+"Exactly 2 of the following cities are in Haiti: Tlaquepaque, Antananarivo, Port-au-Prince, and Sangli.",0
+"Exactly 1 of the following cities are in India: Nanchong, Conakry, Bareilly, and Anqing.",1
+"Exactly 3 of the following cities are in China: Chongqing, Dongying, Busan, and Huzhou.",1
+"Exactly 2 of the following cities are in China: Moradabad, Zhangjiagang, Tangerang, and Zigong.",1
+"Exactly 2 of the following cities are in India: Ta'if, Winnipeg, Cotonou, and Kolhapur.",0
+"Exactly 1 of the following cities are in China: Qujing, Jiujiang, Kolhapur, and Ningbo.",0
+"Exactly 1 of the following cities are in China: Qingdao, Huaibei, Beijing, and Ciudad Juarez.",0
+"Exactly 2 of the following cities are in China: Tlalpan, Yerevan, Jiaxing, and Guiyang.",1
+"Exactly 1 of the following cities are in China: Goyang-si, Nanded, Kunshan, and Abuja.",1
+"Exactly 1 of the following cities are in China: Lahore, Lilongwe, Hezhou, and Ganzhou.",0
+"Exactly 3 of the following cities are in China: San Pedro Sula, Kashgar, Neijiang, and Kunming.",1
+"Exactly 2 of the following cities are in Saudi Arabia: Mississauga, Istanbul, Ilorin, and Ta'if.",0
+"Exactly 1 of the following cities are in China: Torreon, Cebu City, Guwahati, and Liuzhou.",1
+"Exactly 2 of the following cities are in Nigeria: Meizhou, Gold Coast, Volgograd, and Sokoto.",0
+"Exactly 2 of the following cities are in China: Foshan, Chuzhou, Copenhagen, and Chisinau.",1
+"Exactly 2 of the following cities are in India: Sambhaji Nagar, Khabarovsk Vtoroy, Pikine, and Bhopal.",1
+"Exactly 3 of the following cities are in Bangladesh: Ahvaz, Adana, Guayaquil, and Rangpur.",0
+"Exactly 1 of the following cities are in China: Tangshan, Las Pinas, Tomsk, and Hanoi.",1
+"Exactly 1 of the following cities are in China: Abu Dhabi, Cochin, Suizhou, and Harbin.",0
+"Exactly 2 of the following cities are in China: Hwaseong-si, Jiamusi, Daejeon, and Qiqihar.",1
+"Exactly 2 of the following cities are in the Philippines: Cebu City, Jeonju, Himeji, and Kermanshah.",0
+"Exactly 2 of the following cities are in China: Conakry, Laiwu, Gaziantep, and Hangzhou.",1
+"Exactly 1 of the following cities are in Japan: Zaria, Hamamatsu, Zhuzhou, and Davao.",1
+"Exactly 3 of the following cities are in China: Kalininskiy, Qingdao, Guang'an, and Suining.",1
+"Exactly 2 of the following cities are in India: San Pedro Sula, Guang'an, Najafgarh, and Ahvaz.",0
+"Exactly 2 of the following cities are in China: Cape Town, Wuwei, Laibin, and Puente Alto.",1
+"Exactly 1 of the following cities are in China: Tijuana, Ghaziabad, Hebi, and Qingdao.",0
+"Exactly 1 of the following cities are in Saudi Arabia: Mississauga, Istanbul, Ilorin, and Ta'if.",1
+"Exactly 2 of the following cities are in Vietnam: Yongzhou, Kotli, Ho Chi Minh City, and Cebu City.",0
+"Exactly 2 of the following cities are in Russia: Warri, Tegucigalpa, Krasnodar, and Ufa.",1
+"Exactly 2 of the following cities are in South Korea: Yangquan, Seongnam-si, Chelyabinsk, and Winnipeg.",0
+"Exactly 1 of the following cities are in Saudi Arabia: Ta'if, Fuxin, Fortaleza, and Bien Hoa.",1
+"Exactly 2 of the following cities are in the Philippines: Cancun, General Santos, Caracas, and Onitsha.",0
+"Exactly 3 of the following cities are in Venezuela: Kyoto, Yangquan, Maracaibo, and Barquisimeto.",0
+"Exactly 2 of the following cities are in Jordan: Amman, Kryvyy Rih, Zhangye, and Madinat an Nasr.",0
+"Exactly 1 of the following cities are in China: Meerut, Kashgar, Maceio, and Harbin.",0
+"Exactly 1 of the following cities are in the Dominican Republic: Perm, Cixi, Santiago de los Caballeros, and Zagreb.",1
+"Exactly 2 of the following cities are in India: Najafgarh, Weihai, Chennai, and Shangyu.",1
+"Exactly 3 of the following cities are in Russia: Makhachkala, Karol Bagh, Osaka, and Yerevan.",0
+"Exactly 2 of the following cities are in Egypt: Antalya, Asyut, Lanzhou, and Chongqing.",0
+"Exactly 1 of the following cities are in South Korea: Seoul, Asmara, Jabalpur, and Shizuoka.",1
+"Exactly 2 of the following cities are in Japan: Campos dos Goytacazes, Almaty, Kobe, and Huzhou.",0
+"Exactly 1 of the following cities are in Mexico: Panzhihua, Yichang, Ecatepec de Morelos, and Incheon.",1
+"Exactly 2 of the following cities are in South Korea: Luohe, Hamamatsu, Cape Town, and Daegu.",0
+"Exactly 3 of the following cities are in China: Muzaffarabad, Lanzhou, Panzhihua, and Rajkot.",0
+"Exactly 2 of the following cities are in India: Mersin, Nyala, Zhoushan, and Chennai.",0
+"Exactly 2 of the following cities are in China: Zhangjiakou, Xuchang, Tucson, and N'Djamena.",1
+"Exactly 2 of the following cities are in China: Baise, Isfahan, Zhoushan, and Cheonan.",1
+"Exactly 1 of the following cities are in India: Tiruppur, Pretoria, Ahmedabad, and Al Mahallah al Kubra.",0
+"Exactly 1 of the following cities are in Russia: Zhaoqing, Makhachkala, Tolyatti, and Saitama.",0
+"Exactly 2 of the following cities are in Brazil: Zhabei, Uberlandia, Curitiba, and Arak.",1
+"Exactly 1 of the following cities are in China: Cixi, Caloocan City, Al Mahallah al Kubra, and Liaocheng.",0
+"Exactly 2 of the following cities are in China: Kuala Lumpur, Tangshan, Odesa, and Amman.",0
+"Exactly 2 of the following cities are in Indonesia: Denpasar, Xuchang, Queens, and Mukalla.",0
+"Exactly 2 of the following cities are in China: Al Ahmadi, Multan, Nanning, and Chongqing.",1
+"Exactly 2 of the following cities are in Indonesia: Lubumbashi, Orumiyeh, Kuantan, and Batam.",0
+"Exactly 3 of the following cities are in China: Urumqi, Changshu, Ibague, and Jiaozuo.",1
+"Exactly 2 of the following cities are in Nigeria: Pikine, Shivaji Nagar, Abeokuta, and Yibin.",0
+"Exactly 3 of the following cities are in China: Malang, Serang, Ilorin, and Jinan.",0
+"Exactly 1 of the following cities are in India: Aligarh, Rajshahi, Nashik, and Jingmen.",0
+"Exactly 1 of the following cities are in China: Jambi City, Lilongwe, Cangzhou, and Jamshedpur.",1
+"Exactly 3 of the following cities are in China: Kampung Baru Subang, Shantou, Sanming, and Changde.",1
+"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Mbuji-Mayi, Chandigarh, Kahriz, and Shangrao.",1
+"Exactly 2 of the following cities are in Iraq: Surat, Sulaymaniyah, Kalyan, and Varanasi.",0
+"Exactly 2 of the following cities are in Burkina Faso: Changchun, Shangluo, Bobo-Dioulasso, and Meerut.",0
+"Exactly 1 of the following cities are in Brazil: Vadodara, Suez, Ribeirao Preto, and Kolhapur.",1
+"Exactly 2 of the following cities are in Russia: Kano, Lipetsk, Irbid, and Bikaner.",0
+"Exactly 2 of the following cities are in Brazil: Ar Raqqah, Manaus, Calgary, and Juiz de Fora.",1
+"Exactly 2 of the following cities are in China: Khartoum, Riga, Handan, and Hegang.",1
+"Exactly 2 of the following cities are in India: Chandigarh, Lahore, Shanghai, and Kawaguchi.",0
+"Exactly 2 of the following cities are in China: Jeonju, Davao, Linyi, and Zhoushan.",1
+"Exactly 3 of the following cities are in China: Suizhou, Puning, Longyan, and Indore.",1
+"Exactly 2 of the following cities are in Egypt: Shubra al Khaymah, Kirkuk, Chandigarh, and Rawalpindi.",0
+"Exactly 2 of the following cities are in China: Hangzhou, Algiers, Xining, and Krasnoyarsk.",1
+"Exactly 2 of the following cities are in China: Basrah, Pingliang, Harare, and Tangier.",0
+"Exactly 1 of the following cities are in China: Korla, Cankaya, Yangjiang, and Rui'an.",0
+"Exactly 1 of the following cities are in Iran: Copenhagen, Mississauga, Tehran, and Sambhaji Nagar.",1
+"Exactly 2 of the following cities are in China: Nizhniy Novgorod, Hebi, Lianyungang, and Busan.",1
+"Exactly 2 of the following cities are in China: Tiruchirappalli, Shantou, Fes, and Nanchong.",1
+"Exactly 2 of the following cities are in India: Liaocheng, Kolhapur, Guwahati, and Kigali.",1
+"Exactly 1 of the following cities are in Pakistan: Rawalpindi, Can Tho, Ansan-si, and Barranquilla.",1
+"Exactly 2 of the following cities are in Indonesia: Banjarmasin, Batam, Huzhou, and Binzhou.",1
+"Exactly 1 of the following cities are in China: Guangzhou, Ningbo, Qom, and Jiaxing.",0
+"Exactly 2 of the following cities are in China: Handan, Duesseldorf, Linyi, and Cebu City.",1
+"Exactly 1 of the following cities are in North Korea: Jinan, Ibague, Duque de Caxias, and Pyongyang.",1
+"Exactly 1 of the following cities are in Nigeria: Kaduna, Luancheng, Nanchang, and Suqian.",1
+"Exactly 2 of the following cities are in the Philippines: E'zhou, Makati City, Sangli, and Davao.",1
+"Exactly 1 of the following cities are in Pakistan: Karachi, Jabalpur, Laibin, and Tonghua.",1
+"Exactly 1 of the following cities are in China: Longyan, Shihezi, Ipoh, and Hannover.",0
+"Exactly 2 of the following cities are in Russia: Bokaro, Mersin, Krasnoyarsk, and Chaozhou.",0
+"Exactly 1 of the following cities are in China: Hengyang, Shaoxing, Jos, and Kallakurichi.",0
+"Exactly 2 of the following cities are in Brazil: Kobe, Hamamatsu, Nova Iguacu, and Semarang.",0
+"Exactly 2 of the following cities are in China: Yiwu, Krasnodar, Cuiaba, and Xinyang.",1
+"Exactly 2 of the following cities are in Brazil: Cochin, Jaboatao dos Guararapes, Kunming, and Maceio.",1
+"Exactly 2 of the following cities are in India: Pune, Xuzhou, Makassar, and Thane.",1
+"Exactly 1 of the following cities are in Tajikistan: Astrakhan, Heze, Dushanbe, and Yiwu.",1
+"Exactly 2 of the following cities are in China: Mississauga, Mazar-e Sharif, Jiujiang, and Tangshan.",1
+"Exactly 1 of the following cities are in Russia: Karbala, Antananarivo, Pimpri, and Novosibirsk.",1
+"Exactly 2 of the following cities are in Yemen: Binzhou, Hanoi, Sapporo, and Sanaa.",0
+"Exactly 2 of the following cities are in Jamaica: New Kingston, Kashgar, Zhuzhou, and Jiangmen.",0
+"Exactly 1 of the following cities are in China: Copenhagen, Guang'an, Chelyabinsk, and Omdurman.",1
+"Exactly 2 of the following cities are in Japan: Saitama, Reynosa, Sendai, and Ciudad Guayana.",1
+"Exactly 2 of the following cities are in Mauritania: Tegucigalpa, Nouakchott, Yekaterinburg, and Anshun.",0
+"Exactly 1 of the following cities are in China: Oslo, Hohhot, Yibin, and Ansan-si.",0
+"Exactly 2 of the following cities are in China: Shubra al Khaymah, Tangshan, Suwon, and Puning.",1
+"Exactly 2 of the following cities are in Brazil: Mississauga, Zhabei, Bogor, and Sao Jose dos Campos.",0
+"Exactly 2 of the following cities are in Côte d'Ivoire: Busan, Abobo, Bouake, and Odesa.",1
+"Exactly 1 of the following cities are in China: Zigong, Ibague, Baghdad, and Tucson.",1
+"Exactly 2 of the following cities are in India: Zahedan, Poznan, Ulhasnagar, and Stockholm.",0
+"Exactly 2 of the following cities are in Turkey: Beira, Eskisehir, Thane, and Bengbu.",0
+"Exactly 2 of the following cities are in China: Acapulco de Juarez, Guiyang, Huaihua, and Kaduna.",1
+"Exactly 2 of the following cities are in Indonesia: Laibin, Yangjiang, Palembang, and Huaihua.",0
+"Exactly 1 of the following cities are in Malaysia: Homyel', Nasiriyah, Shah Alam, and Minsk.",1
+"Exactly 2 of the following cities are in India: Ahmedabad, Giza, Guayaquil, and Bareilly.",1
+"Exactly 1 of the following cities are in China: Fushun, Malatya, Zarqa, and Changshu.",0
+"Exactly 2 of the following cities are in Egypt: Shubra al Khaymah, Rajkot, Tiruppur, and Malang.",0
+"Exactly 1 of the following cities are in China: Zhenjiang, Huainan, Lodz, and Rohini.",0
+"Exactly 2 of the following cities are in Mexico: Seongnam-si, Hegang, Naucalpan de Juarez, and Liaocheng.",0
+"Exactly 1 of the following cities are in Turkey: Wuwei, Omdurman, Erzurum, and Sevastopol.",1
+"Exactly 2 of the following cities are in the United States: Milwaukee, Kolkata, Yangquan, and Tolyatti.",0
+"Exactly 2 of the following cities are in Russia: Conakry, Rostov-na-Donu, Tokyo, and Tashkent.",0
+"Exactly 2 of the following cities are in India: Linfen, Nizhniy Novgorod, Bhayandar, and Shivaji Nagar.",1
+"Exactly 2 of the following cities are in Turkey: Jos, Jaipur, Mersin, and Saint Petersburg.",0
+"Exactly 2 of the following cities are in Colombia: Ibague, Zhumadian, Detroit, and Yaounde.",0
+"Exactly 2 of the following cities are in Côte d'Ivoire: Goiania, Johor Bahru, Abobo, and Florianopolis.",0
+"Exactly 2 of the following cities are in India: Tehran, Yibin, Hubli, and Hamhung.",0
+"Exactly 2 of the following cities are in China: Lianyungang, Quzhou, Ipoh, and Saitama.",1
+"Exactly 1 of the following cities are in China: Yongzhou, Jeddah, Putian, and Kota Bharu.",0
+"Exactly 1 of the following cities are in Nigeria: Bujumbura, Haiphong, Detroit, and Maiduguri.",1
+"Exactly 1 of the following cities are in India: Qiqihar, Chongqing, Kallakurichi, and Pune.",0
+"Exactly 1 of the following cities are in China: Santiago de Queretaro, Bujumbura, Copenhagen, and Wanxian.",1
+"Exactly 3 of the following cities are in Egypt: Giza, Nagpur, Nanning, and Comilla.",0
+"Exactly 2 of the following cities are in Brazil: Porto Alegre, Guang'an, Huangshi, and Caloocan City.",0
+"Exactly 1 of the following cities are in Kenya: Leipzig, Bhayandar, Guwahati, and Mombasa.",1
+"Exactly 3 of the following cities are in Kazakhstan: Langfang, Abeokuta, Almaty, and Juiz de Fora.",0
+"Exactly 2 of the following cities are in China: Shantou, Jiaozhou, Al Hudaydah, and Kobe.",1
+"Exactly 2 of the following cities are in India: Liuzhou, Kinshasa, Bengaluru, and Tiruppur.",1
+"Exactly 2 of the following cities are in China: Huangshi, Barranquilla, Calgary, and Quzhou.",1
+"Exactly 1 of the following cities are in China: Zhabei, Jilin, Las Pinas, and Wuzhou.",0
+"Exactly 1 of the following cities are in China: Chengdu, Bahawalpur, Kunming, and Samarinda.",0
+"Exactly 1 of the following cities are in China: Tijuana, Luohe, Hegang, and Malatya.",0
+"Exactly 3 of the following cities are in China: Baise, Isfahan, Zhoushan, and Cheonan.",0
+"Exactly 2 of the following cities are in India: Kanayannur, Durban, Onitsha, and Gwalior.",1
+"Exactly 2 of the following cities are in Russia: Makhachkala, Budapest, Manaus, and Qinzhou.",0
+"Exactly 1 of the following cities are in China: Cimahi, Fushun, Kermanshah, and Benxi.",0
+"Exactly 1 of the following cities are in China: Guankou, Da Nang, Luzhou, and Ciudad Nezahualcoyotl.",0
+"Exactly 1 of the following cities are in India: Najafgarh, Weihai, Chennai, and Shangyu.",0
+"Exactly 2 of the following cities are in China: Wanxian, Kozhikode, Qionghai, and Nampula.",1
+"Exactly 2 of the following cities are in China: Zhenjiang, Huainan, Lodz, and Rohini.",1
+"Exactly 1 of the following cities are in India: Nanded, Fes, Putian, and Longyan.",1
+"Exactly 1 of the following cities are in Indonesia: Vadodara, Brasilia, Palembang, and Aktobe.",1
+"Exactly 1 of the following cities are in Canada: Mississauga, Sarajevo, Kleinzschocher, and Guigang.",1
+"Exactly 2 of the following cities are in China: Sambhaji Nagar, Sanmenxia, Shangrao, and Sevastopol.",1
+"Exactly 1 of the following cities are in China: Qinhuangdao, Shijiazhuang, Callao, and Beijing.",0
+"Exactly 2 of the following cities are in China: Goyang-si, Changshu, Zaozhuang, and Suez.",1
+"Exactly 1 of the following cities are in Russia: Malacca, Krasnodar, Tlalpan, and Tolyatti.",0
+"Exactly 1 of the following cities are in India: Guwahati, Dombivli, Rio de Janeiro, and Kalyan.",0
+"Exactly 2 of the following cities are in the United States: Hezhou, Homs, The Bronx, and Jaboatao.",0
+"Exactly 1 of the following cities are in Russia: Aden, Tyumen, Cuttack, and Makati City.",1
+"Exactly 2 of the following cities are in China: Sanming, Kozhikode, Weifang, and Culiacan.",1
+"Exactly 2 of the following cities are in Egypt: Muscat, Al Mahallah al Kubra, Shiraz, and Suez.",1
+"Exactly 2 of the following cities are in Mexico: Tlalpan, Ciudad Juarez, Buraydah, and Kagoshima.",1
+"Exactly 1 of the following cities are in India: Mbuji-Mayi, Mexicali, Bhilai, and Pingdingshan.",1
+"Exactly 2 of the following cities are in India: Zhoushan, Lodz, Solapur, and Kashgar.",0
+"Exactly 2 of the following cities are in India: General Santos, Moradabad, Bhiwandi, and Al Ahmadi.",1
+"Exactly 1 of the following cities are in Iran: Goeteborg, Oyo, Pikine, and Orumiyeh.",1
+"Exactly 2 of the following cities are in Russia: Penza, Karbala, Dandong, and Bucharest.",0
+"Exactly 1 of the following cities are in China: Baku, Zhangjiagang, Ansan-si, and Wenzhou.",0
+"Exactly 2 of the following cities are in India: Lanzhou, Jalandhar, Cuttack, and Lu'an.",1
+"Exactly 1 of the following cities are in Iraq: Florianopolis, Qingdao, Beira, and Erbil.",1
+"Exactly 1 of the following cities are in China: Handan, Duesseldorf, Linyi, and Cebu City.",0
+"Exactly 1 of the following cities are in China: Tiruchirappalli, Shantou, Fes, and Nanchong.",0
+"Exactly 2 of the following cities are in India: Dehra Dun, Barnaul, Surat, and Nasiriyah.",1
+"Exactly 1 of the following cities are in China: Xuchang, Ulyanovsk, Benoni, and Weifang.",0
+"Exactly 2 of the following cities are in China: Lianyungang, Jaboatao dos Guararapes, Vilnius, and Huzhou.",1
+"Exactly 2 of the following cities are in India: Shangrao, Ibague, Jaipur, and Bamako.",0
+"Exactly 1 of the following cities are in China: Semarang, Anyang, Tirunelveli, and Shihezi.",0
+"Exactly 2 of the following cities are in Nigeria: Tabriz, Anshun, Warri, and Nampula.",0
+"Exactly 2 of the following cities are in China: Qiqihar, Kermanshah, Chizhou, and New South Memphis.",1
+"Exactly 1 of the following cities are in Brazil: Ahmedabad, Marrakesh, Porto Alegre, and Luohe.",1
+"Exactly 1 of the following cities are in Jamaica: Kolhapur, Huangshi, Saitama, and New Kingston.",1
+"Exactly 1 of the following cities are in China: Huzhou, Kharkiv, Cixi, and Korla.",0
+"Exactly 1 of the following cities are in Pakistan: Sargodha, Bahcelievler, Vijayawada, and Kotli.",0
+"Exactly 2 of the following cities are in China: Jiaozhou, Weihai, Aden, and Lodz.",1
+"Exactly 1 of the following cities are in Mexico: Detroit, Lahore, Florianopolis, and Aguascalientes.",1
+"Exactly 1 of the following cities are in China: Mysore, Panshan, Grosszschocher, and Gaziantep.",1
+"Exactly 2 of the following cities are in China: Arak, Anqing, Shangrao, and Maracay.",1
+"Exactly 2 of the following cities are in Australia: Muzaffarabad, Hangzhou, Bengaluru, and Gold Coast.",0
+"Exactly 2 of the following cities are in China: Belo Horizonte, Jos, Jinan, and Jiaozuo.",1
+"Exactly 3 of the following cities are in China: Suizhou, Anshan, Kunshan, and Erbil.",1
+"Exactly 2 of the following cities are in China: Lipetsk, Al Ain City, Binzhou, and Duesseldorf.",0
+"Exactly 2 of the following cities are in China: Lahore, Lilongwe, Hezhou, and Ganzhou.",1
+"Exactly 1 of the following cities are in India: Liuzhou, Kinshasa, Bengaluru, and Tiruppur.",0
+"Exactly 2 of the following cities are in China: Tyumen, Handan, Chaozhou, and Cebu City.",1
+"Exactly 1 of the following cities are in China: Kobe, Albuquerque, Dakar, and Guangzhou.",1
+"Exactly 2 of the following cities are in Russia: Malacca, Krasnodar, Tlalpan, and Tolyatti.",1
+"Exactly 2 of the following cities are in Yemen: Taiz, Kayseri, Zhaotong, and Baotou.",0
+"Exactly 2 of the following cities are in the Philippines: Taguig, Salta, Novokuznetsk, and Bucharest.",0
+"Exactly 2 of the following cities are in Japan: Jaboatao, Kitakyushu, Aligarh, and Port Said.",0
+"Exactly 1 of the following cities are in Russia: Barnaul, Minsk, Sorocaba, and Ciudad Guayana.",1
+"Exactly 2 of the following cities are in Iraq: Kirkuk, Al Basrah al Qadimah, Bien Hoa, and Porto Velho.",1
+"Exactly 1 of the following cities are in India: Shangqiu, Jamshedpur, Tlalpan, and New Kingston.",1
+"Exactly 2 of the following cities are in Nicaragua: Managua, Naberezhnyye Chelny, Gaziantep, and Kunshan.",0
+"Exactly 1 of the following cities are in China: Lianyungang, Kalyan, Hangzhou, and Asansol.",0
+"Exactly 1 of the following cities are in China: Yingkou, Calgary, Paranaque City, and Zhumadian.",0
+"Exactly 1 of the following cities are in India: Irkutsk, Rajkot, Jinan, and Jamshedpur.",0
+"Exactly 2 of the following cities are in China: Xuzhou, Chandigarh, Stockholm, and Bengbu.",1
+"Exactly 2 of the following cities are in Japan: Kyoto, Huainan, Wuzhou, and Maiduguri.",0
+"Exactly 1 of the following cities are in Brazil: Teresina, Tianjin, Dehra Dun, and Shivaji Nagar.",1
+"Exactly 2 of the following cities are in China: Wuwei, Shanghai, Bouake, and Kyoto.",1
+"Exactly 1 of the following cities are in Mozambique: Madinat an Nasr, Nampula, Puducherry, and Kawaguchi.",1
+"Exactly 1 of the following cities are in China: Kyiv, Irkutsk, Kashgar, and Zhangzhou.",0
+"Exactly 2 of the following cities are in Mexico: Ciudad Juarez, Durban, Kalyan, and San Luis Potosi.",1
+"Exactly 1 of the following cities are in Yemen: Qiqihar, Luohe, Goiania, and Taiz.",1
+"Exactly 2 of the following cities are in China: Muzaffarabad, Lanzhou, Panzhihua, and Rajkot.",1
+"Exactly 2 of the following cities are in China: Surat, Bareilly, Zaria, and Guangyuan.",0
+"Exactly 2 of the following cities are in Brazil: Joao Pessoa, Shizuoka, Cochin, and Shiraz.",0
+"Exactly 2 of the following cities are in Mexico: Guarulhos, Aguascalientes, Uberlandia, and Kallakurichi.",0
+"Exactly 2 of the following cities are in India: Karol Bagh, Krakow, Reynosa, and Amritsar.",1
+"Exactly 1 of the following cities are in China: Fuxin, Kagoshima, Rizhao, and Omsk.",0
+"Exactly 2 of the following cities are in China: Nuernberg, Baise, Kawaguchi, and Meizhou.",1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Uskudar, Kinshasa, Hefei, and Milwaukee.",0
+"Exactly 2 of the following cities are in India: Meerut, Ha'il, Al Ain City, and Bhiwandi.",1
+"Exactly 1 of the following cities are in the United States: Albuquerque, Goeteborg, Mukalla, and Ma'anshan.",1
+"Exactly 2 of the following cities are in India: Bhilai, Huzhou, Hachioji, and Kallakurichi.",1
+"Exactly 1 of the following cities are in China: Liuzhou, Banjarmasin, Seongnam-si, and Ningbo.",0
+"Exactly 2 of the following cities are in China: Kunming, Diyarbakir, Xianning, and Lubumbashi.",1
+"Exactly 2 of the following cities are in India: Batam, Albuquerque, Chuzhou, and Bengaluru.",0
+"Exactly 2 of the following cities are in India: Shangyu, Dhanbad, Weifang, and N'Djamena.",0
+"Exactly 2 of the following cities are in India: Kinshasa, Bhayandar, Bengaluru, and Mombasa.",1
+"Exactly 2 of the following cities are in China: Jiaxing, Kirkuk, Longyan, and Sofia.",1
+"Exactly 2 of the following cities are in China: Arak, Ciudad Juarez, Handan, and Zhenjiang.",1
+"Exactly 2 of the following cities are in India: Eskisehir, Nowrangapur, Moradabad, and Bandar Lampung.",1
+"Exactly 3 of the following cities are in China: Qom, Zhumadian, Budapest, and Cuiaba.",0
+"Exactly 1 of the following cities are in Japan: Suwon, Xinyang, Osaka, and Nanchang.",1
+"Exactly 2 of the following cities are in China: Aguascalientes, Lahore, Dongying, and Qiqihar.",1
+"Exactly 1 of the following cities are in India: Mississauga, Bengaluru, Gwalior, and Qinhuangdao.",0
+"Exactly 2 of the following cities are in Vietnam: Phnom Penh, Karaj, Jos, and Hanoi.",0
+"Exactly 1 of the following cities are in China: Xuanzhou, Bloemfontein, Algiers, and Fuxin.",0
+"Exactly 3 of the following cities are in China: Mudanjiang, Shangqiu, Milwaukee, and Anshun.",1
+"Exactly 3 of the following cities are in China: Isfahan, Zhangye, Yichang, and Heze.",1
+"Exactly 1 of the following cities are in India: Kozhikode, Pasig City, Jaipur, and Siliguri.",0
+"Exactly 2 of the following cities are in Pakistan: Islamabad, Cape Town, Penza, and Karbala.",0
+"Exactly 2 of the following cities are in China: Isfahan, Chuzhou, Rio de Janeiro, and Hangzhou.",1
+"Exactly 2 of the following cities are in India: Shivaji Nagar, San Luis Potosi, Tiruppur, and Mandalay.",1
+"Exactly 2 of the following cities are in China: Khabarovsk Vtoroy, Zhoushan, Shuangyashan, and Jaboatao.",1
+"Exactly 2 of the following cities are in China: Hefei, Bucheon-si, Muscat, and Hanzhong.",1
+"Exactly 2 of the following cities are in Iraq: Meizhou, Ciudad Guayana, Sulaymaniyah, and Kemerovo.",0
+"Exactly 1 of the following cities are in Turkey: Ya'an, Erzurum, Benxi, and Ho Chi Minh City.",1
+"Exactly 2 of the following cities are in Denmark: Tijuana, Ciudad Juarez, Juiz de Fora, and Copenhagen.",0
+"Exactly 2 of the following cities are in China: Cheonan, Kashgar, Ganzhou, and Turin.",1
+"Exactly 1 of the following cities are in Brazil: Cuiaba, Mianzhu, Deyang, Sichuan, Krasnodar, and Hebi.",1
+"Exactly 1 of the following cities are in Peru: Callao, Longyan, Khabarovsk, and Liupanshui.",1
+"Exactly 1 of the following cities are in Moldova: Chisinau, Kisangani, Zigong, and Faisalabad.",1
+"Exactly 2 of the following cities are in Japan: Naberezhnyye Chelny, Ranchi, Adana, and Matsuyama.",0
+"Exactly 2 of the following cities are in Germany: Dar es Salaam, Zhaotong, Guankou, and Munich.",0
+"Exactly 2 of the following cities are in India: Theni, Navi Mumbai, Luancheng, and Neijiang.",1
+"Exactly 2 of the following cities are in China: Chaozhou, Juiz de Fora, Hebi, and Santiago de Queretaro.",1
+"Exactly 2 of the following cities are in Malaysia: Bhayandar, Subang Jaya, Aparecida de Goiania, and Ipoh.",1
+"Exactly 1 of the following cities are in Russia: Penza, Zhangye, Omdurman, and Suqian.",1
+"Exactly 2 of the following cities are in India: Tonghua, Rui'an, Dalian, and Bhilai.",0
+"Exactly 2 of the following cities are in China: Coimbatore, Shah Alam, Zibo, and Shangyu.",1
+"Exactly 1 of the following cities are in Nigeria: Ebute Ikorodu, Baku, Herat, and Kano.",0
+"Exactly 1 of the following cities are in China: Homyel', Qingdao, Urumqi, and Dubai.",0
+"Exactly 2 of the following cities are in Russia: Rostov-na-Donu, Aparecida de Goiania, Asyut, and Tashkent.",0
+"Exactly 2 of the following cities are in China: Tianshui, Qujing, Theni, and Managua.",1
+"Exactly 1 of the following cities are in China: Baoji, Shijiazhuang, Jaboatao dos Guararapes, and Kampala.",0
+"Exactly 2 of the following cities are in China: Nanchong, Saratov, Jaboatao, and Ordos.",1
+"Exactly 1 of the following cities are in China: Bhayandar, Shuangyashan, Chaozhou, and Omdurman.",0
+"Exactly 2 of the following cities are in China: Ma'anshan, Yiwu, Joao Pessoa, and Jamshedpur.",1
+"Exactly 1 of the following cities are in China: Lanzhou, Huizhou, Changshu, and Sorocaba.",0
+"Exactly 2 of the following cities are in Germany: Antananarivo, Kitakyushu, Grosszschocher, and Dnipro.",0
+"Exactly 1 of the following cities are in Russia: Tomsk, Liaocheng, Ecatepec de Morelos, and Quzhou.",1
+"Exactly 2 of the following cities are in China: Fuxin, Tolyatti, Anyang, and Kigali.",1
+"Exactly 2 of the following cities are in the United Arab Emirates: Dubai, Tianjin, Porto Velho, and Tomsk.",0
+"Exactly 2 of the following cities are in Peru: Dalian, Pune, Callao, and Aktobe.",0
+"Exactly 1 of the following cities are in Indonesia: Bamako, Coyoacan, Tangerang, and Puente Alto.",1
+"Exactly 3 of the following cities are in China: Yunfu, Nampula, Yongzhou, and Yichang.",1
+"Exactly 2 of the following cities are in India: Pietermaritzburg, Kota Bharu, Jamshedpur, and Visakhapatnam.",1
+"Exactly 2 of the following cities are in Venezuela: Okayama, Guangyuan, Maturin, and Ziyang.",0
+"Exactly 2 of the following cities are in Indonesia: Serang, Moradabad, Zahedan, and Pimpri.",0
+"Exactly 2 of the following cities are in Jordan: Irbid, Changwon, Casablanca, and Petaling Jaya.",0
+"Exactly 2 of the following cities are in Mexico: Tijuana, Kermanshah, Tangerang, and Tonghua.",0
+"Exactly 2 of the following cities are in China: Mexicali, Dortmund, Huangshi, and Shangluo.",1
+"Exactly 3 of the following cities are in India: Bokaro, Narela, Dnipro, and Nanded.",1
+"Exactly 2 of the following cities are in China: Thuan An, Jingmen, Beira, and Panshan.",1
+"Exactly 2 of the following cities are in Pakistan: Quetta, Nasiriyah, Warangal, and Dar es Salaam.",0
+"Exactly 1 of the following cities are in Iraq: Rajshahi, Huangshi, Qinzhou, and Erbil.",1
+"Exactly 2 of the following cities are in Malaysia: Ningbo, Hubli, Hengyang, and Kuantan.",0
+"Exactly 1 of the following cities are in Turkey: Mersin, Kyiv, Fuxin, and Pingliang.",1
+"Exactly 2 of the following cities are in Algeria: Algiers, Mbuji-Mayi, Nay Pyi Taw, and Ecatepec de Morelos.",0
+"Exactly 1 of the following cities are in Japan: Kawaguchi, Lyon, Rangpur, and Narela.",1
+"Exactly 2 of the following cities are in South Korea: Anyang-si, Incheon, Harare, and Amman.",1
+"Exactly 2 of the following cities are in China: Xingtai, Khulna, Maracay, and Jingmen.",1
+"Exactly 1 of the following cities are in India: Tiruppur, Vadodara, Jeonju, and Bijie.",0
+"Exactly 1 of the following cities are in India: Karol Bagh, Quetta, Samarinda, and Ganzhou.",1
+"Exactly 2 of the following cities are in China: Cuttack, Florianopolis, Siping, and Huangshi.",1
+"Exactly 1 of the following cities are in China: Dushanbe, Meerut, Sanming, and Wanzhou.",0
+"Exactly 1 of the following cities are in Eritrea: Shantou, Asmara, Wanxian, and Shangrao.",1
+"Exactly 2 of the following cities are in India: Yinchuan, Varanasi, Mazar-e Sharif, and Gaziantep.",0
+"Exactly 1 of the following cities are in Russia: Tomsk, Volgograd, Dombivli, and Najran.",0
+"Exactly 1 of the following cities are in Russia: Mombasa, Chicago, Krasnoyarsk, and Asansol.",1
+"Exactly 1 of the following cities are in the United States: Baotou, Tucson, Florianopolis, and Queens.",0
+"Exactly 1 of the following cities are in Iran: Ganzhou, Kahriz, Campos dos Goytacazes, and Krasnodar.",1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Lubumbashi, Zhangjiakou, Goyang-si, and Vilnius.",0
+"Exactly 2 of the following cities are in Turkey: Erzurum, Laibin, Rio de Janeiro, and Istanbul.",1
+"Exactly 2 of the following cities are in China: Tomsk, Neijiang, Anshan, and Ebute Ikorodu.",1
+"Exactly 3 of the following cities are in Malaysia: Novokuznetsk, Oyo, Sambhaji Nagar, and Kuala Lumpur.",0
+"Exactly 2 of the following cities are in Turkey: Konya, Diyarbakir, Al Hudaydah, and Uberlandia.",1
+"Exactly 1 of the following cities are in Somalia: Puning, Abuja, Arequipa, and Mogadishu.",1
+"Exactly 1 of the following cities are in Brazil: Sokoto, Mersin, Cixi, and Porto Alegre.",1
+"Exactly 2 of the following cities are in Russia: Casablanca, Daqing, Khabarovsk Vtoroy, and Bagcilar.",0
+"Exactly 2 of the following cities are in Russia: Tashkent, Wanning, Yaroslavl, and Huzhou.",0
+"Exactly 1 of the following cities are in China: Coimbatore, Shah Alam, Zibo, and Shangyu.",0
+"Exactly 2 of the following cities are in China: Kalininskiy, Jinan, The Bronx, and Nanchong.",1
+"Exactly 1 of the following cities are in Peru: Beijing, Tlaquepaque, Pasig City, and Arequipa.",1
+"Exactly 1 of the following cities are in Indonesia: Porto Alegre, Deyang, Bogor, and Chisinau.",1
+"Exactly 2 of the following cities are in Nigeria: Yongzhou, Jaboatao, Abeokuta, and Thiruvananthapuram.",0
+"Exactly 1 of the following cities are in China: Foshan, Krakow, Tolyatti, and Guang'an.",0
+"Exactly 2 of the following cities are in Nigeria: Ganzhou, Kaduna, Herat, and Kuala Lumpur.",0
+"Exactly 1 of the following cities are in China: Muscat, Thuan An, Quzhou, and Mianzhu, Deyang, Sichuan.",0
+"Exactly 2 of the following cities are in China: Linfen, Faisalabad, Tabriz, and Fushun.",1
+"Exactly 2 of the following cities are in India: Kyoto, Samarkand, Accra, and Bhiwandi.",0
+"Exactly 2 of the following cities are in Egypt: Nashik, Kallakurichi, Matola, and Shubra al Khaymah.",0
+"Exactly 2 of the following cities are in China: Wanxian, Zaporizhzhya, Zaria, and Shenyang.",1
+"Exactly 1 of the following cities are in China: Lianyungang, Quzhou, Ipoh, and Saitama.",0
+"Exactly 2 of the following cities are in Iran: Weihai, Barnaul, Tabriz, and Pietermaritzburg.",0
+"Exactly 3 of the following cities are in China: Nashik, Jos, Reynosa, and Yinchuan.",0
+"Exactly 2 of the following cities are in the Philippines: Shangyu, Bhilai, Tiruchirappalli, and Davao.",0
+"Exactly 2 of the following cities are in Turkey: Wuwei, Sanaa, Adana, and Esenler.",1
+"Exactly 1 of the following cities are in China: Al Fayyum, Rohini, Meizhou, and Yingkou.",0
+"Exactly 2 of the following cities are in India: Ha'il, Rohini, Ajmer, and Zhoushan.",1
+"Exactly 3 of the following cities are in China: Bayannur, Luancheng, Cebu City, and Baotou.",1
+"Exactly 1 of the following cities are in Russia: Islamabad, Yekaterinburg, Kalininskiy, and Tebessa.",0
+"Exactly 2 of the following cities are in Bangladesh: Nova Iguacu, Chattogram, Kunshan, and Duesseldorf.",0
+"Exactly 2 of the following cities are in Burundi: Bujumbura, Detroit, Belo Horizonte, and Kuantan.",0
+"Exactly 2 of the following cities are in China: Xiamen, Al Mahallah al Kubra, Vladivostok, and Shenzhen.",1
+"Exactly 2 of the following cities are in Germany: Frankfurt am Main, Kolhapur, Cheonan, and Handan.",0
+"Exactly 2 of the following cities are in India: Tiruppur, Vadodara, Jeonju, and Bijie.",1
+"Exactly 2 of the following cities are in Kazakhstan: Naberezhnyye Chelny, Karachi, Shymkent, and Xiangtan.",0
+"Exactly 1 of the following cities are in India: Tijuana, Aligarh, Amravati, and Manaus.",0
+"Exactly 1 of the following cities are in India: Bhubaneswar, Guntur, Shijiazhuang, and Kampung Baru Subang.",0
+"Exactly 2 of the following cities are in Zambia: Cancun, Odesa, Lusaka, and Krakow.",0
+"Exactly 3 of the following cities are in India: Ajmer, Qinhuangdao, Bhopal, and Kanayannur.",1
+"Exactly 2 of the following cities are in China: Quetta, Uberlandia, Changde, and Rizhao.",1
+"Exactly 3 of the following cities are in South Korea: Daegu, Luancheng, Tiruchirappalli, and Faisalabad.",0
+"Exactly 1 of the following cities are in Germany: Nairobi, Las Pinas, Zigong, and Munich.",1
+"Exactly 2 of the following cities are in China: Zunyi, Chattogram, Yangquan, and Ansan-si.",1
+"Exactly 2 of the following cities are in China: Jambi City, Nanjing, Kolkata, and Wanxian.",1
+"Exactly 2 of the following cities are in Brazil: Dongying, Nanning, Omsk, and Sao Bernardo do Campo.",0
+"Exactly 2 of the following cities are in the United Arab Emirates: Prayagraj, Rawalpindi, Dubai, and Zunyi.",0
+"Exactly 1 of the following cities are in Vietnam: Queens, Xianning, Bien Hoa, and Lanzhou.",1
+"Exactly 2 of the following cities are in Indonesia: Bursa, Batam, Joao Pessoa, and Kashgar.",0
+"Exactly 1 of the following cities are in Sweden: Adana, Shantou, Duque de Caxias, and Goeteborg.",1
+"Exactly 2 of the following cities are in China: San Miguel de Tucuman, Jiamusi, Ma'anshan, and Arak.",1
+"Exactly 1 of the following cities are in China: Hamamatsu, Dombivli, Dongying, and Dandong.",0
+"Exactly 2 of the following cities are in China: Mar del Plata, Oslo, Kagoshima, and Shenzhen.",0
+"Exactly 2 of the following cities are in India: Kumamoto, Surat, Zhanjiang, and Bilimora.",1
+"Exactly 2 of the following cities are in India: Tijuana, Aligarh, Amravati, and Manaus.",1
+"Exactly 2 of the following cities are in China: Samarkand, Ciudad Guayana, Handan, and Mianzhu, Deyang, Sichuan.",1
+"Exactly 2 of the following cities are in Malaysia: Zaporizhzhya, Zagreb, Klang, and Yangquan.",0
+"Exactly 3 of the following cities are in Mexico: Davao, Ciudad Nezahualcoyotl, Shenyang, and Herat.",0
+"Exactly 1 of the following cities are in China: Xianyang, Dombivli, Salta, and Yibin.",0
+"Exactly 2 of the following cities are in Pakistan: Shizuoka, Fortaleza, Cancun, and Muzaffarabad.",0
+"Exactly 2 of the following cities are in India: Erbil, Cochin, Ganzhou, and Visakhapatnam.",1
+"Exactly 1 of the following cities are in Peru: Chiclayo, Ankara, Qinhuangdao, and Tolyatti.",1
+"Exactly 3 of the following cities are in Nigeria: Ufa, Shiraz, Tangerang, and Enugu.",0
+"Exactly 3 of the following cities are in India: Pasig City, Guntur, Weifang, and Lusaka.",0
+"Exactly 2 of the following cities are in Ukraine: Lviv, Khulna, Bhubaneswar, and Sofia.",0
+"Exactly 2 of the following cities are in Japan: Saitama, Port Harcourt, Nagoya, and Tianjin.",1
+"Exactly 1 of the following cities are in China: Dakar, Nova Iguacu, Hegang, and Huaibei.",0
+"Exactly 2 of the following cities are in China: Lilongwe, Suining, Taicang, and Najafgarh.",1
+"Exactly 1 of the following cities are in China: Daejeon, Haiphong, Fushun, and Panzhihua.",0
+"Exactly 2 of the following cities are in China: Changde, Yingkou, Ahvaz, and Khartoum.",1
+"Exactly 1 of the following cities are in Turkey: Algiers, Bucaramanga, Izmir, and Foshan.",1
+"Exactly 2 of the following cities are in China: Wuhan, Bekasi, Zunyi, and Kalininskiy.",1
+"Exactly 1 of the following cities are in China: Shaoguan, Baku, Qiqihar, and Nampula.",0
+"Exactly 2 of the following cities are in China: Solapur, Belo Horizonte, Ganzhou, and Chizhou.",1
+"Exactly 2 of the following cities are in China: Wanning, Cheonan, Surat, and Xinyang.",1
+"Exactly 2 of the following cities are in China: Al Fayyum, Rohini, Meizhou, and Yingkou.",1
+"Exactly 2 of the following cities are in China: Fuxin, Iztapalapa, Bhavnagar, and Huainan.",1
+"Exactly 2 of the following cities are in Bangladesh: Bucheon-si, Milwaukee, Rangpur, and Chizhou.",0
+"Exactly 2 of the following cities are in China: Huaihua, Suining, Wroclaw, and Chandigarh.",1
+"Exactly 3 of the following cities are in China: Bouake, Santo Domingo Este, Baoji, and Tiruppur.",0
+"Exactly 2 of the following cities are in Iran: Tabriz, Lviv, Cixi, and Niigata.",0
+"Exactly 2 of the following cities are in Russia: Seoul, Suez, Kahriz, and Barnaul.",0
+"Exactly 2 of the following cities are in China: Santiago de Cuba, Jiaxing, Enugu, and Jiaozuo.",1
+"Exactly 1 of the following cities are in Russia: Rahim Yar Khan, Ryazan', Barnaul, and Tangerang.",0
+"Exactly 1 of the following cities are in India: Reynosa, Jalandhar, Chenzhou, and Beijing.",1
+"Exactly 2 of the following cities are in China: Yichang, Mexico City, Reynosa, and Fushun.",1
+"Exactly 1 of the following cities are in China: Shangluo, Bekasi, Jiaozhou, and Shijiazhuang.",0
+"Exactly 2 of the following cities are in India: Shivaji Nagar, Hachioji, Jabalpur, and Linfen.",1
+"Exactly 1 of the following cities are in South Korea: Lipetsk, Bucheon-si, Londrina, and Rahim Yar Khan.",1
+"Exactly 1 of the following cities are in Nigeria: Zaria, Hebi, Algiers, and Luzhou.",1
+"Exactly 1 of the following cities are in Vietnam: New South Memphis, San Luis Potosi, Thuan An, and Minsk.",1
+"Exactly 1 of the following cities are in Morocco: Marrakesh, Kolhapur, Kota Bharu, and Caracas.",1
+"Exactly 2 of the following cities are in Russia: Nanded, Izhevsk, Guwahati, and Lipetsk.",1
+"Exactly 2 of the following cities are in Malaysia: Kampung Baru Subang, Calgary, Kuantan, and Wanzhou.",1
+"Exactly 1 of the following cities are in Brazil: Visakhapatnam, Kashgar, Tlalpan, and Porto Alegre.",1
+"Exactly 3 of the following cities are in China: Neijiang, Shantou, Almaty, and Jilin.",1
+"Exactly 2 of the following cities are in China: Copenhagen, Guang'an, Chelyabinsk, and Omdurman.",0
+"Exactly 2 of the following cities are in Mexico: Guayaquil, Yunfu, Ufa, and Santiago de Queretaro.",0
+"Exactly 2 of the following cities are in China: The Bronx, Zhangye, Jieyang, and Guntur.",1
+"Exactly 1 of the following cities are in Russia: Saint Petersburg, Irbid, Bogor, and Xiamen.",1
+"Exactly 2 of the following cities are in Belarus: Xiangtan, Klang, Omdurman, and Minsk.",0
+"Exactly 3 of the following cities are in China: Zaozhuang, Madinat an Nasr, Tianshui, and Zunyi.",1
+"Exactly 3 of the following cities are in China: Guankou, Liupanshui, Gold Coast, and Jiujiang.",1
+"Exactly 2 of the following cities are in India: Indianapolis, Ma'anshan, Campos dos Goytacazes, and Surat.",0
+"Exactly 1 of the following cities are in China: Tonghua, Casablanca, Dandong, and Changwon.",0
+"Exactly 2 of the following cities are in Brazil: Gwalior, Rohini, Teresina, and Porto Alegre.",1
+"Exactly 1 of the following cities are in Sudan: Kathmandu, Porto Alegre, Nyala, and Budapest.",1
+"Exactly 2 of the following cities are in China: Oslo, Hohhot, Yibin, and Ansan-si.",1
+"Exactly 2 of the following cities are in Ukraine: Shenyang, Porto Alegre, Zaporizhzhya, and Malacca.",0
+"Exactly 1 of the following cities are in Mexico: Winnipeg, Xiamen, Benin City, and Naucalpan de Juarez.",1
+"Exactly 2 of the following cities are in Iran: Port Harcourt, Kermanshah, Buraydah, and Tlalpan.",0
+"Exactly 1 of the following cities are in China: Qiqihar, Pingdingshan, Navi Mumbai, and Saratov.",0
+"Exactly 2 of the following cities are in Algeria: Hiroshima, Cancun, Lviv, and Boumerdes.",0
+"Exactly 2 of the following cities are in Italy: Turin, Almaty, Panzhihua, and Matsuyama.",0
+"Exactly 1 of the following cities are in Japan: Puente Alto, Seoul, Okayama, and Bikaner.",1
+"Exactly 1 of the following cities are in Nigeria: Ibadan, Lome, Jakarta, and Abeokuta.",0
+"Exactly 2 of the following cities are in China: Kahriz, Luohe, Ilorin, and E'zhou.",1
+"Exactly 2 of the following cities are in India: Karaj, Wuzhou, Aligarh, and Shaoguan.",0
+"Exactly 2 of the following cities are in Pakistan: Ma'anshan, Batam, Karachi, and Ghaziabad.",0
+"Exactly 2 of the following cities are in China: Putian, Bishkek, Iztapalapa, and Jilin.",1
+"Exactly 2 of the following cities are in Poland: Thiruvananthapuram, Hebi, Abobo, and Lodz.",0
+"Exactly 2 of the following cities are in Turkey: Istanbul, Hwaseong-si, Hengyang, and Changde.",0
+"Exactly 3 of the following cities are in China: Kharkiv, Changde, Bijie, and Dandong.",1
+"Exactly 3 of the following cities are in China: Jinan, Guarulhos, Poznan, and Ranchi.",0
+"Exactly 2 of the following cities are in Nepal: Kathmandu, Surakarta, Nay Pyi Taw, and Victoria de Durango.",0
+"Exactly 2 of the following cities are in Malaysia: Pekanbaru, Jamshedpur, Shah Alam, and Kuantan.",1
+"Exactly 3 of the following cities are in China: Zhenjiang, Jiujiang, Kunshan, and Victoria de Durango.",1
+"Exactly 2 of the following cities are in South Korea: Lu'an, Kanpur, Karaj, and Goyang-si.",0
+"Exactly 2 of the following cities are in Russia: Paranaque City, Niigata, Krasnodar, and Volgograd.",1
+"Exactly 1 of the following cities are in Germany: Frankfurt am Main, Nizhniy Novgorod, Calgary, and Abuja.",1
+"Exactly 3 of the following cities are in China: Xiaogan, Antalya, Bengbu, and Chengdu.",1
+"Exactly 1 of the following cities are in South Africa: Bloemfontein, Muscat, Volgograd, and Wuhan.",1
+"Exactly 2 of the following cities are in Saudi Arabia: Shenyang, Ta'if, Grosszschocher, and Contagem.",0
+"Exactly 1 of the following cities are in China: Lilongwe, Suining, Taicang, and Najafgarh.",0
+"Exactly 1 of the following cities are in Mexico: Pimpri, Guiyang, Zapopan, and Chattogram.",1
+"Exactly 2 of the following cities are in China: Ya'an, Huaihua, Thiruvananthapuram, and Rajkot.",1
+"Exactly 2 of the following cities are in China: Zhenjiang, Jiujiang, Kunshan, and Victoria de Durango.",0
+"Exactly 2 of the following cities are in China: Foshan, Krakow, Tolyatti, and Guang'an.",1
+"Exactly 2 of the following cities are in Rwanda: Yekaterinburg, Tijuana, Kigali, and Wanzhou.",0
+"Exactly 1 of the following cities are in Indonesia: Zhaotong, Guiyang, Chattogram, and Bandar Lampung.",1
+"Exactly 2 of the following cities are in Turkey: Benoni, Diyarbakir, Guangzhou, and Yerevan.",0
+"Exactly 1 of the following cities are in China: Visakhapatnam, Chenzhou, Liupanshui, and Kathmandu.",0
+"Exactly 1 of the following cities are in China: Wenzhou, Al Ahmadi, Anqing, and Fukuoka.",0
+"Exactly 1 of the following cities are in Japan: Abu Dhabi, Hiroshima, Abu Ghurayb, and Juiz de Fora.",1
+"Exactly 1 of the following cities are in Venezuela: Ulhasnagar, Maracaibo, Kunming, and Johor Bahru.",1
+"Exactly 2 of the following cities are in China: Budapest, Ashgabat, Jiamusi, and Conakry.",0
+"Exactly 1 of the following cities are in China: Ankara, Jiamusi, Dehra Dun, and Zhangzhou.",0
+"Exactly 2 of the following cities are in Myanmar: Harare, Nay Pyi Taw, Mandalay, and Caloocan City.",1
+"Exactly 1 of the following cities are in India: Frankfurt am Main, Chenzhou, Sambhaji Nagar, and Rangpur.",1
+"Exactly 1 of the following cities are in Finland: Maracaibo, Helsinki, Klang, and Makhachkala.",1
+"Exactly 2 of the following cities are in Yemen: Mukalla, Johannesburg, Rio de Janeiro, and Hwaseong-si.",0
+"Exactly 2 of the following cities are in China: Maracaibo, Rohini, Dalian, and Pingdingshan.",1
+"Exactly 2 of the following cities are in India: Contagem, Karol Bagh, Makassar, and Vadodara.",1
+"Exactly 2 of the following cities are in China: Luancheng, Putian, Grosszschocher, and Zaria.",1
+"Exactly 2 of the following cities are in China: Tlaquepaque, Tianshui, Xianning, and Asyut.",1
+"Exactly 1 of the following cities are in Sudan: Khartoum, Kotli, Pretoria, and Rajkot.",1
+"Exactly 2 of the following cities are in China: Karaj, Cucuta, Wanning, and Hangzhou.",1
+"Exactly 2 of the following cities are in China: Zhaoqing, Najran, Yangquan, and Bahawalpur.",1
+"Exactly 2 of the following cities are in China: Kayseri, Guankou, Guilin, and Manaus.",1
+"Exactly 2 of the following cities are in India: Al Ain City, Al Mawsil al Jadidah, Wanzhou, and Ahmedabad.",0
+"Exactly 1 of the following cities are in India: Bhavnagar, Tiruppur, Visakhapatnam, and Izmir.",0
+"Exactly 1 of the following cities are in China: Ciudad Nezahualcoyotl, Korla, Suizhou, and Curitiba.",0
+"Exactly 3 of the following cities are in China: Conakry, Wuwei, Suining, and Rizhao.",1
+"Exactly 1 of the following cities are in Indonesia: Cimahi, Eskisehir, Jinan, and Muzaffarabad.",1
+"Exactly 1 of the following cities are in Mexico: Huangshi, Minsk, Cancun, and Xingtai.",1
+"Exactly 2 of the following cities are in Mexico: Torreon, Leon de los Aldama, Brazzaville, and Bikaner.",1
+"Exactly 2 of the following cities are in China: Siping, Suwon, Erbil, and Anshan.",1
+"Exactly 1 of the following cities are in Iran: Tianshui, Liuzhou, Adana, and Orumiyeh.",1
+"Exactly 2 of the following cities are in Brazil: Belo Horizonte, Yichang, Omdurman, and Campos dos Goytacazes.",1
+"Exactly 2 of the following cities are in China: Huaibei, Shuangyashan, Hiroshima, and Madurai.",1
+"Exactly 2 of the following cities are in China: Albuquerque, Antananarivo, Langfang, and Luancheng.",1
+"Exactly 2 of the following cities are in Iraq: Mosul, Al Fayyum, Guarulhos, and Al Hudaydah.",0
+"Exactly 2 of the following cities are in Turkmenistan: Changshu, Stockholm, Ashgabat, and Qinzhou.",0
+"Exactly 2 of the following cities are in Japan: Algiers, Tiruchirappalli, Sapporo, and Saitama.",1
+"Exactly 1 of the following cities are in India: Tiruchirappalli, Kolkata, Bogor, and Bayannur.",0
+"Exactly 1 of the following cities are in Germany: Narela, Kaduna, Chuzhou, and Munich.",1
+"Exactly 2 of the following cities are in Saudi Arabia: Teresina, Karol Bagh, Chuzhou, and Buraydah.",0
+"Exactly 2 of the following cities are in China: Basrah, Omdurman, Huangshi, and Luancheng.",1
+"Exactly 1 of the following cities are in Madagascar: Brasilia, Nashik, Antananarivo, and Isfahan.",1
+"Exactly 2 of the following cities are in Kenya: Longyan, Foshan, Varanasi, and Nairobi.",0
+"Exactly 2 of the following cities are in South Korea: Goyang-si, Borivli, Zhaotong, and Daejeon.",1
+"Exactly 1 of the following cities are in Malaysia: Hefei, Johor Bahru, Jingmen, and Bauchi.",1
+"Exactly 2 of the following cities are in China: Kandahar, Maturin, Tanggu, and Chongqing.",1
+"Exactly 2 of the following cities are in Algeria: Qom, Algiers, Seongnam-si, and Cape Town.",0
+"Exactly 2 of the following cities are in China: Guiyang, Ashgabat, Xianyang, and Shizuoka.",1
+"Exactly 2 of the following cities are in China: Asansol, Deyang, Ranchi, and Shangyu.",1
+"Exactly 1 of the following cities are in India: Khabarovsk Vtoroy, Indore, Pingdingshan, and Warri.",1
+"Exactly 2 of the following cities are in Japan: Kumamoto, Changde, Herat, and The Bronx.",0
+"Exactly 1 of the following cities are in Mali: Subang Jaya, Bamako, Aleppo, and Casablanca.",1
+"Exactly 1 of the following cities are in Kenya: Cuiaba, Abuja, Mombasa, and Sulaymaniyah.",1
+"Exactly 2 of the following cities are in China: Bhayandar, Onitsha, Zhaoqing, and Suqian.",1
+"Exactly 2 of the following cities are in China: Osaka, Anshan, Indore, and Chongqing.",1
+"Exactly 2 of the following cities are in China: Tonghua, Helsinki, Dar es Salaam, and Guang'an.",1
+"Exactly 1 of the following cities are in South Africa: Kisangani, Guangyuan, Sarajevo, and Pietermaritzburg.",1
+"Exactly 1 of the following cities are in India: Pimpri, Accra, Istanbul, and Shaoguan.",1
+"Exactly 2 of the following cities are in India: Bhopal, Yingkou, Jos, and Baoji.",0
+"Exactly 1 of the following cities are in Turkey: Bahcelievler, Bursa, Chennai, and Kolkata.",0
+"Exactly 1 of the following cities are in Morocco: Barranquilla, Panzhihua, Ho Chi Minh City, and Tangier.",1
+"Exactly 2 of the following cities are in Italy: Vijayawada, Turin, Shihezi, and Sargodha.",0
+"Exactly 2 of the following cities are in Turkey: Beira, Bhayandar, Malatya, and Adana.",1
+"Exactly 1 of the following cities are in Togo: Ufa, Zhengzhou, Lome, and Madinat an Nasr.",1
+"Exactly 2 of the following cities are in Brazil: Qinzhou, Maceio, Sapporo, and Ciudad Guayana.",0
+"Exactly 2 of the following cities are in Brazil: Porto Alegre, Accra, Maiduguri, and Campos dos Goytacazes.",1
+"Exactly 2 of the following cities are in China: Rui'an, Bilimora, Palembang, and Chongqing.",1
+"Exactly 2 of the following cities are in Japan: Shizuoka, Xiangtan, Penza, and Nagoya.",1
+"Exactly 2 of the following cities are in Pakistan: Taguig, Jaboatao, Multan, and Zhuzhou.",0
+"Exactly 2 of the following cities are in China: Izmir, Port-au-Prince, Jingmen, and Sulaymaniyah.",0
+"Exactly 2 of the following cities are in China: Bareilly, Laiwu, Shangluo, and Cochin.",1
+"Exactly 2 of the following cities are in China: Giza, Nanning, Shaoguan, and Sao Paulo.",1
+"Exactly 2 of the following cities are in Japan: Nowrangapur, Quebec, Hiroshima, and Rahim Yar Khan.",0
+"Exactly 1 of the following cities are in India: Antalya, Subang Jaya, Nowrangapur, and Pimpri.",0
+"Exactly 1 of the following cities are in India: Thiruvananthapuram, Shaoxing, Meizhou, and Marseille.",1
+"Exactly 2 of the following cities are in India: Dhanbad, Ajmer, Onitsha, and Seoul.",1
+"Exactly 1 of the following cities are in Venezuela: Pune, Mexico City, Maturin, and Beirut.",1
+"Exactly 1 of the following cities are in Brazil: Tegucigalpa, Goiania, San Pedro Sula, and Quito.",1
+"Exactly 2 of the following cities are in China: Beirut, Linyi, Tianshui, and Kimhae.",1
+"Exactly 2 of the following cities are in China: Jeonju, Zhangjiagang, Oyo, and Qinzhou.",1
+"Exactly 1 of the following cities are in Russia: Bayannur, Surat, Hengyang, and Ufa.",1
+"Exactly 1 of the following cities are in China: Mandalay, Puning, Ningbo, and Sao Paulo.",0
+"Exactly 2 of the following cities are in Iraq: Mogadishu, Sanming, Uberlandia, and Nasiriyah.",0
+"Exactly 1 of the following cities are in Japan: Ho Chi Minh City, Osaka, Kumamoto, and Vijayawada.",0
+"Exactly 2 of the following cities are in Croatia: Zagreb, Marseille, Tiruchirappalli, and Gold Coast.",0
+"Exactly 1 of the following cities are in China: Shuangyashan, Kharkiv, Balikpapan, and Serang.",1
+"Exactly 1 of the following cities are in Ukraine: Shenyang, Balikpapan, Jiangyin, and Dnipro.",1
+"Exactly 1 of the following cities are in India: Kumamoto, Surat, Zhanjiang, and Bilimora.",0
+"Exactly 2 of the following cities are in Somalia: Mogadishu, Zaozhuang, Huizhou, and Conakry.",0
+"Exactly 2 of the following cities are in India: Ryazan', Neijiang, Bilimora, and Amritsar.",1
+"Exactly 2 of the following cities are in India: Nanded, Fes, Putian, and Longyan.",0
+"Exactly 1 of the following cities are in China: Kemerovo, Cuiaba, Nanning, and Santiago de los Caballeros.",1
+"Exactly 1 of the following cities are in India: Ouagadougou, Ludhiana, Kalyan, and Bengaluru.",0
+"Exactly 1 of the following cities are in China: Yangjiang, Bujumbura, Lanzhou, and Bagcilar.",0
+"Exactly 2 of the following cities are in China: Las Pinas, Guayaquil, Jiujiang, and Thane.",0
+"Exactly 1 of the following cities are in China: Xianyang, Puente Alto, Xinyang, and Lome.",0
+"Exactly 3 of the following cities are in China: Shangqiu, Shuangyashan, Kampung Baru Subang, and Tianshui.",1
+"Exactly 2 of the following cities are in Poland: Huizhou, Maturin, Mexico City, and Krakow.",0
+"Exactly 2 of the following cities are in India: Narela, Chiclayo, Amman, and Xiaogan.",0
+"Exactly 2 of the following cities are in India: Al Ain City, Zaozhuang, Mumbai, and Hubli.",1
+"Exactly 1 of the following cities are in India: Xiangtan, Wanning, Faridabad, and Bobo-Dioulasso.",1
+"Exactly 1 of the following cities are in China: Khabarovsk, Laiwu, Naberezhnyye Chelny, and Huzhou.",0
+"Exactly 1 of the following cities are in China: Ya'an, Huaihua, Thiruvananthapuram, and Rajkot.",0
+"Exactly 2 of the following cities are in Honduras: Barquisimeto, Tegucigalpa, Xuchang, and Okayama.",0
+"Exactly 2 of the following cities are in China: Pingliang, Warri, Bloemfontein, and Shijiazhuang.",1
+"Exactly 2 of the following cities are in Tanzania: Bhopal, Kaifeng, Dar es Salaam, and Ryazan'.",0
+"Exactly 2 of the following cities are in Syria: Goeteborg, Ahvaz, Onitsha, and Latakia.",0
+"Exactly 2 of the following cities are in China: Dushanbe, Shenyang, Helsinki, and Ma'anshan.",1
+"Exactly 2 of the following cities are in China: Surat, Johor Bahru, Linfen, and Cangzhou.",1
+"Exactly 1 of the following cities are in China: Pingdingshan, Karaj, Guangzhou, and Zapopan.",0
+"Exactly 1 of the following cities are in China: Mandalay, Shantou, Guatemala City, and Surat.",1
+"Exactly 2 of the following cities are in Indonesia: Lubumbashi, Jaboatao dos Guararapes, Liupanshui, and Bogor.",0
+"Exactly 2 of the following cities are in China: Matola, Yichang, Jiaozhou, and Port Harcourt.",1
+"Exactly 2 of the following cities are in China: Bijie, Lianyungang, Malacca, and Bujumbura.",1
+"Exactly 2 of the following cities are in China: Tangshan, Shenyang, Asansol, and Recife.",1
+"Exactly 2 of the following cities are in India: Theni, Binzhou, Putian, and Rui'an.",0
+"Exactly 2 of the following cities are in Mexico: Iztapalapa, Shenyang, Klang, and Culiacan.",1
+"Exactly 1 of the following cities are in Paraguay: Durban, Buraydah, Lome, and Asuncion.",1
+"Exactly 1 of the following cities are in China: Bucaramanga, Zunyi, Shiraz, and Kunming.",0
+"Exactly 2 of the following cities are in Côte d'Ivoire: Bouake, Victoria de Durango, Las Pinas, and Daejeon.",0
+"Exactly 1 of the following cities are in China: Vilnius, Xuchang, Qinzhou, and Amritsar.",0
+"Exactly 1 of the following cities are in China: Huizhou, Changshu, Ajmer, and Leipzig.",0
+"Exactly 3 of the following cities are in China: Warangal, Cixi, Yangquan, and Tianshui.",1
+"Exactly 2 of the following cities are in Brazil: Nanded, Macapa, Mianzhu, Deyang, Sichuan, and Callao.",0
+"Exactly 2 of the following cities are in Azerbaijan: Baku, Bujumbura, Gaziantep, and Maturin.",0
+"Exactly 1 of the following cities are in China: Nova Iguacu, Kandahar, Shangyu, and Longyan.",0
+"Exactly 2 of the following cities are in China: Yongzhou, Saitama, Perm, and Chuzhou.",1
+"Exactly 2 of the following cities are in Mexico: Caloocan City, Jiangmen, Culiacan, and Sorocaba.",0
+"Exactly 2 of the following cities are in France: Marseille, Jiamusi, Faisalabad, and Contagem.",0
+"Exactly 1 of the following cities are in India: Denpasar, Beijing, Ankara, and Bhilai.",1
+"Exactly 2 of the following cities are in Nigeria: Hachioji, Amritsar, Abeokuta, and Thuan An.",0
+"Exactly 1 of the following cities are in the Philippines: General Santos, Klang, Hanzhong, and Caloocan City.",0
+"Exactly 2 of the following cities are in China: Guankou, Qom, Shihezi, and Baghdad.",1
+"Exactly 2 of the following cities are in China: Huizhou, Iztapalapa, Qujing, and Kumasi.",1
+"Exactly 1 of the following cities are in China: Khartoum, Riga, Handan, and Hegang.",0
+"Exactly 2 of the following cities are in India: Amravati, Jiangyin, Warangal, and Iztapalapa.",1
+"Exactly 2 of the following cities are in Japan: Niigata, Jaboatao dos Guararapes, Uberlandia, and Juiz de Fora.",0
+"Exactly 2 of the following cities are in Ghana: Sao Bernardo do Campo, Cuiaba, Haiphong, and Accra.",0
+"Exactly 1 of the following cities are in China: Abidjan, Zhangjiakou, Shiraz, and Aligarh.",1
+"Exactly 2 of the following cities are in China: Ulsan, Zunyi, Xuanzhou, and Seoul.",1
+"Exactly 2 of the following cities are in the United States: Changwon, Zhaotong, Tucson, and Nanded.",0
+"Exactly 2 of the following cities are in China: Uberlandia, Santiago de Cuba, Najran, and Shihezi.",0
+"Exactly 1 of the following cities are in China: Shantou, Harare, Korla, and Nyala.",0
+"Exactly 1 of the following cities are in India: Karol Bagh, Krakow, Reynosa, and Amritsar.",0
+"Exactly 2 of the following cities are in China: Rui'an, Bishkek, Kanayannur, and Dongying.",1
+"Exactly 3 of the following cities are in Ukraine: Bamako, Yibin, Faisalabad, and Sevastopol.",0
+"Exactly 2 of the following cities are in Russia: Perm, Bangkok, Sangli, and Bloemfontein.",0
+"Exactly 2 of the following cities are in China: Cuttack, Anshun, Bhubaneswar, and Dandong.",1
+"Exactly 2 of the following cities are in India: Shivaji Nagar, Mosul, Rohini, and Makati City.",1
+"Exactly 3 of the following cities are in China: Lanzhou, Huizhou, Changshu, and Sorocaba.",1
+"Exactly 2 of the following cities are in China: Bayannur, Kemerovo, Baghdad, and Shuangyashan.",1
+"Exactly 1 of the following cities are in Nigeria: Anshan, Ranchi, Ludhiana, and Kaduna.",1
+"Exactly 1 of the following cities are in Indonesia: Makassar, Mumbai, Pyongyang, and Ha'il.",1
+"Exactly 3 of the following cities are in China: Nanjing, Turin, Meknes, and Samarinda.",0
+"Exactly 1 of the following cities are in France: Al Basrah al Qadimah, Marseille, Ciudad Guayana, and Bhilai.",1
+"Exactly 1 of the following cities are in Brazil: Xinyang, Curitiba, Chelyabinsk, and Fortaleza.",0
+"Exactly 2 of the following cities are in China: Nagoya, Bengaluru, Fuxin, and Yangjiang.",1
+"Exactly 2 of the following cities are in Indonesia: Banjarmasin, Ajmer, Bhayandar, and Baghdad.",0
+"Exactly 1 of the following cities are in Nepal: Linyi, Kathmandu, Nyala, and Xingtai.",1
+"Exactly 2 of the following cities are in Venezuela: Antalya, Baghdad, Joao Pessoa, and Maracay.",0
+"Exactly 1 of the following cities are in Zambia: Leipzig, Nagoya, Lusaka, and Khabarovsk Vtoroy.",1
+"Exactly 2 of the following cities are in Brazil: Lodz, Macapa, Tashkent, and Liupanshui.",0
+"Exactly 1 of the following cities are in China: Nuernberg, Kimhae, Ipoh, and Zhengzhou.",1
+"Exactly 2 of the following cities are in Niger: Wenzhou, Niamey, Lusaka, and Heze.",0
+"Exactly 1 of the following cities are in the Democratic Republic of the Congo: Kisangani, Rohini, Bouake, and Shangqiu.",1
+"Exactly 2 of the following cities are in China: Luohe, Curitiba, Cangzhou, and Okayama.",1
+"Exactly 2 of the following cities are in Poland: Vilnius, Daegu, Tegucigalpa, and Poznan.",0
+"Exactly 2 of the following cities are in Brazil: Florianopolis, Maceio, Jos, and Antananarivo.",1
+"Exactly 3 of the following cities are in India: Pretoria, Bogor, Urumqi, and Vijayawada.",0
+"Exactly 1 of the following cities are in the Philippines: Liuzhou, Yunfu, Karaj, and Quezon City.",1
+"Exactly 3 of the following cities are in China: Huizhou, Iztapalapa, Qujing, and Kumasi.",0
+"Exactly 2 of the following cities are in Russia: Bahcelievler, Kermanshah, Astrakhan, and Ilorin.",0
+"Exactly 1 of the following cities are in China: Esenler, Sapporo, Stockholm, and Cangzhou.",1
+"Exactly 1 of the following cities are in China: Longyan, Lianyungang, Guntur, and Esenler.",0
+"Exactly 2 of the following cities are in China: Zhangjiagang, Indianapolis, Jiaozuo, and Riga.",1
+"Exactly 1 of the following cities are in Mexico: Ma'anshan, Rohini, Coyoacan, and Ciudad Juarez.",0
+"Exactly 2 of the following cities are in India: Brazzaville, Ludhiana, Naucalpan de Juarez, and Shivaji Nagar.",1
+"Exactly 2 of the following cities are in China: Oslo, Okayama, Urumqi, and Heze.",1
+"Exactly 2 of the following cities are in South Africa: Eskisehir, Tembisa, Brazzaville, and Ryazan'.",0
+"Exactly 1 of the following cities are in Venezuela: Turin, Jingmen, Zaozhuang, and Barquisimeto.",1
+"Exactly 2 of the following cities are in China: Teresina, Qingdao, Xingtai, and Bucheon-si.",1
+"Exactly 1 of the following cities are in China: Moradabad, Zhangjiagang, Tangerang, and Zigong.",0
+"Exactly 1 of the following cities are in Mexico: San Luis Potosi, Ciudad Nezahualcoyotl, Suizhou, and Heze.",0
+"Exactly 2 of the following cities are in China: Maracay, Ajmer, Jilin, and Dandong.",1
+"Exactly 2 of the following cities are in China: Krasnoyarsk, Jilin, Klang, and Puning.",1
+"Exactly 1 of the following cities are in Brazil: Sao Paulo, Bishkek, Manaus, and Suez.",0
+"Exactly 2 of the following cities are in Japan: Quetta, Johor Bahru, Sendai, and Matsuyama.",1
+"Exactly 1 of the following cities are in Russia: Rui'an, Ciudad Juarez, Liaocheng, and Kalininskiy.",1
+"Exactly 1 of the following cities are in Côte d'Ivoire: Ryazan', Abidjan, Hebi, and Zaozhuang.",1
+"Exactly 2 of the following cities are in China: Malatya, Huzhou, Denpasar, and Daqing.",1
+"Exactly 2 of the following cities are in Brazil: Porto Velho, Mukalla, Kyiv, and Visakhapatnam.",0
+"Exactly 2 of the following cities are in India: Shivaji Nagar, Kermanshah, Khartoum, and Homs.",0
+"Exactly 1 of the following cities are in India: Irkutsk, Malacca, Kisangani, and Borivli.",1
+"Exactly 1 of the following cities are in South Africa: Peshawar, Nagoya, Jakarta, and Pietermaritzburg.",1
+"Exactly 1 of the following cities are in China: Hamhung, Kunshan, Jiujiang, and Luancheng.",0
+"Exactly 2 of the following cities are in China: Sokoto, Zhoushan, Juiz de Fora, and Gwalior.",0
+"Exactly 2 of the following cities are in China: Kunming, Chicago, Addis Ababa, and Xinyang.",1
+"Exactly 2 of the following cities are in Pakistan: Changshu, Tashkent, Bhilai, and Rahim Yar Khan.",0
+"Exactly 1 of the following cities are in Croatia: Zagreb, Narela, Surat, and Tokyo.",1
+"Exactly 2 of the following cities are in China: Cixi, Caloocan City, Al Mahallah al Kubra, and Liaocheng.",1
+"Exactly 2 of the following cities are in Côte d'Ivoire: Prayagraj, Ansan-si, Abidjan, and Maracay.",0
+"Exactly 2 of the following cities are in Turkey: Dhanbad, Ankara, Rio de Janeiro, and Malatya.",1
+"Exactly 2 of the following cities are in China: Hangzhou, Wanning, Amritsar, and Daegu.",1
+"Exactly 3 of the following cities are in Turkey: Al Mahallah al Kubra, Liupanshui, Mbuji-Mayi, and Konya.",0
+"Exactly 2 of the following cities are in Russia: Hengyang, Weifang, Yekaterinburg, and Chenzhou.",0
+"Exactly 2 of the following cities are in India: Hegang, Gujranwala, Thiruvananthapuram, and Gwalior.",1
+"Exactly 1 of the following cities are in China: Xuzhou, Chandigarh, Stockholm, and Bengbu.",0
+"Exactly 2 of the following cities are in Turkey: Al Basrah al Qadimah, Bamako, Meknes, and Cankaya.",0
+"Exactly 1 of the following cities are in India: Lodz, Solapur, Kitakyushu, and Juiz de Fora.",1
+"Exactly 2 of the following cities are in China: Pontianak, Harbin, Ankara, and Suqian.",1
+"Exactly 1 of the following cities are in Mexico: Ajmer, Cancun, Haiphong, and Ma'anshan.",1
+"Exactly 3 of the following cities are in China: Bengbu, Kanayannur, Hanzhong, and Liaocheng.",1
+"Exactly 2 of the following cities are in Germany: Jiujiang, Kandahar, Shivaji Nagar, and Kleinzschocher.",0
+"Exactly 1 of the following cities are in China: Guiyang, Ashgabat, Xianyang, and Shizuoka.",0
+"Exactly 1 of the following cities are in China: Malang, Guiyang, Yaroslavl, and Handan.",0
+"Exactly 2 of the following cities are in Russia: Khabarovsk Vtoroy, Jaipur, Mumbai, and San Miguel de Tucuman.",0
+"Exactly 2 of the following cities are in China: Changchun, Kaifeng, Laibin, and Cotonou.",0
+"Exactly 2 of the following cities are in India: Suez, Esenler, Jaipur, and Varanasi.",1
+"Exactly 1 of the following cities are in Japan: Penza, Tanggu, Fukuoka, and Bhopal.",1
+"Exactly 1 of the following cities are in China: Nanchong, Shaoxing, Niamey, and Kigali.",0
+"Exactly 1 of the following cities are in China: Marrakesh, Chenzhou, Bikaner, and Riga.",1
+"Exactly 3 of the following cities are in China: Hamhung, Namangan, Linyi, and Kano.",0
+"Exactly 2 of the following cities are in Mexico: Pietermaritzburg, Ciudad Nezahualcoyotl, Duque de Caxias, and Nanning.",0
+"Exactly 1 of the following cities are in Russia: Mbuji-Mayi, Xiaogan, Maracay, and Perm.",1
+"Exactly 2 of the following cities are in Sweden: Stockholm, Kota Bharu, Kryvyy Rih, and Bhayandar.",0
+"Exactly 2 of the following cities are in Japan: Zhangjiakou, Quito, Chongqing, and Shizuoka.",0
+"Exactly 1 of the following cities are in Rwanda: Kigali, Harbin, Hannover, and Rourkela.",1
+"Exactly 1 of the following cities are in Chad: N'Djamena, Malacca, Kota Kinabalu, and Tangier.",1
+"Exactly 2 of the following cities are in India: Barquisimeto, Zibo, Kisangani, and Theni.",0
+"Exactly 1 of the following cities are in India: Moradabad, Aligarh, Nagpur, and Zhenjiang.",0
+"Exactly 2 of the following cities are in Pakistan: Ma'anshan, Chengdu, Quetta, and Islamabad.",1
+"Exactly 2 of the following cities are in India: Saint Petersburg, Shivaji Nagar, Grosszschocher, and Navi Mumbai.",1
+"Exactly 2 of the following cities are in China: Fushun, Maoming, Himeji, and Ciudad Nezahualcoyotl.",1
+"Exactly 1 of the following cities are in China: Saitama, Anshun, Dandong, and Shuangyashan.",0
+"Exactly 1 of the following cities are in Nicaragua: Managua, Naberezhnyye Chelny, Gaziantep, and Kunshan.",1
+"Exactly 2 of the following cities are in India: Tiruppur, Pretoria, Ahmedabad, and Al Mahallah al Kubra.",1
+"Exactly 2 of the following cities are in India: Penza, Zaporizhzhya, Kallakurichi, and Yaroslavl.",0
+"Exactly 1 of the following cities are in Colombia: Barranquilla, Khulna, Cheonan, and Contagem.",1
+"Exactly 1 of the following cities are in China: Ashgabat, Bagcilar, Heze, and Zhangjiakou.",0
+"Exactly 2 of the following cities are in China: Ningbo, Puning, Kallakurichi, and Urumqi.",0
+"Exactly 1 of the following cities are in Brazil: Cankaya, Reynosa, Ghaziabad, and Juiz de Fora.",1
+"Exactly 1 of the following cities are in Turkey: Konya, Diyarbakir, Al Hudaydah, and Uberlandia.",0
+"Exactly 1 of the following cities are in Brazil: Aparecida de Goiania, Homyel', Macapa, and Asansol.",0
+"Exactly 1 of the following cities are in China: Hohhot, Yichang, Accra, and Ganzhou.",0
+"Exactly 2 of the following cities are in China: Xining, Astrakhan, Bauchi, and Zaria.",0
+"Exactly 1 of the following cities are in China: Ziyang, Jiaxing, Sendai, and Abu Dhabi.",0
+"Exactly 3 of the following cities are in China: Linfen, Nanjing, Duque de Caxias, and Yunfu.",1
+"Exactly 2 of the following cities are in Australia: Quzhou, Ho Chi Minh City, Gold Coast, and Foshan.",0
+"Exactly 2 of the following cities are in Mexico: Zapopan, Kobe, Jiaozuo, and Tlaquepaque.",1
+"Exactly 2 of the following cities are in South Africa: Tembisa, Ansan-si, Zhangye, and Chandigarh.",0
+"Exactly 1 of the following cities are in Indonesia: Bogor, South Tangerang, Dongying, and Palembang.",0
+"Exactly 3 of the following cities are in Nigeria: Sanya, Onitsha, Luancheng, and Dhanbad.",0
+"Exactly 2 of the following cities are in Japan: Barquisimeto, Caloocan City, Al Fayyum, and Kawaguchi.",0
+"Exactly 2 of the following cities are in Nigeria: Acapulco de Juarez, Bhavnagar, Kano, and Prayagraj.",0
+"Exactly 1 of the following cities are in China: Kashgar, Durban, Santo Domingo Este, and Bhilai.",1
+"Exactly 1 of the following cities are in Brazil: Nova Iguacu, Kagoshima, Jaboatao dos Guararapes, and Penza.",0
+"Exactly 2 of the following cities are in Iran: Copenhagen, Mississauga, Tehran, and Sambhaji Nagar.",0
+"Exactly 1 of the following cities are in Brazil: Mexico City, Warangal, Zunyi, and Manaus.",1
+"Exactly 2 of the following cities are in Bosnia and Herzegovina: Dehra Dun, Asuncion, Sarajevo, and Tucson.",0
+"Exactly 1 of the following cities are in China: Guangzhou, Ranchi, Saratov, and Fortaleza.",1
+"Exactly 2 of the following cities are in Burkina Faso: Maoming, Hebi, Bobo-Dioulasso, and Kozhikode.",0
+"Exactly 2 of the following cities are in Yemen: Al Fayyum, Al Hudaydah, Vilnius, and Xinyang.",0
+"Exactly 1 of the following cities are in China: Meizhou, Kathmandu, Luohe, and Zarqa.",0
+"Exactly 1 of the following cities are in China: Dammam, Jiaozhou, Mogadishu, and Nanchang.",0
+"Exactly 1 of the following cities are in India: Dehra Dun, Barnaul, Surat, and Nasiriyah.",0
+"Exactly 2 of the following cities are in China: Shangluo, Ansan-si, Hanoi, and Bengbu.",1
+"Exactly 2 of the following cities are in Iraq: Ulan Bator, Al Mawsil al Jadidah, Yekaterinburg, and Fukuoka.",0
+"Exactly 2 of the following cities are in China: Xuchang, San Luis Potosi, Wanzhou, and Chisinau.",1
+"Exactly 1 of the following cities are in Turkey: Bursa, Shijiazhuang, Diyarbakir, and Guarulhos.",0
+"Exactly 1 of the following cities are in China: Chenzhou, Wuhan, Yaounde, and Pasig City.",0
+"Exactly 2 of the following cities are in China: Warangal, Chongqing, Sulaymaniyah, and Zaozhuang.",1
+"Exactly 2 of the following cities are in China: Semarang, Anyang, Tirunelveli, and Shihezi.",1
+"Exactly 2 of the following cities are in India: Vijayawada, Ranchi, Shantou, and Sao Jose dos Campos.",1
+"Exactly 2 of the following cities are in Japan: Cankaya, Kitakyushu, Shangyu, and Uberlandia.",0
+"Exactly 1 of the following cities are in China: Bijie, Dehra Dun, Liaocheng, and Zibo.",0
+"Exactly 2 of the following cities are in Nigeria: Benin City, Kolhapur, Chiclayo, and Sokoto.",1
+"Exactly 1 of the following cities are in China: Huainan, Guangzhou, Hamhung, and Xiaogan.",0
+"Exactly 1 of the following cities are in India: Enugu, Thiruvananthapuram, Warangal, and Omsk.",0
+"Exactly 1 of the following cities are in Romania: Bucharest, Santiago de los Caballeros, Borivli, and Hangzhou.",1
+"Exactly 1 of the following cities are in Russia: Seoul, Suez, Kahriz, and Barnaul.",1
+"Exactly 2 of the following cities are in Brazil: Mazar-e Sharif, Dnipro, Curitiba, and Huaibei.",0
+"Exactly 1 of the following cities are in China: Zhengzhou, Shivaji Nagar, Brasilia, and Harbin.",0
+"Exactly 1 of the following cities are in India: Dombivli, Ranchi, Aktobe, and Yingkou.",0
+"Exactly 2 of the following cities are in Egypt: Duque de Caxias, Yangon, Port Said, and Mosul.",0
+"Exactly 2 of the following cities are in China: Jinan, Nairobi, Eskisehir, and Zhanjiang.",1
+"Exactly 2 of the following cities are in Russia: Amravati, Tomsk, Zhanjiang, and Nizhniy Novgorod.",1
+"Exactly 2 of the following cities are in China: Hezhou, Kyoto, Beijing, and Khartoum.",1
+"Exactly 2 of the following cities are in Canada: Mississauga, Pyongyang, Cuttack, and Jilin.",0
+"Exactly 2 of the following cities are in China: Erzurum, Zhanjiang, Jiaozuo, and Santa Maria Chimalhuacan.",1
+"Exactly 1 of the following cities are in India: Karaj, Zhangjiakou, Kanpur, and Hubli.",0
+"Exactly 2 of the following cities are in China: Malang, Guiyang, Yaroslavl, and Handan.",1
+"Exactly 2 of the following cities are in India: Matsuyama, Najafgarh, Foshan, and Kano.",0
+"Exactly 2 of the following cities are in China: Kolhapur, Shangqiu, Chaozhou, and Thuan An.",1
+"Exactly 1 of the following cities are in the United Arab Emirates: Yaroslavl, Sulaymaniyah, Dubai, and Ajmer.",1
+"Exactly 2 of the following cities are in Japan: Jiaxing, Kolkata, Jinan, and Shizuoka.",0
+"Exactly 2 of the following cities are in China: Niamey, Tianjin, Lanzhou, and Matola.",1
+"Exactly 1 of the following cities are in Yemen: Jiamusi, Mukalla, Tashkent, and Culiacan.",1
+"Exactly 3 of the following cities are in Côte d'Ivoire: Khartoum, Bilimora, Kanayannur, and Bouake.",0
+"Exactly 1 of the following cities are in Syria: Bien Hoa, New York City, Ciudad Juarez, and Aleppo.",1
+"Exactly 2 of the following cities are in Malaysia: Kota Bharu, Istanbul, Aguascalientes, and Klang.",1
+"Exactly 2 of the following cities are in Japan: Benin City, Subang Jaya, Kyoto, and Islamabad.",0
+"Exactly 1 of the following cities are in the Philippines: Pasig City, Guankou, Multan, and Hanoi.",1
+"Exactly 2 of the following cities are in Indonesia: Marseille, Abeokuta, Palembang, and New York City.",0
+"Exactly 1 of the following cities are in India: Kinshasa, Bhayandar, Bengaluru, and Mombasa.",0
+"Exactly 1 of the following cities are in China: Conakry, Wuwei, Suining, and Rizhao.",0
+"Exactly 2 of the following cities are in China: Nanchong, Shaoxing, Niamey, and Kigali.",1
+"Exactly 2 of the following cities are in Pakistan: Sargodha, Bahcelievler, Vijayawada, and Kotli.",1
+"Exactly 2 of the following cities are in Vietnam: Caracas, Chengdu, Hanoi, and Linyi.",0
+"Exactly 2 of the following cities are in Iraq: Nasiriyah, Borivli, Zagreb, and Kotli.",0
+"Exactly 2 of the following cities are in Indonesia: Bandar Lampung, Bokaro, Las Pinas, and Tokyo.",0
+"Exactly 2 of the following cities are in Iran: Shubra al Khaymah, Zhangjiagang, Qom, and Chicago.",0
+"Exactly 3 of the following cities are in China: Shangluo, Bekasi, Jiaozhou, and Shijiazhuang.",1
+"Exactly 2 of the following cities are in Canada: Calgary, Ouagadougou, Nouakchott, and Jambi City.",0
+"Exactly 2 of the following cities are in Turkey: Recife, Panzhihua, Adana, and Changwon.",0
+"Exactly 3 of the following cities are in China: Bikaner, Tanggu, Hachioji, and Liaocheng.",0
+"Exactly 2 of the following cities are in Egypt: Beirut, Shubra al Khaymah, Tirunelveli, and Huainan.",0
+"Exactly 1 of the following cities are in Turkey: Bursa, Huaihua, Putian, and Tomsk.",1
+"Exactly 2 of the following cities are in China: Buraydah, Leon de los Aldama, Longyan, and Bijie.",1
+"Exactly 2 of the following cities are in Indonesia: Yaounde, Samarinda, Zigong, and Wanxian.",0
+"Exactly 2 of the following cities are in India: Vadodara, Nanded, Zaozhuang, and Yingkou.",1
+"Exactly 2 of the following cities are in Pakistan: Bhayandar, Islamabad, Jiangmen, and Thane.",0
+"Exactly 1 of the following cities are in Morocco: Hezhou, Shihezi, Agadir, and Chisinau.",1
+"Exactly 2 of the following cities are in Brazil: Contagem, Tiruppur, Turin, and Rajkot.",0
+"Exactly 1 of the following cities are in India: Amritsar, Guangzhou, Chizhou, and Sambhaji Nagar.",0
+"Exactly 2 of the following cities are in Cambodia: Phnom Penh, Bilimora, Albuquerque, and Hanzhong.",0
+"Exactly 3 of the following cities are in South Africa: Addis Ababa, Pietermaritzburg, Jiujiang, and Juiz de Fora.",0
+"Exactly 3 of the following cities are in China: Tanggu, Saratov, Wenzhou, and Shenyang.",1
+"Exactly 1 of the following cities are in China: Mianzhu, Deyang, Sichuan, Liupanshui, Luohe, and Battagram.",0
+"Exactly 2 of the following cities are in China: Dhanbad, Anshun, Anyang-si, and Qujing.",1
+"Exactly 2 of the following cities are in China: Bayannur, Laiwu, Najran, and Khabarovsk.",1
+"Exactly 2 of the following cities are in India: Guntur, Pingliang, Al Ahmadi, and Indore.",1
+"Exactly 2 of the following cities are in China: Khabarovsk Vtoroy, Hwaseong-si, Chaozhou, and Jingmen.",1
+"Exactly 2 of the following cities are in Malawi: Anyang-si, Lilongwe, Lviv, and Kozhikode.",0
+"Exactly 2 of the following cities are in the Philippines: New South Memphis, Jaboatao, Caloocan City, and Enugu.",0
+"Exactly 2 of the following cities are in South Korea: Jeonju, Victoria de Durango, Indianapolis, and Krakow.",0
+"Exactly 2 of the following cities are in Ukraine: Al Mawsil al Jadidah, Kharkiv, Yunfu, and Zhumadian.",0
+"Exactly 1 of the following cities are in China: Jeonju, Davao, Linyi, and Zhoushan.",0
+"Exactly 1 of the following cities are in China: Seattle, Guangzhou, Maracay, and Yibin.",0
+"Exactly 3 of the following cities are in China: Qingdao, Huaibei, Beijing, and Ciudad Juarez.",1
+"Exactly 1 of the following cities are in China: E'zhou, Suwon, Maoming, and Gaziantep.",0
+"Exactly 2 of the following cities are in Honduras: San Pedro Sula, Kigali, Ghaziabad, and Gujranwala.",0
+"Exactly 3 of the following cities are in China: Rourkela, Zhengzhou, Ya'an, and Xiamen.",1
+"Exactly 2 of the following cities are in Russia: Sendai, Ibague, Macapa, and Lipetsk.",0
+"Exactly 2 of the following cities are in Bangladesh: Weihai, Khulna, Benoni, and Rui'an.",0
+"Exactly 3 of the following cities are in China: Nanning, Shubra al Khaymah, Bijie, and Kunming.",1
+"Exactly 1 of the following cities are in China: Stockholm, Fuxin, Zhaotong, and Bijie.",0
+"Exactly 1 of the following cities are in Côte d'Ivoire: Abobo, Liupanshui, New Kingston, and Guang'an.",1
+"Exactly 2 of the following cities are in China: Orenburg, Shijiazhuang, Hohhot, and Chandigarh.",1
+"Exactly 2 of the following cities are in China: Wanning, Sevastopol, Yangquan, and Bijie.",0
+"Exactly 2 of the following cities are in India: Kharkiv, Chelyabinsk, Guntur, and Kozhikode.",1
+"Exactly 2 of the following cities are in Mexico: Culiacan, Santo Domingo Oeste, Binzhou, and Aracaju.",0
+"Exactly 2 of the following cities are in Romania: Bucharest, Curitiba, Sao Paulo, and Shenzhen.",0
+"Exactly 2 of the following cities are in China: Dakar, Nova Iguacu, Hegang, and Huaibei.",1
+"Exactly 2 of the following cities are in China: Ciudad Nezahualcoyotl, Korla, Suizhou, and Curitiba.",1
+"Exactly 3 of the following cities are in China: Zigong, Ibague, Baghdad, and Tucson.",0
+"Exactly 1 of the following cities are in China: Dushanbe, Shenyang, Helsinki, and Ma'anshan.",0
+"Exactly 1 of the following cities are in Egypt: Shubra al Khaymah, Kota Kinabalu, Jingmen, and Minsk.",1
+"Exactly 1 of the following cities are in Ukraine: Al Mahallah al Kubra, Rourkela, Odesa, and Jaboatao.",1
+"Exactly 2 of the following cities are in China: Kunshan, Rangpur, Yunfu, and Shenyang.",0
+"Exactly 1 of the following cities are in China: Nanning, Shubra al Khaymah, Bijie, and Kunming.",0
+"Exactly 1 of the following cities are in Turkey: Ankara, Riga, Konya, and Nagoya.",0
+"Exactly 1 of the following cities are in China: Fuxin, Iztapalapa, Bhavnagar, and Huainan.",0
+"Exactly 2 of the following cities are in India: Bikaner, Meerut, Himeji, and Wuwei.",1
+"Exactly 2 of the following cities are in China: Zagreb, Shaoxing, Handan, and Ar Raqqah.",1
+"Exactly 1 of the following cities are in China: Chizhou, Sorocaba, Beirut, and Shihezi.",0
+"Exactly 2 of the following cities are in India: Enugu, Thiruvananthapuram, Warangal, and Omsk.",1
+"Exactly 1 of the following cities are in China: Ziyang, Kanayannur, Kimhae, and Baise.",0
+"Exactly 2 of the following cities are in China: Shenzhen, Sanmenxia, Chelyabinsk, and Nyala.",1
+"Exactly 1 of the following cities are in China: Tangshan, Cimahi, Shivaji Nagar, and Hwaseong-si.",1
+"Exactly 2 of the following cities are in Brazil: Cankaya, Reynosa, Ghaziabad, and Juiz de Fora.",0
+"Exactly 2 of the following cities are in Indonesia: Palembang, Las Pinas, Krasnodar, and Guiyang.",0
+"Exactly 2 of the following cities are in India: Chennai, Bhiwandi, Amman, and Port Harcourt.",1
+"Exactly 2 of the following cities are in China: Dalian, Bouake, Managua, and Guwahati.",0
+"Exactly 2 of the following cities are in Brazil: Kota Kinabalu, Chattogram, Aparecida de Goiania, and Bhopal.",0
+"Exactly 1 of the following cities are in China: Shangluo, Douala, Zhabei, and Makhachkala.",0
+"Exactly 1 of the following cities are in Mexico: Acapulco de Juarez, Coyoacan, Qinzhou, and Milwaukee.",0
+"Exactly 1 of the following cities are in Mexico: Torreon, Leon de los Aldama, Brazzaville, and Bikaner.",0
+"Exactly 2 of the following cities are in China: Kobe, Lu'an, Odesa, and Liuzhou.",1
+"Exactly 1 of the following cities are in Mexico: Xianyang, San Luis Potosi, Istanbul, and Baoji.",1
+"Exactly 3 of the following cities are in China: Harbin, Denpasar, Baise, and Luohe.",1
+"Exactly 2 of the following cities are in China: Astrakhan, Bengbu, Nanjing, and Campos dos Goytacazes.",1
+"Exactly 1 of the following cities are in Nigeria: Kampung Baru Subang, Dakar, Oyo, and Las Pinas.",1
+"Exactly 1 of the following cities are in India: Kalyan, Bhiwandi, Irkutsk, and Jilin.",0
+"Exactly 1 of the following cities are in China: Bareilly, Quzhou, Vadodara, and Chengdu.",0
+"Exactly 2 of the following cities are in India: Barquisimeto, Thane, Najafgarh, and Tucson.",1
+"Exactly 2 of the following cities are in Pakistan: Islamabad, Khabarovsk Vtoroy, Lahore, and Tirunelveli.",1
+"Exactly 2 of the following cities are in China: Tijuana, Ghaziabad, Hebi, and Qingdao.",1
+"Exactly 3 of the following cities are in China: Hohhot, Yichang, Accra, and Ganzhou.",1
+"Exactly 2 of the following cities are in China: Kaduna, Bikaner, Deyang, and Faisalabad.",0
+"Exactly 1 of the following cities are in Mauritania: Libreville, Rajshahi, Pune, and Nouakchott.",1
+"Exactly 1 of the following cities are in India: General Santos, Moradabad, Bhiwandi, and Al Ahmadi.",0
+"Exactly 1 of the following cities are in Bangladesh: Ciudad Guayana, Antwerpen, Qinhuangdao, and Comilla.",1
+"Exactly 2 of the following cities are in China: Islamabad, Macapa, Antwerpen, and Shuangyashan.",0
+"Exactly 1 of the following cities are in China: Durban, Putian, Guang'an, and Kozhikode.",0
+"Exactly 3 of the following cities are in China: Cangzhou, Tanggu, Enugu, and Anshan.",1
+"Exactly 2 of the following cities are in Cambodia: Rio de Janeiro, Nay Pyi Taw, Phnom Penh, and Kyoto.",0
+"Exactly 1 of the following cities are in China: Osaka, Anshan, Indore, and Chongqing.",0
+"Exactly 2 of the following cities are in China: Zhengzhou, Xuzhou, Kitakyushu, and Chattogram.",1
+"Exactly 3 of the following cities are in South Korea: Fukuoka, Macapa, Goyang-si, and Barquisimeto.",0
+"Exactly 1 of the following cities are in Algeria: Xiamen, Boumerdes, Krasnoyarsk, and Kayseri.",1
+"Exactly 1 of the following cities are in China: Kayseri, Ebute Ikorodu, Seoul, and Hengyang.",1
+"Exactly 2 of the following cities are in Iraq: Nasiriyah, Bandar Lampung, Weifang, and Aden.",0
+"Exactly 2 of the following cities are in Ukraine: Mosul, Ulsan, Lviv, and Quezon City.",0
+"Exactly 2 of the following cities are in China: Goyang-si, Tangerang, Baotou, and Bijie.",1
+"Exactly 1 of the following cities are in Brazil: Zhaotong, Antwerpen, Juiz de Fora, and Guilin.",1
+"Exactly 2 of the following cities are in China: Handan, Maputo, New Kingston, and Wanning.",1
+"Exactly 2 of the following cities are in Japan: Albuquerque, Kumamoto, Naucalpan de Juarez, and Libreville.",0
+"Exactly 2 of the following cities are in China: Tonghua, Casablanca, Dandong, and Changwon.",1
+"Exactly 2 of the following cities are in India: Esenler, Bareilly, Abuja, and Port Harcourt.",0
+"Exactly 1 of the following cities are in Brazil: Linfen, Campos dos Goytacazes, Fortaleza, and Bulawayo.",0
+"Exactly 2 of the following cities are in India: Mazar-e Sharif, Aligarh, Shymkent, and Langfang.",0
+"Exactly 2 of the following cities are in Russia: Ryazan', Zaozhuang, Duque de Caxias, and Goyang-si.",0
+"Exactly 2 of the following cities are in Mexico: Ho Chi Minh City, Jiaozuo, Zapopan, and Sanmenxia.",0
+"Exactly 3 of the following cities are in China: Manaus, Changchun, Dongying, and Liupanshui.",1
+"Exactly 2 of the following cities are in Mexico: Shiraz, Libreville, Ordos, and Reynosa.",0
+"Exactly 1 of the following cities are in the United States: Bujumbura, Busan, Dakar, and The Bronx.",1
+"Exactly 1 of the following cities are in South Korea: Kimhae, Penza, Chizhou, and Muzaffarabad.",1
+"Exactly 2 of the following cities are in Nigeria: Ilorin, Goeteborg, Anqing, and Bengbu.",0
+"Exactly 2 of the following cities are in Indonesia: Denpasar, Tomsk, Shangyu, and Ciudad Juarez.",0
+"Exactly 2 of the following cities are in Pakistan: Isfahan, Borivli, Gujranwala, and Poznan.",0
+"Exactly 2 of the following cities are in Russia: Ryazan', Tangier, Feira de Santana, and Ludhiana.",0
+"Exactly 3 of the following cities are in China: Qujing, Jiujiang, Kolhapur, and Ningbo.",1
+"Exactly 2 of the following cities are in Malaysia: Saratov, Klang, Beijing, and Islamabad.",0
+"Exactly 1 of the following cities are in Russia: Mazar-e Sharif, Yekaterinburg, Jiaozuo, and Khabarovsk Vtoroy.",0
+"Exactly 1 of the following cities are in India: Shivaji Nagar, San Luis Potosi, Tiruppur, and Mandalay.",0
+"Exactly 2 of the following cities are in Argentina: Guiyang, San Miguel de Tucuman, Ulsan, and Chengdu.",0
+"Exactly 2 of the following cities are in Brazil: Matola, Recife, Jieyang, and Nouakchott.",0
+"Exactly 2 of the following cities are in China: Neijiang, N'Djamena, Jiaxing, and Calgary.",1
+"Exactly 2 of the following cities are in Brazil: Nova Iguacu, Barnaul, Tangier, and Curitiba.",1
+"Exactly 2 of the following cities are in Brazil: Harare, Ribeirao Preto, Liupanshui, and Londrina.",1
+"Exactly 1 of the following cities are in China: Jiaxing, Kirkuk, Longyan, and Sofia.",0
+"Exactly 2 of the following cities are in China: Cimahi, Fushun, Kermanshah, and Benxi.",1
+"Exactly 2 of the following cities are in Iraq: Mbuji-Mayi, Jabalpur, Douala, and Karbala.",0
+"Exactly 2 of the following cities are in China: Luancheng, Warangal, Longyan, and Makhachkala.",1
+"Exactly 1 of the following cities are in China: Herat, Ibague, Zhoushan, and Putian.",0
+"Exactly 1 of the following cities are in Indonesia: Kigali, Arequipa, Semarang, and Herat.",1
+"Exactly 2 of the following cities are in China: Vilnius, Xuchang, Qinzhou, and Amritsar.",1
+"Exactly 2 of the following cities are in Mexico: Can Tho, Bijie, Cankaya, and Ciudad Nezahualcoyotl.",0
+"Exactly 2 of the following cities are in Brazil: Ulhasnagar, Winnipeg, Wuwei, and Juiz de Fora.",0
+"Exactly 2 of the following cities are in Germany: Wanxian, Munich, Zibo, and Tirunelveli.",0
+"Exactly 1 of the following cities are in China: Shijiazhuang, Sevastopol, Sanming, and Bamako.",0
+"Exactly 2 of the following cities are in Brazil: Quebec, Ciudad Guayana, Juiz de Fora, and San Miguel de Tucuman.",0
+"Exactly 1 of the following cities are in China: Guigang, Kuantan, Bahawalpur, and Nanning.",0
+"Exactly 2 of the following cities are in Mozambique: Oslo, Boumerdes, Beira, and Hiroshima.",0
+"Exactly 2 of the following cities are in Mexico: New Kingston, Comilla, Incheon, and Tlaquepaque.",0
+"Exactly 2 of the following cities are in Bulgaria: Sofia, Puducherry, Ordos, and Omdurman.",0
+"Exactly 1 of the following cities are in China: Changchun, Nyala, Ahmedabad, and Heze.",0
+"Exactly 2 of the following cities are in India: Bhubaneswar, Tanggu, Surat, and Santiago de Queretaro.",1
+"Exactly 1 of the following cities are in China: Kryvyy Rih, Wuzhou, Anshan, and Nova Iguacu.",0
+"Exactly 1 of the following cities are in Iraq: Manaus, Kirkuk, Tebessa, and Aden.",1
+"Exactly 2 of the following cities are in India: Muzaffarabad, Tegucigalpa, Dehra Dun, and Pietermaritzburg.",0
+"Exactly 2 of the following cities are in China: Xuchang, Ulyanovsk, Benoni, and Weifang.",1
+"Exactly 1 of the following cities are in Sweden: Chenzhou, Rohini, Chattogram, and Goeteborg.",1
+"Exactly 2 of the following cities are in Mexico: Culiacan, Iztapalapa, Aden, and Quetta.",1
+"Exactly 2 of the following cities are in Russia: Khabarovsk Vtoroy, Jiamusi, Nagpur, and Bloemfontein.",0
+"Exactly 1 of the following cities are in India: Hanoi, Boumerdes, Solapur, and Santa Maria Chimalhuacan.",1
+"Exactly 2 of the following cities are in Vietnam: Belo Horizonte, Vladivostok, Can Tho, and Hanzhong.",0
+"Exactly 3 of the following cities are in Iraq: Suwon, Kirkuk, Wuhan, and Sarajevo.",0
+"Exactly 2 of the following cities are in China: The Bronx, Maoming, Chiclayo, and Putian.",1
+"Exactly 2 of the following cities are in Afghanistan: Hangzhou, Helsinki, Kandahar, and Davao.",0
+"Exactly 2 of the following cities are in China: Chongqing, Duque de Caxias, Qiqihar, and Omdurman.",1
+"Exactly 1 of the following cities are in China: Sanming, Kozhikode, Weifang, and Culiacan.",0
+"Exactly 1 of the following cities are in China: Belo Horizonte, Kemerovo, Kunming, and Zhangjiagang.",0
+"Exactly 3 of the following cities are in China: Zhangye, Jiaozhou, Laiwu, and Vijayawada.",1
+"Exactly 1 of the following cities are in Romania: Pikine, Huzhou, Hwaseong-si, and Bucharest.",1
+"Exactly 2 of the following cities are in China: Beijing, Anyang-si, Khartoum, and Chaozhou.",1
+"Exactly 2 of the following cities are in China: Sanya, Nanning, Ibadan, and Changwon.",1
+"Exactly 2 of the following cities are in India: Mombasa, Nashik, Dhanbad, and Hiroshima.",1
+"Exactly 2 of the following cities are in India: Borivli, Xingtai, Rourkela, and Sendai.",1
+"Exactly 2 of the following cities are in India: Surat, Putian, Teresina, and Coimbatore.",1
+"Exactly 3 of the following cities are in China: Sangli, Weinan, Qujing, and Zhengzhou.",1
+"Exactly 2 of the following cities are in China: Jambi City, Lilongwe, Cangzhou, and Jamshedpur.",0
+"Exactly 2 of the following cities are in China: Ahvaz, Guiyang, Khartoum, and Shuangyashan.",1
+"Exactly 2 of the following cities are in China: Nuernberg, Kawaguchi, Urumqi, and Dongying.",1
+"Exactly 2 of the following cities are in China: Zhangye, Beijing, Asyut, and Narela.",1
+"Exactly 1 of the following cities are in Germany: Grosszschocher, Mbuji-Mayi, Cebu City, and Marseille.",1
+"Exactly 2 of the following cities are in China: Caloocan City, Tangier, Baoji, and Hezhou.",1
+"Exactly 2 of the following cities are in Uzbekistan: Izhevsk, Namangan, Thane, and Gwalior.",0
+"Exactly 3 of the following cities are in the United Arab Emirates: Tolyatti, Batam, Dubai, and Solapur.",0
+"Exactly 1 of the following cities are in the United States: Milwaukee, Ulyanovsk, New York City, and Erode.",0
+"Exactly 2 of the following cities are in India: Nowrangapur, Bogor, Dombivli, and Kigali.",1
+"Exactly 2 of the following cities are in Indonesia: Pontianak, South Tangerang, Boumerdes, and Dongying.",1
+"Exactly 2 of the following cities are in China: Campos dos Goytacazes, Laiwu, Siliguri, and Siping.",1
+"Exactly 2 of the following cities are in South Korea: Yaounde, Daejeon, Huangshi, and Jiujiang.",0
+"Exactly 2 of the following cities are in India: Krasnodar, Port Harcourt, Mumbai, and Rohini.",1
+"Exactly 2 of the following cities are in Mexico: Mexico City, Sao Bernardo do Campo, Ciudad Nezahualcoyotl, and Yangjiang.",1
+"Exactly 2 of the following cities are in China: Ganzhou, Madinat an Nasr, Baghdad, and Qionghai.",1
+"Exactly 2 of the following cities are in Brazil: Malacca, Frankfurt am Main, Kunming, and Belo Horizonte.",0
+"Exactly 1 of the following cities are in China: Al Ahmadi, Multan, Nanning, and Chongqing.",0
+"Exactly 2 of the following cities are in South Korea: Goeteborg, Theni, Busan, and Kallakurichi.",0
+"Exactly 1 of the following cities are in China: Ganzhou, Madinat an Nasr, Baghdad, and Qionghai.",0
+"Exactly 1 of the following cities are in the United States: Tucson, Daejeon, Okayama, and Izhevsk.",1
+"Exactly 2 of the following cities are in China: Zhabei, Mianzhu, Deyang, Sichuan, Nashik, and Makassar.",1
+"Exactly 2 of the following cities are in India: Kalyan, Bhiwandi, Irkutsk, and Jilin.",1
+"Exactly 3 of the following cities are in China: Isfahan, Hezhou, Pingliang, and Changchun.",1
+"Exactly 2 of the following cities are in China: Xianyang, Puente Alto, Xinyang, and Lome.",1
+"Exactly 2 of the following cities are in China: Zunyi, Bekasi, Guayaquil, and Daqing.",1
+"Exactly 3 of the following cities are in the United States: Fort Worth, Aden, Shuangyashan, and Incheon.",0
+"Exactly 2 of the following cities are in Pakistan: Orumiyeh, Coimbatore, Lahore, and Mumbai.",0
+"Exactly 2 of the following cities are in China: Jiaozhou, Mexico City, Diyarbakir, and Xiaogan.",1
+"Exactly 3 of the following cities are in China: Zhenjiang, Dubai, Dalian, and Zhangye.",1
+"Exactly 2 of the following cities are in South Africa: Pretoria, Wuhan, Pimpri, and Durban.",1
+"Exactly 2 of the following cities are in Indonesia: Lianyungang, Maturin, Cimahi, and Liuzhou.",0
+"Exactly 2 of the following cities are in Brazil: Orenburg, Kathmandu, Macapa, and Qiqihar.",0
+"Exactly 1 of the following cities are in Indonesia: Tangerang, Guangzhou, Faisalabad, and Frankfurt am Main.",1
+"Exactly 1 of the following cities are in Brazil: Santiago de Cuba, Belo Horizonte, Rui'an, and Bhavnagar.",1
+"Exactly 2 of the following cities are in the Philippines: Makhachkala, Solapur, General Santos, and Zahedan.",0
+"Exactly 2 of the following cities are in Ukraine: Kharkiv, Budapest, General Santos, and Huzhou.",0
+"Exactly 2 of the following cities are in Saudi Arabia: Soweto, Zapopan, Zagreb, and Ha'il.",0
+"Exactly 2 of the following cities are in South Korea: Seoul, Santo Domingo Este, Islamabad, and Zhuzhou.",0
+"Exactly 2 of the following cities are in Venezuela: Karachi, Barquisimeto, Cangzhou, and Jaboatao.",0
+"Exactly 1 of the following cities are in China: Ranchi, Acapulco de Juarez, Bengbu, and Ouagadougou.",1
+"Exactly 2 of the following cities are in China: Jinan, N'Djamena, Hanoi, and Ziyang.",1
+"Exactly 2 of the following cities are in Pakistan: Marseille, Erbil, Multan, and Muzaffarabad.",1
+"Exactly 1 of the following cities are in China: Hangzhou, Wanning, Amritsar, and Daegu.",0
+"Exactly 2 of the following cities are in India: Tiruchirappalli, Zhangye, Rajshahi, and Sambhaji Nagar.",1
+"Exactly 1 of the following cities are in India: Salta, Benin City, Yiwu, and Jamshedpur.",1
+"Exactly 2 of the following cities are in Malaysia: Kota Kinabalu, Esenler, Najafgarh, and Kolhapur.",0
+"Exactly 3 of the following cities are in China: Changchun, Kaifeng, Laibin, and Cotonou.",1
+"Exactly 1 of the following cities are in China: Zhenjiang, Tlaquepaque, Moradabad, and Yichang.",0
+"Exactly 2 of the following cities are in Indonesia: Teresina, Malang, Calgary, and Kahriz.",0
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Yangjiang, Antwerpen, Agadir, and Mbuji-Mayi.",0
+"Exactly 2 of the following cities are in Turkey: Foshan, Makati City, Izmir, and Eskisehir.",1
+"Exactly 2 of the following cities are in Brazil: Incheon, Abu Dhabi, Londrina, and Ashgabat.",0
+"Exactly 2 of the following cities are in Vietnam: Ho Chi Minh City, Cheonan, Korla, and Mudanjiang.",0
+"Exactly 2 of the following cities are in Mexico: San Luis Potosi, Arak, Sanaa, and Samarinda.",0
+"Exactly 3 of the following cities are in India: Bhavnagar, Tiruppur, Visakhapatnam, and Izmir.",1
+"Exactly 1 of the following cities are in France: Lubumbashi, Jiaozuo, Marseille, and Can Tho.",1
+"Exactly 1 of the following cities are in China: Zhangye, Brazzaville, Weihai, and Bien Hoa.",0
+"Exactly 2 of the following cities are in Indonesia: San Luis Potosi, Cimahi, Cheonan, and Huaihua.",0
+"Exactly 2 of the following cities are in South Africa: Kotli, Bayannur, Huainan, and Cape Town.",0
+"Exactly 2 of the following cities are in Russia: Heze, Huaihua, Qom, and Novosibirsk.",0
+"Exactly 2 of the following cities are in Mexico: Libreville, Hamamatsu, Santiago de Queretaro, and Deyang.",0
+"Exactly 2 of the following cities are in China: Hanzhong, Homyel', Nowrangapur, and Heze.",1
+"Exactly 2 of the following cities are in China: Zhangye, Sanming, Iztapalapa, and Ha'il.",1
+"Exactly 1 of the following cities are in China: Laibin, Yekaterinburg, Istanbul, and Hanzhong.",0
+"Exactly 3 of the following cities are in Russia: Oslo, Khabarovsk, Coimbatore, and Korla.",0
+"Exactly 1 of the following cities are in Kenya: Nairobi, Weinan, Macapa, and Khartoum.",1
+"Exactly 2 of the following cities are in India: Dhanbad, Kobe, Guangyuan, and Accra.",0
+"Exactly 3 of the following cities are in China: Huainan, Guangzhou, Hamhung, and Xiaogan.",1
+"Exactly 2 of the following cities are in China: Kharkiv, Bangkok, Guigang, and Bahawalpur.",0
+"Exactly 2 of the following cities are in India: Bucheon-si, Quetta, Rawalpindi, and Narela.",0
+"Exactly 2 of the following cities are in China: Jilin, Tangier, Duesseldorf, and Deyang.",1
+"Exactly 2 of the following cities are in Mexico: Zhangjiagang, Baoji, Leon de los Aldama, and Orumiyeh.",0
+"Exactly 2 of the following cities are in China: Borivli, Rajshahi, Dalian, and Huaihua.",1
+"Exactly 1 of the following cities are in China: Bijie, Lianyungang, Malacca, and Bujumbura.",0
+"Exactly 2 of the following cities are in India: Karaj, Zhangjiakou, Kanpur, and Hubli.",1
+"Exactly 2 of the following cities are in China: Mandalay, Shantou, Guatemala City, and Surat.",0
+"Exactly 2 of the following cities are in Japan: Asyut, Himeji, Taguig, and Antalya.",0
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Daejeon, Mbuji-Mayi, Xingtai, and Brazzaville.",0
+"Exactly 1 of the following cities are in Japan: Kuantan, Kobe, Sambhaji Nagar, and Sanaa.",1
+"Exactly 2 of the following cities are in China: Ankara, Jiamusi, Dehra Dun, and Zhangzhou.",1
+"Exactly 2 of the following cities are in China: Xuanzhou, Bangkok, Moradabad, and Fort Worth.",0
+"Exactly 2 of the following cities are in China: Qinhuangdao, Can Tho, Feira de Santana, and Shijiazhuang.",1
+"Exactly 2 of the following cities are in the Philippines: Aden, Copenhagen, Anqing, and General Santos.",0
+"Exactly 1 of the following cities are in China: Conakry, Laiwu, Gaziantep, and Hangzhou.",0
+"Exactly 2 of the following cities are in China: Muscat, Thuan An, Quzhou, and Mianzhu, Deyang, Sichuan.",1
+"Exactly 2 of the following cities are in India: Cheonan, Guwahati, Kobe, and Lilongwe.",0
+"Exactly 1 of the following cities are in China: Astrakhan, Bengbu, Nanjing, and Campos dos Goytacazes.",0
+"Exactly 3 of the following cities are in China: Xingtai, Lianyungang, Malacca, and Luzhou.",1
+"Exactly 2 of the following cities are in Indonesia: Tijuana, Kolkata, Tabriz, and Surakarta.",0
+"Exactly 2 of the following cities are in India: Prayagraj, Jaipur, Rio de Janeiro, and Homs.",1
+"Exactly 2 of the following cities are in China: Luohe, Nairobi, Hannover, and Fushun.",1
+"Exactly 2 of the following cities are in Russia: Voronezh, Luohe, Kemerovo, and Zarqa.",1
+"Exactly 2 of the following cities are in Morocco: Tangier, Chisinau, Duque de Caxias, and Uberlandia.",0
+"Exactly 1 of the following cities are in China: Cucuta, Jiaozuo, Da Nang, and Chizhou.",0
+"Exactly 2 of the following cities are in China: Xining, Pingliang, Durban, and Kleinzschocher.",1
+"Exactly 3 of the following cities are in China: Jieyang, Mianzhu, Deyang, Sichuan, Anqing, and New Kingston.",1
+"Exactly 1 of the following cities are in China: Changde, Mexico City, Sofia, and Shaoguan.",0
+"Exactly 2 of the following cities are in Turkey: Faridabad, Siliguri, Orenburg, and Diyarbakir.",0
+"Exactly 2 of the following cities are in China: Zunyi, Ecatepec de Morelos, Makassar, and Wanzhou.",1
+"Exactly 2 of the following cities are in China: Puning, Liupanshui, Jakarta, and Kitakyushu.",1
+"Exactly 1 of the following cities are in China: Xingtai, Lianyungang, Malacca, and Luzhou.",0
+"Exactly 2 of the following cities are in China: Panshan, Winnipeg, Jiaozuo, and Nay Pyi Taw.",1
+"Exactly 2 of the following cities are in Myanmar: Bahawalpur, Mandalay, Izmir, and Port-au-Prince.",0
+"Exactly 1 of the following cities are in South Korea: Pimpri, Suwon, Incheon, and Feira de Santana.",0
+"Exactly 2 of the following cities are in Japan: Kawaguchi, Santa Maria Chimalhuacan, Chelyabinsk, and Sambhaji Nagar.",0
+"Exactly 2 of the following cities are in China: Seattle, Guangzhou, Maracay, and Yibin.",1
+"Exactly 2 of the following cities are in China: Yingkou, Calgary, Paranaque City, and Zhumadian.",1
+"Exactly 2 of the following cities are in Yemen: Al Hudaydah, Homs, Sambhaji Nagar, and Dar es Salaam.",0
+"Exactly 2 of the following cities are in Venezuela: Pune, Mexico City, Maturin, and Beirut.",0
+"Exactly 2 of the following cities are in Iraq: Matsuyama, Kagoshima, Ajmer, and Kirkuk.",0
+"Exactly 2 of the following cities are in Russia: Penza, Amravati, New South Memphis, and Weihai.",0
+"Exactly 2 of the following cities are in China: Rio de Janeiro, Luancheng, Xingtai, and Vladivostok.",1
+"Exactly 3 of the following cities are in India: Guwahati, Dombivli, Rio de Janeiro, and Kalyan.",1
+"Exactly 2 of the following cities are in China: Maoming, Shubra al Khaymah, Wanxian, and Yaroslavl.",1
+"Exactly 2 of the following cities are in Algeria: Cancun, Boumerdes, Mazar-e Sharif, and Huangshi.",0
+"Exactly 1 of the following cities are in India: Al Ain City, Zaozhuang, Mumbai, and Hubli.",0
+"Exactly 1 of the following cities are in India: Bucheon-si, Kuantan, Zhabei, and Amritsar.",1
+"Exactly 2 of the following cities are in India: Bhubaneswar, Zhenjiang, Xiangtan, and Jinan.",0
+"Exactly 1 of the following cities are in South Korea: Moradabad, Hohhot, Hwaseong-si, and Al Fayyum.",1
+"Exactly 2 of the following cities are in China: Xuanzhou, Bloemfontein, Algiers, and Fuxin.",1
+"Exactly 3 of the following cities are in China: Yinchuan, Shangrao, Muzaffarabad, and Xuchang.",1
+"Exactly 1 of the following cities are in India: Krakow, Jalandhar, Jaipur, and Kimhae.",0
+"Exactly 2 of the following cities are in China: Luancheng, Anshan, Warri, and Aracaju.",1
+"Exactly 2 of the following cities are in Algeria: Bikaner, Quito, Boumerdes, and Perm.",0
+"Exactly 1 of the following cities are in China: Mudanjiang, Ankara, Jingmen, and Meknes.",0
+"Exactly 1 of the following cities are in Nigeria: Quezon City, Arequipa, Abeokuta, and Perm.",1
+"Exactly 1 of the following cities are in the Republic of the Congo: Bien Hoa, Jaipur, Brazzaville, and Ganzhou.",1
+"Exactly 1 of the following cities are in Argentina: Xining, San Miguel de Tucuman, Kayseri, and Zunyi.",1
+"Exactly 2 of the following cities are in China: Nanning, Campos dos Goytacazes, Karol Bagh, and Suining.",1
+"Exactly 1 of the following cities are in Brazil: Kimhae, Florianopolis, Sorocaba, and Amritsar.",0
+"Exactly 2 of the following cities are in China: Tianjin, Contagem, Kuala Lumpur, and Longyan.",1
+"Exactly 2 of the following cities are in Russia: Makhachkala, Aracaju, Astrakhan, and Kanayannur.",1
+"Exactly 2 of the following cities are in China: Nampula, Luancheng, Zahedan, and Wroclaw.",0
+"Exactly 1 of the following cities are in China: Kawaguchi, Zibo, Rourkela, and Luzhou.",0
+"Exactly 1 of the following cities are in Indonesia: Iztapalapa, Goyang-si, Bekasi, and Omdurman.",1
+"Exactly 2 of the following cities are in Egypt: Asyut, Islamabad, Managua, and Culiacan.",0
+"Exactly 1 of the following cities are in China: Sangli, Weinan, Qujing, and Zhengzhou.",0
+"Exactly 1 of the following cities are in China: Himeji, Hohhot, Aracaju, and Kaifeng.",0
+"Exactly 2 of the following cities are in China: Nowrangapur, Fushun, Cheonan, and Liuzhou.",1
+"Exactly 1 of the following cities are in Japan: Algiers, Tiruchirappalli, Sapporo, and Saitama.",0
+"Exactly 2 of the following cities are in China: Navi Mumbai, Asansol, Shenyang, and Zhuzhou.",1
+"Exactly 2 of the following cities are in Bosnia and Herzegovina: Sarajevo, Rajkot, Tiruppur, and Bijie.",0
+"Exactly 2 of the following cities are in Venezuela: Kyoto, Yangquan, Maracaibo, and Barquisimeto.",1
+"Exactly 1 of the following cities are in Russia: Khabarovsk Vtoroy, San Miguel de Tucuman, Beijing, and Jiaozuo.",1
+"Exactly 2 of the following cities are in Russia: Tianshui, Nizhniy Novgorod, Manaus, and Daegu.",0
+"Exactly 1 of the following cities are in China: San Miguel de Tucuman, Jiamusi, Ma'anshan, and Arak.",0
+"Exactly 1 of the following cities are in China: Rostov-na-Donu, Ajmer, Xuzhou, and Salta.",1
+"Exactly 2 of the following cities are in Myanmar: Mandalay, Sanmenxia, Puente Alto, and Orenburg.",0
+"Exactly 3 of the following cities are in Turkey: Beira, Bhayandar, Malatya, and Adana.",0
+"Exactly 2 of the following cities are in China: Jingmen, Suining, Ufa, and Bikaner.",1
+"Exactly 1 of the following cities are in China: Kolkata, Multan, Yerevan, and Jiangmen.",1
+"Exactly 1 of the following cities are in China: Hanoi, Huzhou, Kunshan, and Pingliang.",0
+"Exactly 2 of the following cities are in China: Laiwu, Shangluo, Quezon City, and Thane.",1
+"Exactly 2 of the following cities are in China: Liaocheng, Zhanjiang, Bogor, and The Bronx.",1
+"Exactly 1 of the following cities are in the Philippines: Taguig, Quito, Erzurum, and Thane.",1
+"Exactly 1 of the following cities are in Brazil: Bamako, Sambhaji Nagar, Sao Bernardo do Campo, and Maracay.",1
+"Exactly 1 of the following cities are in Japan: Saitama, Reynosa, Sendai, and Ciudad Guayana.",0
+"Exactly 2 of the following cities are in India: Konya, Nowrangapur, Karachi, and Shangqiu.",0
+"Exactly 2 of the following cities are in South Korea: Maputo, Tanggu, Xiangtan, and Ulsan.",0
+"Exactly 2 of the following cities are in Brazil: Campos dos Goytacazes, Izmir, Erode, and Panzhihua.",0
+"Exactly 2 of the following cities are in China: Nanning, Madurai, Abobo, and Aktobe.",0
+"Exactly 2 of the following cities are in Malaysia: Nanchong, Ciudad Nezahualcoyotl, Kuala Lumpur, and Gaziantep.",0
+"Exactly 2 of the following cities are in Mexico: Karaj, Ha'il, Aguascalientes, and Changshu.",0
+"Exactly 2 of the following cities are in Canada: Calgary, Orumiyeh, Aparecida de Goiania, and Pretoria.",0
+"Exactly 3 of the following cities are in Iraq: Bhavnagar, Bilimora, Mosul, and Stockholm.",0
+"Exactly 2 of the following cities are in China: Laibin, Yekaterinburg, Istanbul, and Hanzhong.",1
+"Exactly 2 of the following cities are in China: Liupanshui, Banjarmasin, Bayannur, and Tangier.",1
+"Exactly 3 of the following cities are in China: Guangzhou, Ningbo, Qom, and Jiaxing.",1
+"Exactly 2 of the following cities are in China: Puning, Odesa, Xingtai, and Lahore.",1
+"Exactly 2 of the following cities are in Yemen: Queens, Sanaa, Subang Jaya, and Orenburg.",0
+"Exactly 3 of the following cities are in China: Tangshan, Lianyungang, Nanning, and Ankara.",1
+"Exactly 1 of the following cities are in China: Jiaxing, Cixi, Conakry, and Puente Alto.",0
+"Exactly 2 of the following cities are in China: Solapur, Anshun, The Bronx, and Shubra al Khaymah.",0
+"Exactly 1 of the following cities are in Vietnam: Matola, Kumasi, Durban, and Da Nang.",1
+"Exactly 2 of the following cities are in Vietnam: Panzhihua, Hanoi, Al Mahallah al Kubra, and Irbid.",0
+"Exactly 1 of the following cities are in Brazil: Kayseri, Feira de Santana, Oslo, and Tanggu.",1
+"Exactly 1 of the following cities are in India: Luohe, Ansan-si, Bhilai, and Solapur.",0
+"Exactly 2 of the following cities are in South Korea: Asyut, Quito, Phnom Penh, and Daejeon.",0
+"Exactly 2 of the following cities are in the United States: The Bronx, Juiz de Fora, Albuquerque, and Jeddah.",1
+"Exactly 2 of the following cities are in China: Mumbai, Conakry, Yichang, and Chandigarh.",0
+"Exactly 2 of the following cities are in China: Stockholm, Shaoxing, Cangzhou, and Shymkent.",1
+"Exactly 2 of the following cities are in Egypt: Al Fayyum, Xianning, Port Said, and Namangan.",1
+"Exactly 2 of the following cities are in China: Lianyungang, Kalyan, Hangzhou, and Asansol.",1
+"Exactly 1 of the following cities are in China: Harbin, Lianyungang, Abu Dhabi, and Jaboatao dos Guararapes.",0
+"Exactly 3 of the following cities are in Ghana: Accra, Chattogram, Weifang, and Diyarbakir.",0
+"Exactly 1 of the following cities are in China: Tomsk, Neijiang, Anshan, and Ebute Ikorodu.",0
+"Exactly 2 of the following cities are in Saudi Arabia: Santiago de los Caballeros, Buraydah, Joao Pessoa, and Ahmedabad.",0
+"Exactly 1 of the following cities are in Egypt: Al Fayyum, Xianning, Port Said, and Namangan.",0
+"Exactly 2 of the following cities are in China: Voronezh, Bijie, Kalyan, and Yangquan.",1
+"Exactly 1 of the following cities are in Egypt: Qujing, Serang, Beira, and Giza.",1
+"Exactly 1 of the following cities are in China: Sanming, Guiyang, Kanayannur, and Kitakyushu.",0
+"Exactly 2 of the following cities are in Burkina Faso: Bobo-Dioulasso, Tangier, Rizhao, and Riga.",0
+"Exactly 2 of the following cities are in Russia: Tomsk, Volgograd, Dombivli, and Najran.",1
+"Exactly 1 of the following cities are in China: Qionghai, Penza, Cochin, and Lianyungang.",0
+"Exactly 2 of the following cities are in China: Shijiazhuang, Sevastopol, Sanming, and Bamako.",1
+"Exactly 2 of the following cities are in China: Khabarovsk, Laiwu, Naberezhnyye Chelny, and Huzhou.",1
+"Exactly 1 of the following cities are in Brazil: Lyon, Macapa, Yingkou, and Contagem.",0
+"Exactly 2 of the following cities are in India: Pimpri, San Miguel de Tucuman, Kolkata, and Orumiyeh.",1
+"Exactly 1 of the following cities are in Japan: Warangal, Feira de Santana, Yekaterinburg, and Osaka.",1
+"Exactly 2 of the following cities are in Turkey: Xingtai, Mersin, Xuchang, and Dehra Dun.",0
+"Exactly 1 of the following cities are in Kazakhstan: Aktobe, Zaporizhzhya, Bhayandar, and Riga.",1
+"Exactly 1 of the following cities are in China: Xuchang, San Luis Potosi, Wanzhou, and Chisinau.",0
+"Exactly 2 of the following cities are in Australia: Ouagadougou, Gold Coast, Soweto, and Winnipeg.",0
+"Exactly 1 of the following cities are in Turkey: Shymkent, Guankou, Eskisehir, and Antalya.",0
+"Exactly 2 of the following cities are in China: Sanming, Guiyang, Kanayannur, and Kitakyushu.",1
+"Exactly 1 of the following cities are in India: Meerut, Ha'il, Al Ain City, and Bhiwandi.",0
+"Exactly 2 of the following cities are in China: Belo Horizonte, Kemerovo, Kunming, and Zhangjiagang.",1
+"Exactly 3 of the following cities are in Brazil: Curitiba, Juiz de Fora, Queens, and Sao Bernardo do Campo.",1
+"Exactly 1 of the following cities are in China: Liupanshui, Banjarmasin, Bayannur, and Tangier.",0
+"Exactly 2 of the following cities are in Brazil: Teresina, Antwerpen, Recife, and Bangkok.",1
+"Exactly 2 of the following cities are in Pakistan: Detroit, Karachi, Sanming, and Peshawar.",1
+"Exactly 2 of the following cities are in Japan: Mudanjiang, Bucaramanga, Kagoshima, and Jiamusi.",0
+"Exactly 2 of the following cities are in Burundi: Diyarbakir, Osaka, Bujumbura, and Khartoum.",0
+"Exactly 2 of the following cities are in the Philippines: Pekanbaru, Nanded, Las Pinas, and Shymkent.",0
+"Exactly 1 of the following cities are in China: Luohe, Curitiba, Cangzhou, and Okayama.",0
+"Exactly 1 of the following cities are in China: Indianapolis, Seattle, Subang Jaya, and Baise.",1
+"Exactly 1 of the following cities are in Côte d'Ivoire: Zhangye, Copenhagen, Bouake, and Rostov-na-Donu.",1
+"Exactly 3 of the following cities are in China: Jiaozhou, Shangqiu, Guwahati, and Jinan.",1
+"Exactly 3 of the following cities are in China: Hegang, Jingmen, Zhenjiang, and Goyang-si.",1
+"Exactly 2 of the following cities are in China: Lianyungang, Krasnoyarsk, Panzhihua, and Barquisimeto.",1
+"Exactly 1 of the following cities are in China: Zhabei, Mianzhu, Deyang, Sichuan, Nashik, and Makassar.",0
+"Exactly 2 of the following cities are in Bangladesh: Sarajevo, Homyel', Khulna, and Abeokuta.",0
+"Exactly 2 of the following cities are in South Africa: Pretoria, Mersin, Marrakesh, and Hamamatsu.",0
+"Exactly 2 of the following cities are in China: Yekaterinburg, Zaozhuang, Dortmund, and Dongying.",1
+"Exactly 2 of the following cities are in China: Tabriz, Naucalpan de Juarez, Sanming, and Jieyang.",1
+"Exactly 2 of the following cities are in Sudan: Taicang, Nyala, Pune, and Yiwu.",0
+"Exactly 2 of the following cities are in China: Weihai, Kagoshima, Diyarbakir, and Yingkou.",1
+"Exactly 2 of the following cities are in China: Laiwu, Queens, Rahim Yar Khan, and Lilongwe.",0
+"Exactly 1 of the following cities are in Brazil: Porto Alegre, Accra, Maiduguri, and Campos dos Goytacazes.",0
+"Exactly 1 of the following cities are in the Philippines: Davao, Winnipeg, Ansan-si, and Shivaji Nagar.",1
+"Exactly 2 of the following cities are in Brazil: Qinhuangdao, Brasilia, Zhangjiakou, and Winnipeg.",0
+"Exactly 1 of the following cities are in China: Hegang, Jingmen, Zhenjiang, and Goyang-si.",0
+"Exactly 2 of the following cities are in India: Aligarh, Rajshahi, Nashik, and Jingmen.",1
+"Exactly 1 of the following cities are in Brazil: Sao Jose dos Campos, Belo Horizonte, Panshan, and Cixi.",0
+"Exactly 3 of the following cities are in China: Goiania, Changshu, Diyarbakir, and Nanded.",0
+"Exactly 2 of the following cities are in China: Pingdingshan, Poznan, Makassar, and Anshan.",1
+"Exactly 1 of the following cities are in India: Bhiwandi, Bhavnagar, Yerevan, and Bhayandar.",0
+"Exactly 2 of the following cities are in Malaysia: Albuquerque, Kota Bharu, Denpasar, and Balikpapan.",0
+"Exactly 2 of the following cities are in China: Chenzhou, Wuhan, Yaounde, and Pasig City.",1
+"Exactly 2 of the following cities are in India: Guwahati, Ciudad Juarez, Maceio, and Shubra al Khaymah.",0
+"Exactly 2 of the following cities are in Vietnam: Harbin, Foshan, Can Tho, and Casablanca.",0
+"Exactly 2 of the following cities are in China: Bhayandar, Shuangyashan, Chaozhou, and Omdurman.",1
+"Exactly 1 of the following cities are in Bangladesh: Albuquerque, Hengyang, Chattogram, and Agadir.",1
+"Exactly 2 of the following cities are in Malaysia: Ipoh, Kunming, Queens, and Petaling Jaya.",1
+"Exactly 2 of the following cities are in India: Battagram, Ulhasnagar, Tiruchirappalli, and Shangyu.",1
+"Exactly 2 of the following cities are in Brazil: Odesa, Chiclayo, Al Mahallah al Kubra, and Aracaju.",0
+"Exactly 2 of the following cities are in China: Ziyang, Jiaxing, Sendai, and Abu Dhabi.",1
+"Exactly 2 of the following cities are in South Africa: Belo Horizonte, Dakar, Johannesburg, and Santo Domingo Oeste.",0
+"Exactly 2 of the following cities are in Canada: Krasnodar, Meerut, Almaty, and Winnipeg.",0
+"Exactly 2 of the following cities are in China: Wanxian, San Miguel de Tucuman, Kayseri, and Tonghua.",1
+"Exactly 2 of the following cities are in China: Mianzhu, Deyang, Sichuan, Hezhou, Lilongwe, and Antwerpen.",1
+"Exactly 2 of the following cities are in Malaysia: E'zhou, Kampung Baru Subang, Hachioji, and Comilla.",0
+"Exactly 2 of the following cities are in Saudi Arabia: Cheongju-si, Najran, Huainan, and Jeddah.",1
+"Exactly 3 of the following cities are in China: Vilnius, Pingdingshan, Nagpur, and Jambi City.",0
+"Exactly 2 of the following cities are in Ukraine: Banjarmasin, Salta, Zaporizhzhya, and Kyiv.",1
+"Exactly 2 of the following cities are in Canada: Vadodara, Calgary, Shubra al Khaymah, and Sharjah.",0
+"Exactly 2 of the following cities are in Brazil: Chennai, Karaj, Curitiba, and Jaboatao dos Guararapes.",1
+"Exactly 3 of the following cities are in China: Urumqi, E'zhou, Zhumadian, and Bucharest.",1
+"Exactly 2 of the following cities are in India: Yingkou, Bauchi, Cixi, and Bhiwandi.",0
+"Exactly 2 of the following cities are in Romania: Rajshahi, Gaziantep, Bucharest, and Ziyang.",0
+"Exactly 3 of the following cities are in China: Fukuoka, Zhangye, Zhangzhou, and Xianning.",1
+"Exactly 2 of the following cities are in the Democratic Republic of the Congo: Mbuji-Mayi, Banjarmasin, Niigata, and Riga.",0
+"Exactly 1 of the following cities are in Argentina: Salta, Chelyabinsk, Lusaka, and Cuiaba.",1
+"Exactly 1 of the following cities are in China: Jiujiang, Yibin, Ma'anshan, and Kryvyy Rih.",0
+"Exactly 2 of the following cities are in Kenya: Nairobi, Tegucigalpa, Al Mahallah al Kubra, and Jaboatao dos Guararapes.",0
+"Exactly 2 of the following cities are in Myanmar: Visakhapatnam, Kanpur, Ulyanovsk, and Mandalay.",0
+"Exactly 1 of the following cities are in China: Arak, Anqing, Shangrao, and Maracay.",0
+"Exactly 1 of the following cities are in China: Erode, Baghdad, Suqian, and Ya'an.",0
+"Exactly 1 of the following cities are in Syria: Queens, Sapporo, Homs, and Busan.",1
+"Exactly 2 of the following cities are in India: Chennai, Saratov, Kolkata, and Ulan Bator.",1
+"Exactly 2 of the following cities are in Nigeria: Bobo-Dioulasso, Maiduguri, Zibo, and Indore.",0
+"Exactly 2 of the following cities are in China: Asmara, Ya'an, Saratov, and Chenzhou.",1
+"Exactly 1 of the following cities are in Morocco: Cuttack, Agadir, Dalian, and Tlaquepaque.",1
+"Exactly 3 of the following cities are in Bulgaria: Duque de Caxias, Sofia, Bhopal, and Bilimora.",0
+"Exactly 3 of the following cities are in China: Longyan, Shenzhen, Meizhou, and Uberlandia.",1
+"Exactly 2 of the following cities are in China: Sanming, Santiago de Queretaro, Vijayawada, and Puning.",1
+"Exactly 2 of the following cities are in Turkey: Gaziantep, Krasnoyarsk, Bahcelievler, and Abu Dhabi.",1
+"Exactly 2 of the following cities are in Lithuania: Tokyo, Vilnius, Qinhuangdao, and Xuzhou.",0
+"Exactly 1 of the following cities are in Togo: Dandong, Lome, Chongqing, and Teresina.",1
+"Exactly 1 of the following cities are in China: Puning, Liupanshui, Jakarta, and Kitakyushu.",0
+"Exactly 2 of the following cities are in Bangladesh: Khulna, Santa Maria Chimalhuacan, Amman, and Wanxian.",0
+"Exactly 2 of the following cities are in Pakistan: Peshawar, Nay Pyi Taw, Londrina, and Bandar Lampung.",0
+"Exactly 2 of the following cities are in China: Contagem, Quetta, Klang, and Lianyungang.",0
+"Exactly 2 of the following cities are in Bangladesh: Milwaukee, Cucuta, Irbid, and Rajshahi.",0
+"Exactly 1 of the following cities are in Nigeria: Port Harcourt, Linyi, Luancheng, and Lubumbashi.",1
+"Exactly 2 of the following cities are in India: Dakar, Kolkata, Tiruchirappalli, and Reynosa.",1
+"Exactly 2 of the following cities are in Iran: Zarqa, Orumiyeh, Rajkot, and Makati City.",0
+"Exactly 1 of the following cities are in the Philippines: Omdurman, Porto Velho, Barquisimeto, and Quezon City.",1
+"Exactly 2 of the following cities are in Brazil: Porto Alegre, Kyiv, Bikaner, and Isfahan.",0
+"Exactly 2 of the following cities are in China: Kampung Baru Subang, Ribeirao Preto, Urumqi, and Changchun.",1
+"Exactly 1 of the following cities are in Nigeria: Borivli, Enugu, Anyang, and Zhaoqing.",1
+"Exactly 2 of the following cities are in Togo: Ufa, Zhengzhou, Lome, and Madinat an Nasr.",0
+"Exactly 2 of the following cities are in Russia: Islamabad, Yekaterinburg, Kalininskiy, and Tebessa.",1
+"Exactly 2 of the following cities are in Russia: Khabarovsk Vtoroy, Jiujiang, Zhaoqing, and Zaria.",0
+"Exactly 3 of the following cities are in Jordan: Sao Paulo, Irbid, Leon de los Aldama, and Wuwei.",0
+"Exactly 1 of the following cities are in China: Sao Jose dos Campos, Huaibei, Poznan, and Zhangjiakou.",0
+"Exactly 2 of the following cities are in Russia: Barranquilla, Vladivostok, Zigong, and Lipetsk.",1
+"Exactly 2 of the following cities are in China: Ar Raqqah, Suez, Vladivostok, and Luancheng.",0
+"Exactly 3 of the following cities are in China: Santo Domingo Este, Zaozhuang, Linyi, and Liupanshui.",1
+"Exactly 2 of the following cities are in Iran: Goeteborg, Oyo, Pikine, and Orumiyeh.",0
+"Exactly 2 of the following cities are in India: Rourkela, Juiz de Fora, Zarqa, and Koeln.",0
+"Exactly 2 of the following cities are in Brazil: Suez, Sao Bernardo do Campo, Siliguri, and Juiz de Fora.",1
+"Exactly 2 of the following cities are in Egypt: Al Mahallah al Kubra, Frankfurt am Main, Huzhou, and Santiago de Cuba.",0
+"Exactly 2 of the following cities are in China: Varanasi, Chandigarh, Asmara, and Binzhou.",0
+"Exactly 2 of the following cities are in Indonesia: Zhaotong, Guiyang, Chattogram, and Bandar Lampung.",0
+"Exactly 2 of the following cities are in India: Vijayawada, San Pedro Sula, Tirunelveli, and Macapa.",1
+"Exactly 2 of the following cities are in China: Wanxian, Riga, Warri, and Luancheng.",1
+"Exactly 2 of the following cities are in India: Mississauga, Bengaluru, Gwalior, and Qinhuangdao.",1
+"Exactly 2 of the following cities are in Algeria: Campos dos Goytacazes, Boumerdes, Shangluo, and Borivli.",0
+"Exactly 2 of the following cities are in China: Bareilly, Quzhou, Vadodara, and Chengdu.",1
+"Exactly 2 of the following cities are in Brazil: Santa Maria Chimalhuacan, Cuiaba, Aden, and Nanning.",0
+"Exactly 2 of the following cities are in India: Bandar Lampung, Chizhou, Amravati, and Siping.",0
+"Exactly 1 of the following cities are in Brazil: Beirut, Ganzhou, Brasilia, and Bareilly.",1
+"Exactly 2 of the following cities are in Russia: Foshan, Novosibirsk, Naucalpan de Juarez, and Xinyang.",0
+"Exactly 2 of the following cities are in India: Abobo, Bhayandar, Solapur, and Ya'an.",1
+"Exactly 2 of the following cities are in China: Boumerdes, Lianyungang, Yangon, and Pyongyang.",0
+"Exactly 2 of the following cities are in Mexico: Niamey, Indianapolis, Zapopan, and Mexico City.",1
+"Exactly 2 of the following cities are in China: Omsk, Jilin, Wenzhou, and Al Fayyum.",1
+"Exactly 1 of the following cities are in China: Panshan, Winnipeg, Jiaozuo, and Nay Pyi Taw.",0
+"Exactly 3 of the following cities are in China: Jiaozuo, Chelyabinsk, Siping, and Sanya.",1
+"Exactly 2 of the following cities are in India: Narela, Jiujiang, Lviv, and Tiruchirappalli.",1
+"Exactly 1 of the following cities are in China: Suez, Rui'an, Koeln, and Guiyang.",0
+"Exactly 1 of the following cities are in Pakistan: Las Pinas, Ghaziabad, Faisalabad, and Daejeon.",1
+"Exactly 1 of the following cities are in China: Qingdao, Fushun, Jieyang, and Pune.",0
+"Exactly 1 of the following cities are in Indonesia: Batam, Mombasa, Tirunelveli, and Ribeirao Preto.",1
+"Exactly 1 of the following cities are in China: Cape Town, Wuwei, Laibin, and Puente Alto.",0
+"Exactly 2 of the following cities are in Jamaica: Nyala, Suez, New Kingston, and Baotou.",0
+"Exactly 2 of the following cities are in China: Cimahi, Krasnoyarsk, Hebi, and Kaifeng.",1
+"Exactly 1 of the following cities are in Hungary: Ufa, Budapest, Barnaul, and Bobo-Dioulasso.",1
+"Exactly 2 of the following cities are in China: Xiaogan, Hefei, Duesseldorf, and Himeji.",1
+"Exactly 2 of the following cities are in India: Kolkata, Namangan, Sambhaji Nagar, and Benxi.",1
+"Exactly 1 of the following cities are in India: Nairobi, Managua, Faridabad, and Naucalpan de Juarez.",1
+"Exactly 1 of the following cities are in Indonesia: Luzhou, South Tangerang, Jilin, and Chenzhou.",1
+"Exactly 1 of the following cities are in India: Jiujiang, Durban, Najafgarh, and Changshu.",1
+"Exactly 1 of the following cities are in China: Solapur, Anshun, The Bronx, and Shubra al Khaymah.",1
+"Exactly 1 of the following cities are in China: Jiaozuo, Chelyabinsk, Siping, and Sanya.",0
+"Exactly 1 of the following cities are in China: Kalininskiy, Qingdao, Guang'an, and Suining.",0
+"Exactly 2 of the following cities are in Japan: Chengdu, Yaounde, Shizuoka, and Nagoya.",1
+"Exactly 1 of the following cities are in China: Suez, Bobo-Dioulasso, Sanya, and Zhabei.",0
+"Exactly 1 of the following cities are in China: Shangluo, Ansan-si, Hanoi, and Bengbu.",0
+"Exactly 2 of the following cities are in the United States: Hannover, Al Ain City, Detroit, and Bayannur.",0
+"Exactly 3 of the following cities are in Nigeria: Yaounde, Mukalla, Warri, and Volgograd.",0
+"Exactly 3 of the following cities are in Mexico: Mexico City, Sao Bernardo do Campo, Ciudad Nezahualcoyotl, and Yangjiang.",0
+"Exactly 1 of the following cities are in the Republic of the Congo: Aligarh, Brazzaville, Goyang-si, and Kobe.",1
+"Exactly 2 of the following cities are in Nigeria: Marseille, New York City, Ar Raqqah, and Warri.",0
+"Exactly 2 of the following cities are in India: Bhilai, Fuxin, Ulhasnagar, and Kimhae.",1
+"Exactly 2 of the following cities are in Mexico: Torreon, Krasnodar, Omsk, and Bangkok.",0
+"Exactly 2 of the following cities are in India: Tiruchirappalli, Wanxian, Baoji, and Tangier.",0
+"Exactly 1 of the following cities are in China: Shaoguan, Lianyungang, Prayagraj, and Antananarivo.",0
+"Exactly 2 of the following cities are in the United Arab Emirates: Nanning, Sharjah, Rourkela, and Quezon City.",0
+"Exactly 3 of the following cities are in North Korea: Hezhou, Pyongyang, Baoji, and Solapur.",0
+"Exactly 2 of the following cities are in Mexico: Mazar-e Sharif, San Luis Potosi, Pimpri, and Kigali.",0
+"Exactly 2 of the following cities are in China: Navi Mumbai, Kashgar, Erbil, and Zhenjiang.",1
+"Exactly 1 of the following cities are in Belarus: Minsk, Turin, Kathmandu, and Batam.",1
+"Exactly 2 of the following cities are in Nigeria: Bursa, Port Said, Kano, and Dar es Salaam.",0
+"Exactly 2 of the following cities are in Russia: Barnaul, Taguig, Lome, and Bhayandar.",0
+"Exactly 2 of the following cities are in India: Bhopal, Zarqa, Indore, and Contagem.",1
+"Exactly 2 of the following cities are in Turkey: Bahcelievler, Multan, Najafgarh, and Sambhaji Nagar.",0
+"Exactly 2 of the following cities are in Nigeria: Ibadan, Kashgar, Diyarbakir, and Krasnoyarsk.",0
+"Exactly 2 of the following cities are in Honduras: Deyang, Meknes, Abu Dhabi, and San Pedro Sula.",0
+"Exactly 2 of the following cities are in Brazil: Nanchang, Pune, Mukalla, and Belo Horizonte.",0
+"Exactly 2 of the following cities are in Russia: Rostov-na-Donu, Onitsha, Anqing, and Balikpapan.",0
+"Exactly 2 of the following cities are in China: Poznan, Langfang, Volgograd, and Xingtai.",1
+"Exactly 2 of the following cities are in China: Kaifeng, Sharjah, Maoming, and Salta.",1
+"Exactly 1 of the following cities are in Pakistan: Detroit, Karachi, Sanming, and Peshawar.",0
+"Exactly 2 of the following cities are in Malaysia: Subang Jaya, Kaduna, Chicago, and Klang.",1
+"Exactly 1 of the following cities are in Turkey: Diyarbakir, Hengyang, Shangqiu, and Chelyabinsk.",1
+"Exactly 1 of the following cities are in China: Cuttack, Jiaxing, Anyang, and Xiangtan.",0
+"Exactly 2 of the following cities are in China: Ar Raqqah, Jiangmen, Zhangye, and Johor Bahru.",1
+"Exactly 2 of the following cities are in China: Kozhikode, Guangzhou, Yunfu, and Oslo.",1
+"Exactly 1 of the following cities are in Russia: Amravati, Tomsk, Zhanjiang, and Nizhniy Novgorod.",0
+"Exactly 1 of the following cities are in China: Jeddah, Novosibirsk, Kawaguchi, and Shuangyashan.",1
+"Exactly 2 of the following cities are in Japan: Bouake, Kalininskiy, Hiroshima, and Kyoto.",1
+"Exactly 1 of the following cities are in Argentina: Quebec, Jiangyin, Puducherry, and Salta.",1
+"Exactly 2 of the following cities are in China: Irkutsk, Hamhung, Huangshi, and Jiaxing.",1
+"Exactly 2 of the following cities are in Jordan: Weinan, Huaibei, Battagram, and Zarqa.",0
+"Exactly 2 of the following cities are in China: Qinhuangdao, Wuhan, Kallakurichi, and Kimhae.",1
+"Exactly 2 of the following cities are in Iran: Ahmedabad, Arak, Jiangmen, and Amravati.",0
+"Exactly 1 of the following cities are in Russia: Comilla, Balikpapan, Volgograd, and Samarkand.",1
+"Exactly 1 of the following cities are in India: New Kingston, Bareilly, Gwalior, and Kampala.",0
+"Exactly 3 of the following cities are in China: Jiujiang, Yibin, Ma'anshan, and Kryvyy Rih.",1
+"Exactly 2 of the following cities are in Indonesia: Palembang, Malatya, Santiago de Cuba, and Siping.",0
+"Exactly 1 of the following cities are in the Philippines: Cebu City, Thane, Qingdao, and Porto Alegre.",1
+"Exactly 2 of the following cities are in Brazil: Suez, Joao Pessoa, Pretoria, and The Bronx.",0
+"Exactly 3 of the following cities are in China: Port-au-Prince, Sanmenxia, Linfen, and Xiangtan.",1
+"Exactly 2 of the following cities are in Mexico: Zapopan, Gwalior, Victoria de Durango, and Pietermaritzburg.",1
+"Exactly 1 of the following cities are in Brazil: Jiaozhou, Amman, Grosszschocher, and Cuiaba.",1
+"Exactly 1 of the following cities are in China: Neijiang, N'Djamena, Jiaxing, and Calgary.",0
+"Exactly 2 of the following cities are in China: Al Ahmadi, Urumqi, Joao Pessoa, and Langfang.",1
+"Exactly 2 of the following cities are in Iran: Ma'anshan, Kozhikode, Balikpapan, and Arak.",0
+"Exactly 2 of the following cities are in China: Hannover, Ordos, Najran, and Al Ahmadi.",0
+"Exactly 2 of the following cities are in Russia: Krasnoyarsk, Kitakyushu, Gwalior, and Bengaluru.",0
+"Exactly 2 of the following cities are in Russia: Wanxian, Tolyatti, Jiaxing, and Riga.",0
+"Exactly 1 of the following cities are in Nigeria: Tolyatti, Warri, Buraydah, and Port Harcourt.",0
+"Exactly 2 of the following cities are in China: Makhachkala, Shuangyashan, Zhangzhou, and Contagem.",1
+"Exactly 1 of the following cities are in Japan: Hiroshima, Puente Alto, Jeonju, and Shihezi.",1
+"Exactly 2 of the following cities are in China: Erode, Baghdad, Suqian, and Ya'an.",1
+"Exactly 1 of the following cities are in China: Laibin, Erzurum, Subang Jaya, and Huaibei.",0
+"Exactly 2 of the following cities are in India: Guarulhos, Chennai, Varanasi, and Kampala.",1
+"Exactly 2 of the following cities are in China: Omsk, Wanning, Jiangyin, and Pietermaritzburg.",1
+"Exactly 3 of the following cities are in China: Cuttack, Jiaxing, Anyang, and Xiangtan.",1
+"Exactly 1 of the following cities are in Japan: Saitama, Sanmenxia, Sanming, and Jiaxing.",1
+"Exactly 2 of the following cities are in Chad: Abeokuta, N'Djamena, Oslo, and Kumasi.",0
+"Exactly 2 of the following cities are in India: Soweto, Faridabad, Vadodara, and Quetta.",1
+"Exactly 2 of the following cities are in Nigeria: Anshun, Harbin, Beijing, and Enugu.",0
+"Exactly 1 of the following cities are in Yemen: Rui'an, Taiz, Sarajevo, and Xingtai.",1
+"Exactly 2 of the following cities are in China: Kozhikode, Shijiazhuang, Jiaozhou, and Grosszschocher.",1
