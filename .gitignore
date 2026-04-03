@@ -2,3 +2,5 @@ test_output/
 probe_output/
 __pycache__/
 *.pyc
+*.qsub
+.vscode
