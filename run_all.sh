@@ -3,7 +3,7 @@ set -euo pipefail
 
 MODEL="meta-llama/Llama-3.1-8B-Instruct"
 MODEL_TAG="Llama-3.1-8B-Instruct"
-INSTRUCTIONS=("no-prompt" "ask-correct")
+INSTRUCTIONS=("no-prompt" "ask-correct" "ask-tf" "ask-able")
 
 ARITH_DATASETS=("arith_1op" "arith_2ops" "arith_3ops")
 FACT_DATASETS=(

@@ -16,7 +16,7 @@ The full pipeline has three steps: (1) collect model activations, (2) train line
 
 ### Step 1 & 2: Activation collection and probe training
 
-A script is provided for running both steps for all 9 datasets and 2 instruction settings:
+A script is provided for running both steps for all 9 datasets and 4 instruction settings (no-prompt, ask-correct, ask-tf, ask-able):
 
 ```bash
 ./run_all.sh
@@ -56,6 +56,6 @@ Once activations and probes are generated, open and run `reproduce_main_figures.
 
 - **GPU**: For loading Llama-3.1-8B-Instruct in float16 and running inference.
 - **Disk**: ~25 GB for storing activations across all datasets and instructions, and probe outputs.
-- **Time**: It took us ~2 hours on a single A100 for running th full pipeline (all 18 runs). 
+- **Time**: It took us ~4 hours on a single A100 for running the full pipeline (all 36 runs). 
 
-*The code has been cleaned up using Claude Code (Opus 4.6).
+*The code has been cleaned up using Claude Code (Opus 4.8).
