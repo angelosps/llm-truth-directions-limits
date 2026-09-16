@@ -1,6 +1,5 @@
 import pickle
 import random
-import re
 
 import numpy as np
 import pandas as pd
@@ -39,19 +38,3 @@ def collapse_activations(acts, token_mode):
     if token_mode == "last":
         return {k: v[-1].copy() for k, v in acts.items()}
     raise ValueError("token_mode must be 'all' or 'last'")
-
-
-def split_numeric_prompt(numeric_prompt):
-    idx = numeric_prompt.rfind("=")
-    if idx == -1:
-        raise ValueError("No '=' found in input")
-    prefix = numeric_prompt[: idx + 1].strip()
-    raw_ans = numeric_prompt[idx + 1 :].strip()
-    ans = re.sub(r"[^\d\.\-]+$", "", raw_ans)
-    return prefix + " ", ans
-
-
-def clean_correct_answer(answer_text):
-    split_idx = answer_text.find("####")
-    final_part = answer_text[split_idx + 5 :].strip()
-    return "".join(ch for ch in final_part if ch.isdigit())

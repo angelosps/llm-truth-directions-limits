@@ -27,9 +27,6 @@ class LRProbe(nn.Module):
     def forward(self, x):
         return torch.sigmoid(self.score(x))
 
-    def predict(self, x):
-        return (self.score(x) > 0).float()
-
     def direction(self):
         return self.linear.weight.data[0]
 
