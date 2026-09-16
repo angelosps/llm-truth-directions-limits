@@ -58,4 +58,4 @@ Once activations and probes are generated, open and run `reproduce_main_figures.
 - **Disk**: ~25 GB for storing activations across all datasets and instructions, and probe outputs.
 - **Time**: It took us ~4 hours on a single A100 for running the full pipeline (all 36 runs). 
 
-*The code has been cleaned up using Claude Code (Opus 4.8).
+*The code has been cleaned up using Claude Code (Opus 5).
