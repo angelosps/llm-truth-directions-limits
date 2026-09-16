@@ -31,7 +31,8 @@ class LRProbe(nn.Module):
         return self.linear.weight.data[0]
 
     @staticmethod
-    def train_probe(X, y, lr=1e-3, weight_decay=0.1, epochs=1000):
+    def train_probe(X, y, lr=1e-3, weight_decay=0.1, epochs=1000, seed=42):
+        torch.manual_seed(seed)  # pin nn.Linear's random init
         probe = LRProbe(X.shape[1])
         probe.mean.copy_(X.mean(0))
 
@@ -98,12 +99,15 @@ def train_per_layer(X_by_layer, y, test_size=0.3, seed=42):
     directions, means, rows = {}, {}, []
 
     for lk, X in X_by_layer.items():
+        layer_idx = int(LAYER_RE.search(lk).group(1))
         Xtr = torch.tensor(X[tr_idx]).float()
         ytr = torch.tensor(y[tr_idx]).float()
         Xte = torch.tensor(X[te_idx]).float()
         yte = y[te_idx]
 
-        probe = LRProbe.train_probe(Xtr, ytr)
+        # Offset the seed per layer so a probe is identical whether the layer is
+        # trained on its own or as part of a full sweep.
+        probe = LRProbe.train_probe(Xtr, ytr, seed=seed + layer_idx)
         w = probe.direction().detach().numpy()
         directions[lk] = w
         means[lk] = probe.mean.detach().numpy()
@@ -111,7 +115,6 @@ def train_per_layer(X_by_layer, y, test_size=0.3, seed=42):
         scores = probe.score(Xte).detach().numpy()
         acc = accuracy_score(yte, (scores > 0).astype(int))
         auroc = roc_auc_score(yte, scores)
-        layer_idx = int(LAYER_RE.search(lk).group(1))
         rows.append({"layer": lk, "layer_idx": layer_idx,
                       "acc": acc, "auroc": auroc,
                       "n_train": len(tr_idx), "n_test": len(te_idx)})
