@@ -21,11 +21,14 @@ class LRProbe(nn.Module):
         self.linear = nn.Linear(d_in, 1, bias=False)
         self.register_buffer("mean", torch.zeros(d_in))
 
+    def score(self, x):
+        return self.linear(x - self.mean).squeeze(-1)
+
     def forward(self, x):
-        return torch.sigmoid(self.linear(x - self.mean)).squeeze(-1)
+        return torch.sigmoid(self.score(x))
 
     def predict(self, x):
-        return (self.forward(x) > 0.5).float()
+        return (self.score(x) > 0).float()
 
     def direction(self):
         return self.linear.weight.data[0]
@@ -34,14 +37,14 @@ class LRProbe(nn.Module):
     def train_probe(X, y, lr=1e-3, weight_decay=0.1, epochs=1000):
         probe = LRProbe(X.shape[1])
         probe.mean.copy_(X.mean(0))
-        centered = X - probe.mean
 
         optimizer = torch.optim.Adam(probe.parameters(), lr=lr, weight_decay=weight_decay)
         loss_fn = nn.BCELoss()
 
+        # Pass X directly; forward() centers by itself
         for _ in range(epochs):
             optimizer.zero_grad()
-            loss = loss_fn(probe(centered), y)
+            loss = loss_fn(probe(X), y)
             loss.backward()
             optimizer.step()
 
@@ -108,9 +111,9 @@ def train_per_layer(X_by_layer, y, test_size=0.3, seed=42):
         directions[lk] = w
         means[lk] = probe.mean.detach().numpy()
 
-        preds = probe.predict(Xte).detach().numpy()
-        acc = accuracy_score(yte, preds)
-        auroc = roc_auc_score(yte, preds)
+        scores = probe.score(Xte).detach().numpy()
+        acc = accuracy_score(yte, (scores > 0).astype(int))
+        auroc = roc_auc_score(yte, scores)
         layer_idx = int(LAYER_RE.search(lk).group(1))
         rows.append({"layer": lk, "layer_idx": layer_idx,
                       "acc": acc, "auroc": auroc,

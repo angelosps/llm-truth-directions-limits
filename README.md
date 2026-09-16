@@ -1,6 +1,6 @@
 # Testing the Limits of Truth Directions in LLMs
 
-Code for reproducing the main results and figures of the paper.
+Code for the paper [*Testing the Limits of Truth Directions in LLMs*](https://arxiv.org/abs/2604.03754), BlackboxNLP 2026.
 
 ## Setup
 
